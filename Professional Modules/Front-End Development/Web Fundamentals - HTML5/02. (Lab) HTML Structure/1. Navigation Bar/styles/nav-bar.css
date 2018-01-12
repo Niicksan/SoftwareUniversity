@@ -1,0 +1,27 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #cccccc;
+}
+
+nav#topmenu ul {
+	list-style: none;
+	background-color: #444;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+
+
+ li {
+	display: inline-block;
+	font-size: 24px;
+	line-height: 40px;
+	height: 40px;
+	padding: 20px;
+}
+
+nav#topmenu a {
+	text-decoration: none;
+	color: #ffffff;
+}

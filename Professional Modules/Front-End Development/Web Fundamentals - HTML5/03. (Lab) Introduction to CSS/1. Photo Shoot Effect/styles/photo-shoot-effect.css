@@ -1,0 +1,119 @@
+ @import "https://fonts.googleapis.com/css?family=Lato:300,400,900";
+
+ *{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	background-color: #355664;
+	color: #fcfcfc;
+	width: 960px;
+	margin: 0 auto;
+}
+
+h1, h2, h3 {
+	font-family: forte,Arial,sans-serif;
+	text-align: center;
+    text-transform: uppercase;
+
+}
+
+h1 {
+	font-size: 50px;
+	padding: 10px 0 0;
+	text-align: center;
+}
+
+h2 {
+	font-size: 40px;
+	letter-spacing: 15px;
+	text-align: center;
+	text-transform: uppercase;
+	border-bottom: 3px solid #416371;
+	padding-bottom: 20px;
+}
+
+h3 {
+	text-align: right;
+	font-size: 30px;
+	font-weight: normal;
+	margin: 0 0 10px;
+}
+
+p {
+	line-height: 20px;
+	padding-bottom: 5px;
+}
+
+figure + p {
+	color: #94c258;
+}
+
+img {
+	width: 500px;
+	height: 300px;
+	border: none;
+}
+
+div.article-content {
+	margin: 15px 0;
+}
+
+nav {
+	background-color: #355664;
+	padding: 0 5px;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+nav ul li a {
+	color: #ffffff;
+	display: inline-block;
+	font-size: 30px;
+	text-transform: uppercase;
+	padding: 7px 10px 4px;
+	margin: 5px 2px; 
+}
+
+nav ul li:nth-child(1)> a {
+	color: #7CB3E9;
+	font-size: 30px;
+	text-transform: lowercase;
+}
+
+ul > li:nth-child(2)> a{
+	color: #8EC45B;
+	font-size: 30px;
+	text-transform: none;
+}
+
+nav, article, nav ul li a, figure {
+	border-radius: 10px; 
+}
+
+article {
+	background-color: #213E4A;
+	height: 390px;
+	padding: 20px;
+	margin: 0 0 10px;
+}
+
+figure {
+	width: 500px;
+	height: 300px;
+	float: right;
+	border: 3px solid #142830;
+	margin-left: 15px;
+}
+
+footer {
+	font-size: 20px;
+	text-align: center;
+	border-top: 3px solid #142830;
+	padding-top: 15px;
+	margin-bottom: 30px; 
+}
