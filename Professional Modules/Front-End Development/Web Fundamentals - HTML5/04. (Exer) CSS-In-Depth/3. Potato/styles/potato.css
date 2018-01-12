@@ -1,0 +1,182 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400,900");
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font: 14px 'Lato', sans-serif;
+	color: #ffffff;
+}
+
+header {
+	background: radial-gradient(ellipse at center,
+  		rgba(192,169,145,1) 0%,
+ 	 	rgba(192,169,145,1) 59%,
+  		rgba(168,143,121,1) 100%);
+}
+
+nav {
+	float: left; 
+	width: 93%;
+	padding: 2%;
+	color: #ffffff;
+}
+
+.nav-primary {
+	float: right;
+}
+
+.brand {
+	display: inline-block;
+	font-size: 2em;
+	font-weight: bold;
+	margin: 0;
+}
+
+.nav-item {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+.nav-item a {
+	color: #ffffff;
+	text-decoration: none;
+	text-transform: uppercase;
+    border-radius: 25px;
+    border: 1px solid transparent;
+    padding: 10px;
+}
+
+.nav-item:last-of-type a {
+	border: 1px solid #ffffff;
+}
+
+.nav-item a:hover {
+    background-color: rgba(134, 114, 96, 0.7);
+    border: 1px solid rgba(134, 114, 96, 0.7);
+}
+
+.header-title {
+	font-size: 3.5em;
+	font-weight: normal;
+	text-align: center;
+	text-transform: capitalize;
+	padding-top: 200px;
+	margin-bottom: 30px;  
+}
+
+.header-subtitle {
+	font-weight: lighter;
+	text-align: center;
+	text-transform: capitalize;
+	margin-bottom: 40px;
+}
+
+.header-potato {
+	display: block;
+	width: 30%;
+    margin: 45px auto 0;
+}
+
+.features {
+	background: url('../images/potato-background.png'), no-repeat;
+	background-size: cover;
+	text-align: center;
+	color: #373535;
+	padding-bottom: 100px;
+}
+
+.features-title {
+	font-size: 3em;
+	font-weight: lighter;
+	padding-top: 200px;
+	text-transform: capitalize;
+}
+
+.features-subtitle {
+	font-weight: 1.5em;
+	font-weight: lighter;
+	width: 50%;
+	margin: 0 auto;
+}
+
+.buy-now {
+	background: #FAFAFA;
+	color: #373535;
+	text-align: center;
+	padding-bottom: 30px; 
+}
+
+.order-title {
+	font-size: 3.5em;
+	color: #373535;
+	font-weight: 300;
+	text-transform: capitalize;
+	margin: 0 0 50px;
+}
+
+.potato {
+	display: inline-block;;
+	width: 20%;
+	height: 500px; 
+    vertical-align: top;
+    border-right: 1px solid #CECECE;
+}
+
+.potato-img {
+    width: 75%;
+    vertical-align: bottom;
+}
+
+.potato-features {
+    padding: 0;
+    list-style: none;
+}
+
+.potato-title {
+	font-size: 1.5em;
+	text-transform: capitalize;
+	font-weight: normal;
+	margin: bottom;
+}
+
+.potato-description {
+	color: #B7B6B5;
+    padding: 12px 0;
+}
+
+.btn-order {
+	background: transparent;
+	color: #9ACD32;
+	font-size: 1.2em;
+	text-transform: uppercase;
+	padding: 5px 15px;
+    margin-top: 15px;
+    border: 1px solid #9ACD32;
+    border-radius: 15px;
+}
+
+.btn-order:hover {
+    background-color: #9ACD32;
+    cursor: pointer;
+    color: #ffffff;
+}
+
+.potato-price {
+    color: #7B7A77;
+    font-size: 0.85em;
+    margin-bottom: 35px;
+}
+
+footer {
+	background: #867260;
+}
+
+.footer-text {
+	color: #ffffff;
+	text-align: center;
+	padding: 20px 0 10px;
+	margin: 0;
+}
