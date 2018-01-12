@@ -1,0 +1,75 @@
+ul, li, div, section, a {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: #292929;
+}
+
+footer {
+	height: 150px;
+	margin: 0 auto;
+}
+
+h2 {
+	text-transform: uppercase;
+}
+
+section {
+	color: #ffffff;
+	float: left;
+	height: 150px;
+	padding: 20px;
+	margin-left: 10px;
+}
+
+ul {
+	list-style: none;
+}
+
+a {
+	color: #b5b498;
+	font-size: 30px;
+	text-transform: capitalize;
+	text-decoration: none;
+}
+
+footer > section > div div {
+	display: inline-block;
+	width: 70px;
+	height: 58px;
+	background: url("../images/social.jpg");
+}
+
+.twitter {
+	background-position: 772px 126px;
+}
+
+.linkedin {
+	background-position: 642px 126px;
+}
+
+.youtube {
+	background-position: 325px 126px;
+}
+
+.facebook, .twitter, .youtube, .linkedin {
+	cursor: pointer;
+}
+
+.facebook:hover { 
+	background-position: 0 60px; 
+}
+
+.linkedin:hover { 
+	background-position: 642px 63px; 
+}
+
+.youtube:hover { 
+	background-position: 325px 63px;
+}
+
+.twitter:hover { 
+	background-position: -66px 63px; 
+}
