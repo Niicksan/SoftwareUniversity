@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:700|Open+Sans:400,700');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+* {
+	padding: 0;
+	margin: 0; 
+}
+
+body {
+	font: 14px "Open Sans", Arial, sans-serif;
+}
+
+aside {
+	display: inline-block;
+	background: #ffffff;
+	width: 15%;
+	float: left;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0 auto;
+}
+
+aside > h1 {
+	font: 38px "Comfortaa", sans-serif;
+	color: #333333;
+	text-transform: none;
+	margin: 30px auto;
+}
+
+aside > figure > img {
+	width: 50%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
+
+aside > figcaption {
+	color: #b1bfc6;
+	margin: 10px auto;
+}
+
+aside > nav > ul {
+	text-align: left;
+	list-style: none;
+	margin: 25px auto;
+}
+
+aside > nav > ul > li {
+	padding: 0 20px;
+	margin: 25px auto;
+}
+
+.fa {
+	margin-right: 10px;
+}
+
+aside > nav > ul > li > a {
+	color: #b1bfc6;
+	font-size: 0.85em;
+	letter-spacing: 2px;
+	text-decoration: none;
+}
+
+aside > nav > ul > li > a:hover {
+	color: #3F4744;
+}
+
+main {
+	background: #f3f5f7;
+	float: left;
+	width: 85%;
+}
+
+div {
+	margin-left: 40px;
+}
+
+header h2 {
+	display: inline-block;
+	color: #3F4744;
+	font-size: 2em;
+	font-weight: lighter;
+	margin: 50px 0 20px;
+}
+
+span {
+	color: #94A4AC;
+}
+
+header button {
+	background: #ff7739;
+	color: #ffffff;
+	float: right;
+	text-transform: uppercase;
+	border: 2px solid #ff7739;
+	border-radius: 20px;
+	padding: 8px 18px; 
+	margin: 50px;
+}
+
+.fa-angle-down {
+	margin: 0 0 0 5px;
+}
+
+header button:hover {
+	background: #ffffff;
+	color: #ff7739;
+	cursor: pointer;
+}
+
+.name {
+	color: #3F4744;
+	font-size: 0.8em;
+	font-weight: bold;
+	text-transform: capitalize;
+	margin: 10px 0; 
+}
+
+.address {
+	font-size: 0.7em;
+	text-transform: capitalize;
+	margin-bottom: 20px;
+}
+
+article {
+	position: relative;
+	display: inline-block;
+	background: #ffffff;
+	width: 22%;
+	margin-right: 2%;
+	margin-bottom: 10px;
+	box-shadow: 8px 6px 17px -1px rgba(0,0,0,0.26); 
+}
+
+article > img {
+	width: 100%;
+	padding-top: 20px;
+}
+
+article > p {
+	color: #3F4744;
+	text-transform: capitalize;
+	padding: 0px 20px 7px;
+}
+
+main section:first-of-type article:first-of-type {
+    opacity: 0.6;
+}
+
+.check {
+	position: relative;
+	top: 60px;
+	left: -15px; 
+	font-size: 12px;
+	color: #ffffff;
+	text-transform: uppercase;
+	border-radius: 20px;
+	padding: 5px 15px
+}
+
+.rented, .draft {
+    background-color: #91A5AE;
+    border: 1px solid #91A5AE;
+}
+
+.listed {
+	background: #68bc69;
+	border: 1px solid #68bc69;
+}

@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css?family=Lemon');
+@font-face {
+    font-family: 'Lemon';
+    src: url('fonts/Lemon-Regular.ttf');
+}
+
+* {
+	padding: 0;
+	margin: 0; 
+}
+
+body {
+	background: #602D75;
+	font-family: 'Lemon', Arial;
+}
+
+#wrapper {
+	background: #FFAE32;
+	font-size: 15px;
+	text-align: center;
+	color: #ffffff;
+	width: 900px;
+	border-radius: 30px;
+	margin: 40px auto;
+	padding-bottom: 25px;
+}
+
+h1 {
+	font-size: 24px;
+	color: black;
+	text-transform: capitalize;
+	font-weight: bolder;
+	padding: 20px 0; 
+}
+
+article {
+	display: inline-block;
+	background: #5F2056;
+	width: 220px;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	padding-bottom: 10px; 
+	margin: 0 25px; 
+}
+
+article h2 {
+	font-size: 22px;
+}
+
+article h3 {
+	color: #FFC950;
+}
+
+article img {
+	width: 88%;
+	height: 197px;
+	border: 4px solid #826B73;
+	border-radius: 50%;
+}
+
+article ul li{
+	list-style: none;
+	text-align: left;
+	font-weight: bolder;
+	padding-left: 15px;
+}
+
+button {
+	background: #ffffff;
+	color: #954BFF;
+	width: 95%;	
+	font-family: 'Lemon';
+	font-style: italic;
+	font-weight: bolder;
+	border: 1px solid #8C8A8B;
+	border-radius: 10px;
+	padding: 4px 0;
+	margin: 15px auto;
+}
+
+button:hover {
+	color: black;
+}

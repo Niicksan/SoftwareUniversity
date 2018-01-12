@@ -1,0 +1,84 @@
+@font-face {
+    font-family: Vollkorn;
+    src: url('fonts/Vollkorn-Regular.ttf');
+}
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: Vollkorn, serif;
+	font-size: 16px;
+	color: #778495;
+	margin: 0 auto;
+}
+
+main {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+	margin: 35px 0 10px;
+}
+
+article {
+	display: inline-block;
+	position: relative;
+	width: 31.2%;
+	height: 490px;
+	float: left;
+	border: 1px solid #E9E9EB;
+	margin: 0.8%
+}
+
+h3 {
+	background: #EBEFF2;
+	font-size: 30px;
+	text-align: center;
+	font-weight: normal;
+	text-transform: capitalize;
+	width: 100%;
+	padding: 30px 0;
+}
+
+.price {
+	font-size: 60px;
+	font-family: bold;
+	text-align: center;
+	margin: 10px 0 20px;
+}
+
+ul li {
+	list-style-type: none;
+	border-bottom: 1px solid #F0F0F0;
+	width: 88%;
+	padding: 3px 0;
+	margin: 10px auto;
+}
+
+button {
+	background: #DDDDDD;
+	color: #ffffff;
+	position: absolute;
+	width: 82%;
+	height: 50px;
+	bottom: 3%;
+	left: 9%; 
+	border: none;
+	border-radius: 10px;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+article:hover > h3, article:hover > button {
+	background: #65D3E2;
+}
+
+article:hover > .price {
+	color: #65D3E2;
+}
