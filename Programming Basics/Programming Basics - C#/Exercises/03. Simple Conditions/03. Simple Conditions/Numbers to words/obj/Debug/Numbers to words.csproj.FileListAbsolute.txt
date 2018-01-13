@@ -1,0 +1,7 @@
+E:\училище\SoftUni 2k017 C3\if - else clause\Numbers to words\bin\Debug\Numbers to words.exe.config
+E:\училище\SoftUni 2k017 C3\if - else clause\Numbers to words\bin\Debug\Numbers to words.exe
+E:\училище\SoftUni 2k017 C3\if - else clause\Numbers to words\bin\Debug\Numbers to words.pdb
+E:\училище\SoftUni 2k017 C3\if - else clause\Numbers to words\obj\Debug\Numbers to words.csproj.CoreCompileInputs.cache
+E:\училище\SoftUni 2k017 C3\if - else clause\Numbers to words\obj\Debug\Numbers to words.exe
+E:\училище\SoftUni 2k017 C3\if - else clause\Numbers to words\obj\Debug\Numbers to words.pdb
+E:\училище\SoftUni 2k017 C3\if - else clause\Numbers to words\obj\Debug\Numbers to words.csprojResolveAssemblyReference.cache
