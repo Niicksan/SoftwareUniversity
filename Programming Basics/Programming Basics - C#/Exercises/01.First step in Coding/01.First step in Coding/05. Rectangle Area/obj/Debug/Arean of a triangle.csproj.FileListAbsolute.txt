@@ -1,0 +1,6 @@
+E:\училище\SoftUni 2k017 C3\Solution1\Arean of a triangle\bin\Debug\Arean of a triangle.exe.config
+E:\училище\SoftUni 2k017 C3\Solution1\Arean of a triangle\bin\Debug\Arean of a triangle.exe
+E:\училище\SoftUni 2k017 C3\Solution1\Arean of a triangle\bin\Debug\Arean of a triangle.pdb
+E:\училище\SoftUni 2k017 C3\Solution1\Arean of a triangle\obj\Debug\Arean of a triangle.csproj.CoreCompileInputs.cache
+E:\училище\SoftUni 2k017 C3\Solution1\Arean of a triangle\obj\Debug\Arean of a triangle.exe
+E:\училище\SoftUni 2k017 C3\Solution1\Arean of a triangle\obj\Debug\Arean of a triangle.pdb
