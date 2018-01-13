@@ -1,0 +1,7 @@
+E:\училище\SoftUni 2k017 C3\Solution1\Hello World\bin\Debug\Hello World.exe.config
+E:\училище\SoftUni 2k017 C3\Solution1\Hello World\bin\Debug\Hello World.exe
+E:\училище\SoftUni 2k017 C3\Solution1\Hello World\bin\Debug\Hello World.pdb
+E:\училище\SoftUni 2k017 C3\Solution1\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+E:\училище\SoftUni 2k017 C3\Solution1\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+E:\училище\SoftUni 2k017 C3\Solution1\Hello World\obj\Debug\Hello World.exe
+E:\училище\SoftUni 2k017 C3\Solution1\Hello World\obj\Debug\Hello World.pdb
