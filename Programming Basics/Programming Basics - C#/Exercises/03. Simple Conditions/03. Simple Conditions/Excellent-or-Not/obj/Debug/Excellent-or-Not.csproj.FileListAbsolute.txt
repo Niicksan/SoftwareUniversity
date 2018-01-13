@@ -1,0 +1,6 @@
+E:\училище\SoftUni 2k017 C3\if - else clause\Excellent-or-Not\bin\Debug\Excellent-or-Not.exe.config
+E:\училище\SoftUni 2k017 C3\if - else clause\Excellent-or-Not\bin\Debug\Excellent-or-Not.exe
+E:\училище\SoftUni 2k017 C3\if - else clause\Excellent-or-Not\bin\Debug\Excellent-or-Not.pdb
+E:\училище\SoftUni 2k017 C3\if - else clause\Excellent-or-Not\obj\Debug\Excellent-or-Not.csproj.CoreCompileInputs.cache
+E:\училище\SoftUni 2k017 C3\if - else clause\Excellent-or-Not\obj\Debug\Excellent-or-Not.exe
+E:\училище\SoftUni 2k017 C3\if - else clause\Excellent-or-Not\obj\Debug\Excellent-or-Not.pdb
