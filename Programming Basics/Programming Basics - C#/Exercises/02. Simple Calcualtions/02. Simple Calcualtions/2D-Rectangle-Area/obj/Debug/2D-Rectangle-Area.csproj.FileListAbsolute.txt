@@ -1,0 +1,6 @@
+E:\училище\SoftUni 2k017 C3\Simple-Calculations (HM)\2D-Rectangle-Area\bin\Debug\2D-Rectangle-Area.exe.config
+E:\училище\SoftUni 2k017 C3\Simple-Calculations (HM)\2D-Rectangle-Area\bin\Debug\2D-Rectangle-Area.exe
+E:\училище\SoftUni 2k017 C3\Simple-Calculations (HM)\2D-Rectangle-Area\bin\Debug\2D-Rectangle-Area.pdb
+E:\училище\SoftUni 2k017 C3\Simple-Calculations (HM)\2D-Rectangle-Area\obj\Debug\2D-Rectangle-Area.csproj.CoreCompileInputs.cache
+E:\училище\SoftUni 2k017 C3\Simple-Calculations (HM)\2D-Rectangle-Area\obj\Debug\2D-Rectangle-Area.exe
+E:\училище\SoftUni 2k017 C3\Simple-Calculations (HM)\2D-Rectangle-Area\obj\Debug\2D-Rectangle-Area.pdb

@@ -1,0 +1,7 @@
+E:\училище\SoftUni 2k017 C3\Simple-Calculations (HM)\Concatenate-Data\obj\Debug\Concatenate-Data.csproj.CoreCompileInputs.cache
+E:\училище\SoftUni 2k017 C3\Simple-Calculations (HM)\Concatenate-Data\bin\Debug\Concatenate-Data.exe.config
+E:\училище\SoftUni 2k017 C3\Simple-Calculations (HM)\Concatenate-Data\bin\Debug\Concatenate-Data.exe
+E:\училище\SoftUni 2k017 C3\Simple-Calculations (HM)\Concatenate-Data\bin\Debug\Concatenate-Data.pdb
+E:\училище\SoftUni 2k017 C3\Simple-Calculations (HM)\Concatenate-Data\obj\Debug\Concatenate-Data.csprojResolveAssemblyReference.cache
+E:\училище\SoftUni 2k017 C3\Simple-Calculations (HM)\Concatenate-Data\obj\Debug\Concatenate-Data.exe
+E:\училище\SoftUni 2k017 C3\Simple-Calculations (HM)\Concatenate-Data\obj\Debug\Concatenate-Data.pdb
