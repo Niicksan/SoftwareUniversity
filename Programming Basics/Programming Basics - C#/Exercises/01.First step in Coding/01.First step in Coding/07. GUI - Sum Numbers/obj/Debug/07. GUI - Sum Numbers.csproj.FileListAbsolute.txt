@@ -1,0 +1,10 @@
+E:\School\SoftUni 2k017 C3\Solution1\Sumator\bin\Debug\Sumator.exe.config
+E:\School\SoftUni 2k017 C3\Solution1\Sumator\bin\Debug\Sumator.exe
+E:\School\SoftUni 2k017 C3\Solution1\Sumator\bin\Debug\Sumator.pdb
+E:\School\SoftUni 2k017 C3\Solution1\Sumator\obj\Debug\07. GUI - Sum Numbers.csprojResolveAssemblyReference.cache
+E:\School\SoftUni 2k017 C3\Solution1\Sumator\obj\Debug\Sumator.FormCalculate.resources
+E:\School\SoftUni 2k017 C3\Solution1\Sumator\obj\Debug\Sumator.Properties.Resources.resources
+E:\School\SoftUni 2k017 C3\Solution1\Sumator\obj\Debug\07. GUI - Sum Numbers.csproj.GenerateResource.Cache
+E:\School\SoftUni 2k017 C3\Solution1\Sumator\obj\Debug\07. GUI - Sum Numbers.csproj.CoreCompileInputs.cache
+E:\School\SoftUni 2k017 C3\Solution1\Sumator\obj\Debug\Sumator.exe
+E:\School\SoftUni 2k017 C3\Solution1\Sumator\obj\Debug\Sumator.pdb
