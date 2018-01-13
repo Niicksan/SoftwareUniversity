@@ -1,0 +1,7 @@
+E:\училище\SoftUni 2k017 C3\Solution1\Numbers 1 To 20\bin\Debug\Numbers 1 To 20.exe.config
+E:\училище\SoftUni 2k017 C3\Solution1\Numbers 1 To 20\bin\Debug\Numbers 1 To 20.exe
+E:\училище\SoftUni 2k017 C3\Solution1\Numbers 1 To 20\bin\Debug\Numbers 1 To 20.pdb
+E:\училище\SoftUni 2k017 C3\Solution1\Numbers 1 To 20\obj\Debug\Numbers 1 To 20.csproj.CoreCompileInputs.cache
+E:\училище\SoftUni 2k017 C3\Solution1\Numbers 1 To 20\obj\Debug\Numbers 1 To 20.exe
+E:\училище\SoftUni 2k017 C3\Solution1\Numbers 1 To 20\obj\Debug\Numbers 1 To 20.pdb
+E:\училище\SoftUni 2k017 C3\Solution1\Numbers 1 To 20\obj\Debug\Numbers 1 To 20.csprojResolveAssemblyReference.cache
