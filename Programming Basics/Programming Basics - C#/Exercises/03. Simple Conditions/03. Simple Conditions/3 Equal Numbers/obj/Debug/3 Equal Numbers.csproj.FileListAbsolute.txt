@@ -1,0 +1,7 @@
+E:\училище\SoftUni 2k017 C3\if - else clause\3 Equal Numbers\obj\Debug\3 Equal Numbers.csprojResolveAssemblyReference.cache
+E:\училище\SoftUni 2k017 C3\if - else clause\3 Equal Numbers\obj\Debug\3 Equal Numbers.csproj.CoreCompileInputs.cache
+E:\училище\SoftUni 2k017 C3\if - else clause\3 Equal Numbers\bin\Debug\3 Equal Numbers.exe.config
+E:\училище\SoftUni 2k017 C3\if - else clause\3 Equal Numbers\bin\Debug\3 Equal Numbers.exe
+E:\училище\SoftUni 2k017 C3\if - else clause\3 Equal Numbers\bin\Debug\3 Equal Numbers.pdb
+E:\училище\SoftUni 2k017 C3\if - else clause\3 Equal Numbers\obj\Debug\3 Equal Numbers.exe
+E:\училище\SoftUni 2k017 C3\if - else clause\3 Equal Numbers\obj\Debug\3 Equal Numbers.pdb

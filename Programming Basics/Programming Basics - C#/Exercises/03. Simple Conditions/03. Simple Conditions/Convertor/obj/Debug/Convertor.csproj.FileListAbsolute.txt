@@ -1,0 +1,7 @@
+E:\училище\SoftUni 2k017 C3\if - else clause\Convertor\bin\Debug\Convertor.exe.config
+E:\училище\SoftUni 2k017 C3\if - else clause\Convertor\bin\Debug\Convertor.exe
+E:\училище\SoftUni 2k017 C3\if - else clause\Convertor\bin\Debug\Convertor.pdb
+E:\училище\SoftUni 2k017 C3\if - else clause\Convertor\obj\Debug\Convertor.csproj.CoreCompileInputs.cache
+E:\училище\SoftUni 2k017 C3\if - else clause\Convertor\obj\Debug\Convertor.exe
+E:\училище\SoftUni 2k017 C3\if - else clause\Convertor\obj\Debug\Convertor.pdb
+E:\училище\SoftUni 2k017 C3\if - else clause\Convertor\obj\Debug\Convertor.csprojResolveAssemblyReference.cache
