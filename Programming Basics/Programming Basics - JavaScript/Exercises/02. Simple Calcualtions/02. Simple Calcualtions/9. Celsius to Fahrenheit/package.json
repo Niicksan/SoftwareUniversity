@@ -1,0 +1,9 @@
+{
+  "name": "9.-celsius-to-fahrenheit",
+  "version": "0.0.0",
+  "description": "9. Celsius to Fahrenheit",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

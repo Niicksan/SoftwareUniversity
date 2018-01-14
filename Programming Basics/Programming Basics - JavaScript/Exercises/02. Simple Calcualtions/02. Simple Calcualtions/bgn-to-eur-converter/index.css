@@ -1,0 +1,49 @@
+﻿body {
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+}
+
+.content-form {
+    background: #234465;
+    width: 50%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px #808080,
+                5px 5px 10px #6793c1 inset;
+    padding: 5px 5px 10px;
+    margin: 5% auto;
+}
+
+.title {
+    text-align: center;
+}
+
+.items {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.currency {
+    padding-bottom: 15px;
+    margin: auto;
+}
+
+.item-currency {
+    font-weight: 700;
+}
+
+.currency-value {
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.primary-btn {
+    background: #ffa000;
+    color: #ffffff;
+    font-weight: 700;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 30px;
+    margina: uto;
+}

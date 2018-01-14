@@ -1,0 +1,9 @@
+{
+  "name": "catch-the-mouse",
+  "version": "0.0.0",
+  "description": "catch-the-mouse",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

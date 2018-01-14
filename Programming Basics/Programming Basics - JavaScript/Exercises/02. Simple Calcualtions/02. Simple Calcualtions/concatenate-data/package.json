@@ -1,0 +1,9 @@
+{
+  "name": "concatenate-data",
+  "version": "0.0.0",
+  "description": "concatenate-data",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}
