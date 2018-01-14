@@ -1,0 +1,14 @@
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Square n x n\bin\Debug\Square n x n.exe.config
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Square n x n\bin\Debug\Square n x n.exe
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Square n x n\bin\Debug\Square n x n.pdb
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Square n x n\obj\Debug\Square n x n.csproj.CoreCompileInputs.cache
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Square n x n\obj\Debug\Square n x n.exe
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Square n x n\obj\Debug\Square n x n.pdb
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Square n x n\obj\Debug\Square n x n.csprojResolveAssemblyReference.cache
+E:\School\SoftUni 2k017 C3\Dwow with Loops\Square n x n\bin\Debug\Square n x n.exe.config
+E:\School\SoftUni 2k017 C3\Dwow with Loops\Square n x n\bin\Debug\Square n x n.exe
+E:\School\SoftUni 2k017 C3\Dwow with Loops\Square n x n\bin\Debug\Square n x n.pdb
+E:\School\SoftUni 2k017 C3\Dwow with Loops\Square n x n\obj\Debug\Square n x n.csprojResolveAssemblyReference.cache
+E:\School\SoftUni 2k017 C3\Dwow with Loops\Square n x n\obj\Debug\Square n x n.csproj.CoreCompileInputs.cache
+E:\School\SoftUni 2k017 C3\Dwow with Loops\Square n x n\obj\Debug\Square n x n.exe
+E:\School\SoftUni 2k017 C3\Dwow with Loops\Square n x n\obj\Debug\Square n x n.pdb

@@ -1,0 +1,6 @@
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Triangle dolars\obj\Debug\Triangle dolars.csproj.CoreCompileInputs.cache
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Triangle dolars\bin\Debug\Triangle dolars.exe.config
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Triangle dolars\bin\Debug\Triangle dolars.exe
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Triangle dolars\bin\Debug\Triangle dolars.pdb
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Triangle dolars\obj\Debug\Triangle dolars.exe
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Triangle dolars\obj\Debug\Triangle dolars.pdb
