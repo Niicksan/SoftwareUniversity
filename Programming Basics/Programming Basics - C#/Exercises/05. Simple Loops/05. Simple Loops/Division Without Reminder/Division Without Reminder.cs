@@ -1,0 +1,49 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Division_Without_Reminder
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Coding 101 Exam - 26 March 2016
+            int n = int.Parse(Console.ReadLine());
+
+            double contP1 = 0;
+            double contP2 = 0;
+            double contP3 = 0;
+
+            for (int num = 1; num <= n; num++)
+            {
+                int currentNum = int.Parse(Console.ReadLine());
+
+                if (currentNum % 4 == 0)
+                {
+                    contP3++;
+                }
+
+                if (currentNum % 3 == 0)
+                {
+                    contP2++;
+                }
+
+                if (currentNum % 2 == 0)
+                {
+                    contP1++;
+                }
+            }
+
+            double p1 = (contP1 * 100.00) / n;
+            double p2 = (contP2 * 100.00) / n;
+            double p3 = (contP3 * 100.00) / n;
+
+            Console.WriteLine(string.Format("{0:f2}%", p1));
+            Console.WriteLine(string.Format("{0:f2}%", p2));
+            Console.WriteLine(string.Format("{0:f2}%", p3));
+        }
+    }
+}

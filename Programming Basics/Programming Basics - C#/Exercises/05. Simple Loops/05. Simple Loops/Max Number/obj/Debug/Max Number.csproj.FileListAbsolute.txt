@@ -1,0 +1,7 @@
+C:\Users\NIk\source\repos\Loops Eercises\Max Number\obj\Debug\Max Number.csprojResolveAssemblyReference.cache
+C:\Users\NIk\source\repos\Loops Eercises\Max Number\obj\Debug\Max Number.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Loops Eercises\Max Number\bin\Debug\Max Number.exe.config
+C:\Users\NIk\source\repos\Loops Eercises\Max Number\bin\Debug\Max Number.exe
+C:\Users\NIk\source\repos\Loops Eercises\Max Number\bin\Debug\Max Number.pdb
+C:\Users\NIk\source\repos\Loops Eercises\Max Number\obj\Debug\Max Number.exe
+C:\Users\NIk\source\repos\Loops Eercises\Max Number\obj\Debug\Max Number.pdb

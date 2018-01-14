@@ -1,0 +1,7 @@
+C:\Users\NIk\source\repos\Loops Eercises\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\NIk\source\repos\Loops Eercises\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\NIk\source\repos\Loops Eercises\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\NIk\source\repos\Loops Eercises\ConsoleApp1\obj\Debug\Odd - Even Position.csprojResolveAssemblyReference.cache
+C:\Users\NIk\source\repos\Loops Eercises\ConsoleApp1\obj\Debug\Odd - Even Position.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Loops Eercises\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\NIk\source\repos\Loops Eercises\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

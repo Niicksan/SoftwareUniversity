@@ -1,0 +1,7 @@
+C:\Users\NIk\source\repos\Loops Eercises\Half Sum Element\bin\Debug\Half Sum Element.exe.config
+C:\Users\NIk\source\repos\Loops Eercises\Half Sum Element\bin\Debug\Half Sum Element.exe
+C:\Users\NIk\source\repos\Loops Eercises\Half Sum Element\bin\Debug\Half Sum Element.pdb
+C:\Users\NIk\source\repos\Loops Eercises\Half Sum Element\obj\Debug\Half Sum Element.csprojResolveAssemblyReference.cache
+C:\Users\NIk\source\repos\Loops Eercises\Half Sum Element\obj\Debug\Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Loops Eercises\Half Sum Element\obj\Debug\Half Sum Element.exe
+C:\Users\NIk\source\repos\Loops Eercises\Half Sum Element\obj\Debug\Half Sum Element.pdb

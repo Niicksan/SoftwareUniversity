@@ -1,0 +1,6 @@
+C:\Users\NIk\source\repos\Loops Eercises\Min Number\bin\Debug\Min Number.exe.config
+C:\Users\NIk\source\repos\Loops Eercises\Min Number\bin\Debug\Min Number.exe
+C:\Users\NIk\source\repos\Loops Eercises\Min Number\bin\Debug\Min Number.pdb
+C:\Users\NIk\source\repos\Loops Eercises\Min Number\obj\Debug\Min Number.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Loops Eercises\Min Number\obj\Debug\Min Number.exe
+C:\Users\NIk\source\repos\Loops Eercises\Min Number\obj\Debug\Min Number.pdb

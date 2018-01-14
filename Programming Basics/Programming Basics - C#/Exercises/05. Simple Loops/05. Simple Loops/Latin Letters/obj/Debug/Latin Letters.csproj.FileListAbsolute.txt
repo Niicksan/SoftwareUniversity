@@ -1,0 +1,6 @@
+C:\Users\NIk\source\repos\Loops Eercises\Latin Letters\bin\Debug\Latin Letters.exe.config
+C:\Users\NIk\source\repos\Loops Eercises\Latin Letters\bin\Debug\Latin Letters.exe
+C:\Users\NIk\source\repos\Loops Eercises\Latin Letters\bin\Debug\Latin Letters.pdb
+C:\Users\NIk\source\repos\Loops Eercises\Latin Letters\obj\Debug\Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Loops Eercises\Latin Letters\obj\Debug\Latin Letters.exe
+C:\Users\NIk\source\repos\Loops Eercises\Latin Letters\obj\Debug\Latin Letters.pdb
