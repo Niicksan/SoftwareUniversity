@@ -1,0 +1,7 @@
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\3. Santas Holiday\bin\Debug\_3.Santas_Holiday.exe.config
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\3. Santas Holiday\bin\Debug\_3.Santas_Holiday.exe
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\3. Santas Holiday\bin\Debug\_3.Santas_Holiday.pdb
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\3. Santas Holiday\obj\Debug\3. Santas Holiday.csprojResolveAssemblyReference.cache
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\3. Santas Holiday\obj\Debug\3. Santas Holiday.csproj.CoreCompileInputs.cache
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\3. Santas Holiday\obj\Debug\_3.Santas_Holiday.exe
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\3. Santas Holiday\obj\Debug\_3.Santas_Holiday.pdb

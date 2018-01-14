@@ -1,0 +1,6 @@
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\5. Christmas Toy\bin\Debug\_5.Christmas_Toy.exe.config
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\5. Christmas Toy\bin\Debug\_5.Christmas_Toy.exe
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\5. Christmas Toy\bin\Debug\_5.Christmas_Toy.pdb
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\5. Christmas Toy\obj\Debug\5. Christmas Toy.csproj.CoreCompileInputs.cache
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\5. Christmas Toy\obj\Debug\_5.Christmas_Toy.exe
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\5. Christmas Toy\obj\Debug\_5.Christmas_Toy.pdb

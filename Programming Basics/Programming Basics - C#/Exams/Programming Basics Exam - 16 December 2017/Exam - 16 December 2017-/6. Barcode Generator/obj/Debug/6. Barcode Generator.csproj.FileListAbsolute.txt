@@ -1,0 +1,7 @@
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\6. Barcode Generator\bin\Debug\_6.Barcode_Generator.exe.config
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\6. Barcode Generator\bin\Debug\_6.Barcode_Generator.exe
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\6. Barcode Generator\bin\Debug\_6.Barcode_Generator.pdb
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\6. Barcode Generator\obj\Debug\6. Barcode Generator.csprojResolveAssemblyReference.cache
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\6. Barcode Generator\obj\Debug\6. Barcode Generator.csproj.CoreCompileInputs.cache
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\6. Barcode Generator\obj\Debug\_6.Barcode_Generator.exe
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\6. Barcode Generator\obj\Debug\_6.Barcode_Generator.pdb

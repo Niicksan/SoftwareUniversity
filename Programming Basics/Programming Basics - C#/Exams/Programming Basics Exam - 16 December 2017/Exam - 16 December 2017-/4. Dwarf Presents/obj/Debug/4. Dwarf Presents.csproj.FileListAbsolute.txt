@@ -1,0 +1,7 @@
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\4. Dwarf Presents\bin\Debug\_4.Dwarf_Presents.exe.config
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\4. Dwarf Presents\bin\Debug\_4.Dwarf_Presents.exe
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\4. Dwarf Presents\bin\Debug\_4.Dwarf_Presents.pdb
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\4. Dwarf Presents\obj\Debug\4. Dwarf Presents.csprojResolveAssemblyReference.cache
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\4. Dwarf Presents\obj\Debug\4. Dwarf Presents.csproj.CoreCompileInputs.cache
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\4. Dwarf Presents\obj\Debug\_4.Dwarf_Presents.exe
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\4. Dwarf Presents\obj\Debug\_4.Dwarf_Presents.pdb

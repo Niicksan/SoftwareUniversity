@@ -1,0 +1,6 @@
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\2. Deer of Santa\obj\Debug\2. Deer of Santa.csproj.CoreCompileInputs.cache
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\2. Deer of Santa\bin\Debug\_2.Deer_of_Santa.exe.config
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\2. Deer of Santa\bin\Debug\_2.Deer_of_Santa.exe
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\2. Deer of Santa\bin\Debug\_2.Deer_of_Santa.pdb
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\2. Deer of Santa\obj\Debug\_2.Deer_of_Santa.exe
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Exam - 16 December 2017\Exam - 16 December 2017-\2. Deer of Santa\obj\Debug\_2.Deer_of_Santa.pdb
