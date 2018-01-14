@@ -1,0 +1,9 @@
+{
+  "name": "13.-point-in-the-figure",
+  "version": "0.0.0",
+  "description": "13. Point in the Figure",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

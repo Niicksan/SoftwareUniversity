@@ -1,0 +1,9 @@
+{
+  "name": "01.-personal-titles",
+  "version": "0.0.0",
+  "description": "01. Personal Titles",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

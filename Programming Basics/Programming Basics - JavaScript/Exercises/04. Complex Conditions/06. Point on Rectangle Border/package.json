@@ -1,0 +1,9 @@
+{
+  "name": "06.-point-on-rectangle-border",
+  "version": "0.0.0",
+  "description": "06. Point on Rectangle Border",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "05.-invalid-number",
+  "version": "0.0.0",
+  "description": "05. Invalid Number",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

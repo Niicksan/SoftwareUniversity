@@ -1,0 +1,9 @@
+{
+  "name": "10.-animal-type",
+  "version": "0.0.0",
+  "description": "10. Animal Type",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

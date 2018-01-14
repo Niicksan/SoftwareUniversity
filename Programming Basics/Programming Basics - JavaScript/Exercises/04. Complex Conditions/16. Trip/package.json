@@ -1,0 +1,9 @@
+{
+  "name": "16.-trip",
+  "version": "0.0.0",
+  "description": "16. Trip",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

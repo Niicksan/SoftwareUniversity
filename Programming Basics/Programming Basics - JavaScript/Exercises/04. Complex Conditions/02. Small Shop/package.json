@@ -1,0 +1,9 @@
+{
+  "name": "02.-small-shop",
+  "version": "0.0.0",
+  "description": "02. Small Shop",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}
