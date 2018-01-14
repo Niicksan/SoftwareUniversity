@@ -1,0 +1,9 @@
+{
+  "name": "04.-greater-number",
+  "version": "0.0.0",
+  "description": "04. Greater Number",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "02.-excellent-or-not",
+  "version": "0.0.0",
+  "description": "02. Excellent Or Not",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

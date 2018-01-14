@@ -1,0 +1,9 @@
+{
+  "name": "01.-excellent-result",
+  "version": "0.0.0",
+  "description": "01. Excellent Result",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

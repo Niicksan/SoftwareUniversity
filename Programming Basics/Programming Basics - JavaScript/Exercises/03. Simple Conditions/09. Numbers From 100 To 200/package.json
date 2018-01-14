@@ -1,0 +1,9 @@
+{
+  "name": "09.-numbers-from-100-to-200",
+  "version": "0.0.0",
+  "description": "09. Numbers From 100 To 200",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

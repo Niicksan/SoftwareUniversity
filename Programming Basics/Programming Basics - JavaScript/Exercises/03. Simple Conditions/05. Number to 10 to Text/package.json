@@ -1,0 +1,9 @@
+{
+  "name": "05.-number-to-10-to-text",
+  "version": "0.0.0",
+  "description": "05. Number to 10 to Text",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}
