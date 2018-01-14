@@ -1,0 +1,12 @@
+{
+  "name": "06.square-of-stars",
+  "version": "0.0.0",
+  "description": "06.SquareOfStars",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  },
+  "dependencies": {
+    "electron-init": "^1.0.0"
+  }
+}
