@@ -1,0 +1,7 @@
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Programming Basics Exam - 17 July 2016\Exam - 17 July 2016\1. Money\bin\Debug\_1.Money.exe.config
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Programming Basics Exam - 17 July 2016\Exam - 17 July 2016\1. Money\bin\Debug\_1.Money.exe
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Programming Basics Exam - 17 July 2016\Exam - 17 July 2016\1. Money\bin\Debug\_1.Money.pdb
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Programming Basics Exam - 17 July 2016\Exam - 17 July 2016\1. Money\obj\Debug\1. Money.csprojResolveAssemblyReference.cache
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Programming Basics Exam - 17 July 2016\Exam - 17 July 2016\1. Money\obj\Debug\1. Money.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Programming Basics Exam - 17 July 2016\Exam - 17 July 2016\1. Money\obj\Debug\_1.Money.exe
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Programming Basics Exam - 17 July 2016\Exam - 17 July 2016\1. Money\obj\Debug\_1.Money.pdb
