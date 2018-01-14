@@ -1,0 +1,7 @@
+E:\училище\SoftUni 2k017 C3\Complex-Conditions\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\училище\SoftUni 2k017 C3\Complex-Conditions\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\училище\SoftUni 2k017 C3\Complex-Conditions\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\училище\SoftUni 2k017 C3\Complex-Conditions\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\училище\SoftUni 2k017 C3\Complex-Conditions\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\училище\SoftUni 2k017 C3\Complex-Conditions\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\училище\SoftUni 2k017 C3\Complex-Conditions\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
