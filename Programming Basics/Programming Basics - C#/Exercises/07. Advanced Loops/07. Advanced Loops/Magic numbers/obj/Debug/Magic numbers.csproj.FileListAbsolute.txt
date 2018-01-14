@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Advance Loops\Magic numbers\bin\Debug\Magic numbers.exe.config
+c:\users\nik\source\repos\Advance Loops\Magic numbers\bin\Debug\Magic numbers.exe
+c:\users\nik\source\repos\Advance Loops\Magic numbers\bin\Debug\Magic numbers.pdb
+c:\users\nik\source\repos\Advance Loops\Magic numbers\obj\Debug\Magic numbers.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Advance Loops\Magic numbers\obj\Debug\Magic numbers.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Advance Loops\Magic numbers\obj\Debug\Magic numbers.exe
+c:\users\nik\source\repos\Advance Loops\Magic numbers\obj\Debug\Magic numbers.pdb

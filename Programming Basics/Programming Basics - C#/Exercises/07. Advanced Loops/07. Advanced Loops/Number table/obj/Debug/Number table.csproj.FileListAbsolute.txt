@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Advance Loops\Number table\obj\Debug\Number table.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Advance Loops\Number table\bin\Debug\Number table.exe.config
+c:\users\nik\source\repos\Advance Loops\Number table\bin\Debug\Number table.exe
+c:\users\nik\source\repos\Advance Loops\Number table\bin\Debug\Number table.pdb
+c:\users\nik\source\repos\Advance Loops\Number table\obj\Debug\Number table.exe
+c:\users\nik\source\repos\Advance Loops\Number table\obj\Debug\Number table.pdb
+c:\users\nik\source\repos\Advance Loops\Number table\obj\Debug\Number table.csprojResolveAssemblyReference.cache
