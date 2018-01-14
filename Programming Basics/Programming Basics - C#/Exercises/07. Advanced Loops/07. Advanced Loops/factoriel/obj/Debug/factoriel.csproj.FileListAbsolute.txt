@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Advance Loops\factoriel\bin\Debug\factoriel.exe.config
+c:\users\nik\source\repos\Advance Loops\factoriel\bin\Debug\factoriel.exe
+c:\users\nik\source\repos\Advance Loops\factoriel\bin\Debug\factoriel.pdb
+c:\users\nik\source\repos\Advance Loops\factoriel\obj\Debug\factoriel.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Advance Loops\factoriel\obj\Debug\factoriel.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Advance Loops\factoriel\obj\Debug\factoriel.exe
+c:\users\nik\source\repos\Advance Loops\factoriel\obj\Debug\factoriel.pdb

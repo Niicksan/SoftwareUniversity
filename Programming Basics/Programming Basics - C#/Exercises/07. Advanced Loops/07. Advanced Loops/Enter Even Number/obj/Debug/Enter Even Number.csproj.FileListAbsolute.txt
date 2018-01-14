@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Advance Loops\Enter Even Number\bin\Debug\Enter Even Number.exe.config
+c:\users\nik\source\repos\Advance Loops\Enter Even Number\bin\Debug\Enter Even Number.exe
+c:\users\nik\source\repos\Advance Loops\Enter Even Number\bin\Debug\Enter Even Number.pdb
+c:\users\nik\source\repos\Advance Loops\Enter Even Number\obj\Debug\Enter Even Number.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Advance Loops\Enter Even Number\obj\Debug\Enter Even Number.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Advance Loops\Enter Even Number\obj\Debug\Enter Even Number.exe
+c:\users\nik\source\repos\Advance Loops\Enter Even Number\obj\Debug\Enter Even Number.pdb

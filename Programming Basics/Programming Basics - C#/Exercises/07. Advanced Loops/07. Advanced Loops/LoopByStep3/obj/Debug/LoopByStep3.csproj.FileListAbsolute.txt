@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Advance Loops\LoopByStep3\bin\Debug\LoopByStep3.exe.config
+c:\users\nik\source\repos\Advance Loops\LoopByStep3\bin\Debug\LoopByStep3.exe
+c:\users\nik\source\repos\Advance Loops\LoopByStep3\bin\Debug\LoopByStep3.pdb
+c:\users\nik\source\repos\Advance Loops\LoopByStep3\obj\Debug\LoopByStep3.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Advance Loops\LoopByStep3\obj\Debug\LoopByStep3.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Advance Loops\LoopByStep3\obj\Debug\LoopByStep3.exe
+c:\users\nik\source\repos\Advance Loops\LoopByStep3\obj\Debug\LoopByStep3.pdb

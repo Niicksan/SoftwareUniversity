@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Advance Loops\CGD)\bin\Debug\CGD).exe.config
+c:\users\nik\source\repos\Advance Loops\CGD)\bin\Debug\CGD).exe
+c:\users\nik\source\repos\Advance Loops\CGD)\bin\Debug\CGD).pdb
+c:\users\nik\source\repos\Advance Loops\CGD)\obj\Debug\CGD.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Advance Loops\CGD)\obj\Debug\CGD.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Advance Loops\CGD)\obj\Debug\CGD).exe
+c:\users\nik\source\repos\Advance Loops\CGD)\obj\Debug\CGD).pdb

@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Advance Loops\Even Powers of 2\bin\Debug\Even Powers of 2.exe.config
+c:\users\nik\source\repos\Advance Loops\Even Powers of 2\bin\Debug\Even Powers of 2.exe
+c:\users\nik\source\repos\Advance Loops\Even Powers of 2\bin\Debug\Even Powers of 2.pdb
+c:\users\nik\source\repos\Advance Loops\Even Powers of 2\obj\Debug\Even Powers of 2.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Advance Loops\Even Powers of 2\obj\Debug\Even Powers of 2.exe
+c:\users\nik\source\repos\Advance Loops\Even Powers of 2\obj\Debug\Even Powers of 2.pdb
+c:\users\nik\source\repos\Advance Loops\Even Powers of 2\obj\Debug\Even Powers of 2.csprojResolveAssemblyReference.cache
