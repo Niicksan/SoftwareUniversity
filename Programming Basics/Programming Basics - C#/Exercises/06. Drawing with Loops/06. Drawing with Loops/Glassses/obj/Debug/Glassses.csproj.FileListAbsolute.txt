@@ -1,0 +1,14 @@
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Glassses\obj\Debug\Glassses.csproj.CoreCompileInputs.cache
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Glassses\bin\Debug\Glassses.exe.config
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Glassses\bin\Debug\Glassses.exe
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Glassses\bin\Debug\Glassses.pdb
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Glassses\obj\Debug\Glassses.exe
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Glassses\obj\Debug\Glassses.pdb
+E:\училище\SoftUni 2k017 C3\Dwow with Loops\Glassses\obj\Debug\Glassses.csprojResolveAssemblyReference.cache
+E:\School\SoftUni 2k017 C3\Dwow with Loops\Glassses\bin\Debug\Glassses.exe.config
+E:\School\SoftUni 2k017 C3\Dwow with Loops\Glassses\bin\Debug\Glassses.exe
+E:\School\SoftUni 2k017 C3\Dwow with Loops\Glassses\bin\Debug\Glassses.pdb
+E:\School\SoftUni 2k017 C3\Dwow with Loops\Glassses\obj\Debug\Glassses.csprojResolveAssemblyReference.cache
+E:\School\SoftUni 2k017 C3\Dwow with Loops\Glassses\obj\Debug\Glassses.csproj.CoreCompileInputs.cache
+E:\School\SoftUni 2k017 C3\Dwow with Loops\Glassses\obj\Debug\Glassses.exe
+E:\School\SoftUni 2k017 C3\Dwow with Loops\Glassses\obj\Debug\Glassses.pdb
