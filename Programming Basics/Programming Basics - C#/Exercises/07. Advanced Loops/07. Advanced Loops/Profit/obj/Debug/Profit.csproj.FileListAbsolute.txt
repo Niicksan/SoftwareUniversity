@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Advance Loops\Profit\bin\Debug\Profit.exe.config
+c:\users\nik\source\repos\Advance Loops\Profit\bin\Debug\Profit.exe
+c:\users\nik\source\repos\Advance Loops\Profit\bin\Debug\Profit.pdb
+c:\users\nik\source\repos\Advance Loops\Profit\obj\Debug\Profit.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Advance Loops\Profit\obj\Debug\Profit.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Advance Loops\Profit\obj\Debug\Profit.exe
+c:\users\nik\source\repos\Advance Loops\Profit\obj\Debug\Profit.pdb

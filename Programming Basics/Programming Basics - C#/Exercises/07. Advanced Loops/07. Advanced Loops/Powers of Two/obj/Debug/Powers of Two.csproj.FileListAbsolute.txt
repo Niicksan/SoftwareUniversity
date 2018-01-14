@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Advance Loops\Powers of Two\bin\Debug\Powers of Two.exe.config
+c:\users\nik\source\repos\Advance Loops\Powers of Two\bin\Debug\Powers of Two.exe
+c:\users\nik\source\repos\Advance Loops\Powers of Two\bin\Debug\Powers of Two.pdb
+c:\users\nik\source\repos\Advance Loops\Powers of Two\obj\Debug\Powers of Two.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Advance Loops\Powers of Two\obj\Debug\Powers of Two.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Advance Loops\Powers of Two\obj\Debug\Powers of Two.exe
+c:\users\nik\source\repos\Advance Loops\Powers of Two\obj\Debug\Powers of Two.pdb

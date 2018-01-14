@@ -1,0 +1,14 @@
+c:\users\nik\source\repos\Advance Loops\Priime number\bin\Debug\Priime number.exe.config
+c:\users\nik\source\repos\Advance Loops\Priime number\bin\Debug\Priime number.exe
+c:\users\nik\source\repos\Advance Loops\Priime number\bin\Debug\Priime number.pdb
+c:\users\nik\source\repos\Advance Loops\Priime number\obj\Debug\Priime number.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Advance Loops\Priime number\obj\Debug\Priime number.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Advance Loops\Priime number\obj\Debug\Priime number.exe
+c:\users\nik\source\repos\Advance Loops\Priime number\obj\Debug\Priime number.pdb
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exercises\07. Advanced Loops\07. Advanced Loops\Priime number\bin\Debug\Priime number.exe.config
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exercises\07. Advanced Loops\07. Advanced Loops\Priime number\bin\Debug\Priime number.exe
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exercises\07. Advanced Loops\07. Advanced Loops\Priime number\bin\Debug\Priime number.pdb
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exercises\07. Advanced Loops\07. Advanced Loops\Priime number\obj\Debug\Priime number.csprojResolveAssemblyReference.cache
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exercises\07. Advanced Loops\07. Advanced Loops\Priime number\obj\Debug\Priime number.csproj.CoreCompileInputs.cache
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exercises\07. Advanced Loops\07. Advanced Loops\Priime number\obj\Debug\Priime number.exe
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exercises\07. Advanced Loops\07. Advanced Loops\Priime number\obj\Debug\Priime number.pdb
