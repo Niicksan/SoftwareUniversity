@@ -1,0 +1,7 @@
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Coding 101 Exam - 26 March 2016\Exam - 26 March 2016\1. Vegetable Market\bin\Debug\_1.Vegetable_Market.exe.config
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Coding 101 Exam - 26 March 2016\Exam - 26 March 2016\1. Vegetable Market\bin\Debug\_1.Vegetable_Market.exe
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Coding 101 Exam - 26 March 2016\Exam - 26 March 2016\1. Vegetable Market\bin\Debug\_1.Vegetable_Market.pdb
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Coding 101 Exam - 26 March 2016\Exam - 26 March 2016\1. Vegetable Market\obj\Debug\1. Vegetable Market.csprojResolveAssemblyReference.cache
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Coding 101 Exam - 26 March 2016\Exam - 26 March 2016\1. Vegetable Market\obj\Debug\1. Vegetable Market.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Coding 101 Exam - 26 March 2016\Exam - 26 March 2016\1. Vegetable Market\obj\Debug\_1.Vegetable_Market.exe
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Coding 101 Exam - 26 March 2016\Exam - 26 March 2016\1. Vegetable Market\obj\Debug\_1.Vegetable_Market.pdb

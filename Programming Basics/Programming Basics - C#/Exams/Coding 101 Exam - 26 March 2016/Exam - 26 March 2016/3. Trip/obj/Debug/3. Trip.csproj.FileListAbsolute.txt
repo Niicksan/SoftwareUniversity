@@ -1,0 +1,6 @@
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Coding 101 Exam - 26 March 2016\Exam - 26 March 2016\3. Trip\bin\Debug\_3.Trip.exe.config
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Coding 101 Exam - 26 March 2016\Exam - 26 March 2016\3. Trip\bin\Debug\_3.Trip.exe
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Coding 101 Exam - 26 March 2016\Exam - 26 March 2016\3. Trip\bin\Debug\_3.Trip.pdb
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Coding 101 Exam - 26 March 2016\Exam - 26 March 2016\3. Trip\obj\Debug\3. Trip.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Coding 101 Exam - 26 March 2016\Exam - 26 March 2016\3. Trip\obj\Debug\_3.Trip.exe
+E:\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exams\Coding 101 Exam - 26 March 2016\Exam - 26 March 2016\3. Trip\obj\Debug\_3.Trip.pdb
