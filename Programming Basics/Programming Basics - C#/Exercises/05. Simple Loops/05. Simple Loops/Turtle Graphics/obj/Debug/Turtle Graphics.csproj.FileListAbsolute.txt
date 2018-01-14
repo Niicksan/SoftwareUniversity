@@ -1,0 +1,11 @@
+C:\Users\NIk\source\repos\Loops Eercises\Turtle Graphics\bin\Debug\Turtle Graphics.exe.config
+C:\Users\NIk\source\repos\Loops Eercises\Turtle Graphics\bin\Debug\Turtle Graphics.exe
+C:\Users\NIk\source\repos\Loops Eercises\Turtle Graphics\bin\Debug\Turtle Graphics.pdb
+C:\Users\NIk\source\repos\Loops Eercises\Turtle Graphics\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\NIk\source\repos\Loops Eercises\Turtle Graphics\obj\Debug\Turtle Graphics.csprojResolveAssemblyReference.cache
+C:\Users\NIk\source\repos\Loops Eercises\Turtle Graphics\obj\Debug\Turtle_Graphics.FormTurtleGraphics.resources
+C:\Users\NIk\source\repos\Loops Eercises\Turtle Graphics\obj\Debug\Turtle_Graphics.Properties.Resources.resources
+C:\Users\NIk\source\repos\Loops Eercises\Turtle Graphics\obj\Debug\Turtle Graphics.csproj.GenerateResource.Cache
+C:\Users\NIk\source\repos\Loops Eercises\Turtle Graphics\obj\Debug\Turtle Graphics.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Loops Eercises\Turtle Graphics\obj\Debug\Turtle Graphics.exe
+C:\Users\NIk\source\repos\Loops Eercises\Turtle Graphics\obj\Debug\Turtle Graphics.pdb

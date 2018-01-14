@@ -1,0 +1,7 @@
+C:\Users\NIk\source\repos\Loops Eercises\Sum Numbers\bin\Debug\Sum Numbers.exe.config
+C:\Users\NIk\source\repos\Loops Eercises\Sum Numbers\bin\Debug\Sum Numbers.exe
+C:\Users\NIk\source\repos\Loops Eercises\Sum Numbers\bin\Debug\Sum Numbers.pdb
+C:\Users\NIk\source\repos\Loops Eercises\Sum Numbers\obj\Debug\Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Loops Eercises\Sum Numbers\obj\Debug\Sum Numbers.exe
+C:\Users\NIk\source\repos\Loops Eercises\Sum Numbers\obj\Debug\Sum Numbers.pdb
+C:\Users\NIk\source\repos\Loops Eercises\Sum Numbers\obj\Debug\Sum Numbers.csprojResolveAssemblyReference.cache
