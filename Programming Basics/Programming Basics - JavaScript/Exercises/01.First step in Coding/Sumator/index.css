@@ -1,0 +1,53 @@
+﻿body {
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+}
+
+.content-form {
+    background: skyblue;
+    width: 50%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px #808080, 5px 5px 10px #6793c1 inset;
+    padding: 5px 5px 10px;
+    margin: 5% auto;
+}
+
+.title {
+    text-align: center;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.item-currency {
+    font-weight: 700;
+}
+
+#num1, #num2 {
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+span {
+    text-align: center;
+    margin: 5px auto;
+}
+
+#sum {
+    margin-bottom: 10px;
+}
+
+.primary-btn {
+    background: red;
+    color: #ffffff;
+    font-weight: 700;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 30px;
+    margina: auto;
+}
+
