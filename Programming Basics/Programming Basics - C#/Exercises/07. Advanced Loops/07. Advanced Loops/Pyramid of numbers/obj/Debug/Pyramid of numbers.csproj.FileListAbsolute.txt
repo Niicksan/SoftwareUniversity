@@ -1,0 +1,14 @@
+c:\users\nik\source\repos\Advance Loops\Pyramid of numbers\bin\Debug\Pyramid of numbers.exe.config
+c:\users\nik\source\repos\Advance Loops\Pyramid of numbers\bin\Debug\Pyramid of numbers.exe
+c:\users\nik\source\repos\Advance Loops\Pyramid of numbers\bin\Debug\Pyramid of numbers.pdb
+c:\users\nik\source\repos\Advance Loops\Pyramid of numbers\obj\Debug\Pyramid of numbers.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Advance Loops\Pyramid of numbers\obj\Debug\Pyramid of numbers.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Advance Loops\Pyramid of numbers\obj\Debug\Pyramid of numbers.exe
+c:\users\nik\source\repos\Advance Loops\Pyramid of numbers\obj\Debug\Pyramid of numbers.pdb
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exercises\07. Advanced Loops\07. Advanced Loops\Pyramid of numbers\bin\Debug\Pyramid of numbers.exe.config
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exercises\07. Advanced Loops\07. Advanced Loops\Pyramid of numbers\bin\Debug\Pyramid of numbers.exe
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exercises\07. Advanced Loops\07. Advanced Loops\Pyramid of numbers\bin\Debug\Pyramid of numbers.pdb
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exercises\07. Advanced Loops\07. Advanced Loops\Pyramid of numbers\obj\Debug\Pyramid of numbers.csprojResolveAssemblyReference.cache
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exercises\07. Advanced Loops\07. Advanced Loops\Pyramid of numbers\obj\Debug\Pyramid of numbers.csproj.CoreCompileInputs.cache
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exercises\07. Advanced Loops\07. Advanced Loops\Pyramid of numbers\obj\Debug\Pyramid of numbers.exe
+E:\School\SoftwareUniversity\Programming Basics\Programming Basics - C#\Exercises\07. Advanced Loops\07. Advanced Loops\Pyramid of numbers\obj\Debug\Pyramid of numbers.pdb

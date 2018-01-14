@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Advance Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe.config
+c:\users\nik\source\repos\Advance Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe
+c:\users\nik\source\repos\Advance Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.pdb
+c:\users\nik\source\repos\Advance Loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Advance Loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Advance Loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.exe
+c:\users\nik\source\repos\Advance Loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.pdb
