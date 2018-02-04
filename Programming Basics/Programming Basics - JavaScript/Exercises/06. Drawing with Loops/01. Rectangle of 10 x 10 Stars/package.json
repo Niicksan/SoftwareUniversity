@@ -1,0 +1,9 @@
+{
+  "name": "01.-rectangle-of-10-x-10-stars",
+  "version": "0.0.0",
+  "description": "01. Rectangle of 10 x 10 Stars",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

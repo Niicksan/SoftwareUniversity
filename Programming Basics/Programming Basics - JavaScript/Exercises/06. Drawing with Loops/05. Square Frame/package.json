@@ -1,0 +1,9 @@
+{
+  "name": "05.-square-frame",
+  "version": "0.0.0",
+  "description": "05. Square Frame",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

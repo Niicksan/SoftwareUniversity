@@ -1,0 +1,9 @@
+{
+  "name": "06.-rhombus-of-stars",
+  "version": "0.0.0",
+  "description": "06. Rhombus of Stars",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

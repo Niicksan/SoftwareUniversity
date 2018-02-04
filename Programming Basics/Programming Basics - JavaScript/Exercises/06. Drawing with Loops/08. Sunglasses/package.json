@@ -1,0 +1,9 @@
+{
+  "name": "08.-sunglasses",
+  "version": "0.0.0",
+  "description": "08. Sunglasses",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}
