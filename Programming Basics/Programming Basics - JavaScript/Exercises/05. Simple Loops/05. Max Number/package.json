@@ -1,0 +1,9 @@
+{
+  "name": "05.-max-number",
+  "version": "0.0.0",
+  "description": "05. Max Number",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

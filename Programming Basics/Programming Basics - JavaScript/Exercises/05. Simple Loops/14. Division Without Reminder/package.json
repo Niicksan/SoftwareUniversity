@@ -1,0 +1,9 @@
+{
+  "name": "14.-division-without-reminder",
+  "version": "0.0.0",
+  "description": "14. Division Without Reminder",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

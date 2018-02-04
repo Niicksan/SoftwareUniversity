@@ -1,0 +1,9 @@
+{
+  "name": "01.-numbers-from-1-to-100",
+  "version": "0.0.0",
+  "description": "01. Numbers from 1 to 100",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

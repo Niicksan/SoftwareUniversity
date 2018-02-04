@@ -1,0 +1,9 @@
+{
+  "name": "06.-min-number",
+  "version": "0.0.0",
+  "description": "06. Min Number",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

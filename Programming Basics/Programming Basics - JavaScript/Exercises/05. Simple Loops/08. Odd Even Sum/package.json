@@ -1,0 +1,9 @@
+{
+  "name": "08.-odd-even-sum",
+  "version": "0.0.0",
+  "description": "08. Odd Even Sum",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

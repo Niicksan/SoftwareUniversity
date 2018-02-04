@@ -1,0 +1,9 @@
+{
+  "name": "02.-numbers-ending-in-7",
+  "version": "0.0.0",
+  "description": "02. Numbers Ending in 7",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}
