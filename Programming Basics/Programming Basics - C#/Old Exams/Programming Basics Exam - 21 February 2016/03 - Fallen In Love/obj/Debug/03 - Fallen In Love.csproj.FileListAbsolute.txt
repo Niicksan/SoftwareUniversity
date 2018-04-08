@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\03 - Fallen In Love\bin\Debug\03 - Fallen In Love.exe.config
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\03 - Fallen In Love\bin\Debug\03 - Fallen In Love.exe
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\03 - Fallen In Love\bin\Debug\03 - Fallen In Love.pdb
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\03 - Fallen In Love\obj\Debug\03 - Fallen In Love.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\03 - Fallen In Love\obj\Debug\03 - Fallen In Love.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\03 - Fallen In Love\obj\Debug\03 - Fallen In Love.exe
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\03 - Fallen In Love\obj\Debug\03 - Fallen In Love.pdb

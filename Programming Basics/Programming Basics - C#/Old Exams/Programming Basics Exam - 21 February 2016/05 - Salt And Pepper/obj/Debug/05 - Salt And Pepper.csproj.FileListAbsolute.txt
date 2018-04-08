@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\05 - Salt And Pepper\bin\Debug\05 - Salt And Pepper.exe.config
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\05 - Salt And Pepper\bin\Debug\05 - Salt And Pepper.exe
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\05 - Salt And Pepper\bin\Debug\05 - Salt And Pepper.pdb
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\05 - Salt And Pepper\obj\Debug\05 - Salt And Pepper.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\05 - Salt And Pepper\obj\Debug\05 - Salt And Pepper.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\05 - Salt And Pepper\obj\Debug\05 - Salt And Pepper.exe
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\05 - Salt And Pepper\obj\Debug\05 - Salt And Pepper.pdb

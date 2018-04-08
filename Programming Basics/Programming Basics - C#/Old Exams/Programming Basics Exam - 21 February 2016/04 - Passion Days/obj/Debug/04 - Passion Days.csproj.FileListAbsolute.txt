@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\04 - Passion Days\bin\Debug\04 - Passion Days.exe.config
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\04 - Passion Days\bin\Debug\04 - Passion Days.exe
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\04 - Passion Days\bin\Debug\04 - Passion Days.pdb
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\04 - Passion Days\obj\Debug\04 - Passion Days.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\04 - Passion Days\obj\Debug\04 - Passion Days.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\04 - Passion Days\obj\Debug\04 - Passion Days.exe
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\04 - Passion Days\obj\Debug\04 - Passion Days.pdb
