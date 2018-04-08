@@ -1,0 +1,7 @@
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\1.Cake Tycoon\bin\Debug\1.Cake Tycoon.exe.config
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\1.Cake Tycoon\bin\Debug\1.Cake Tycoon.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\1.Cake Tycoon\bin\Debug\1.Cake Tycoon.pdb
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\1.Cake Tycoon\obj\Debug\1.Cake Tycoon.csprojResolveAssemblyReference.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\1.Cake Tycoon\obj\Debug\1.Cake Tycoon.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\1.Cake Tycoon\obj\Debug\1.Cake Tycoon.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\1.Cake Tycoon\obj\Debug\1.Cake Tycoon.pdb

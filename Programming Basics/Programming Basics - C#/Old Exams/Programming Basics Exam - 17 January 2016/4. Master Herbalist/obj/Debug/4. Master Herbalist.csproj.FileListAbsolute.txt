@@ -1,0 +1,7 @@
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\4. Master Herbalist\bin\Debug\_4.Master_Herbalist.exe.config
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\4. Master Herbalist\bin\Debug\_4.Master_Herbalist.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\4. Master Herbalist\bin\Debug\_4.Master_Herbalist.pdb
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\4. Master Herbalist\obj\Debug\4. Master Herbalist.csprojResolveAssemblyReference.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\4. Master Herbalist\obj\Debug\4. Master Herbalist.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\4. Master Herbalist\obj\Debug\_4.Master_Herbalist.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\4. Master Herbalist\obj\Debug\_4.Master_Herbalist.pdb

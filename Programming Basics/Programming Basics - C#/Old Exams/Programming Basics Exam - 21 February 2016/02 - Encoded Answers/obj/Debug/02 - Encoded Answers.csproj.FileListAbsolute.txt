@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\02 - Encoded Answers\bin\Debug\02 - Encoded Answers.exe.config
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\02 - Encoded Answers\bin\Debug\02 - Encoded Answers.exe
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\02 - Encoded Answers\bin\Debug\02 - Encoded Answers.pdb
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\02 - Encoded Answers\obj\Debug\02 - Encoded Answers.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\02 - Encoded Answers\obj\Debug\02 - Encoded Answers.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\02 - Encoded Answers\obj\Debug\02 - Encoded Answers.exe
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\02 - Encoded Answers\obj\Debug\02 - Encoded Answers.pdb

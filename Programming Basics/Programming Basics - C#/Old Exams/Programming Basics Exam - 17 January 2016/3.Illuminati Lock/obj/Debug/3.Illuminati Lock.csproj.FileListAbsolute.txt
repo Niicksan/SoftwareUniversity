@@ -1,0 +1,7 @@
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\3.Illuminati Lock\bin\Debug\3.Illuminati Lock.exe.config
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\3.Illuminati Lock\bin\Debug\3.Illuminati Lock.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\3.Illuminati Lock\bin\Debug\3.Illuminati Lock.pdb
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\3.Illuminati Lock\obj\Debug\3.Illuminati Lock.csprojResolveAssemblyReference.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\3.Illuminati Lock\obj\Debug\3.Illuminati Lock.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\3.Illuminati Lock\obj\Debug\3.Illuminati Lock.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\3.Illuminati Lock\obj\Debug\3.Illuminati Lock.pdb

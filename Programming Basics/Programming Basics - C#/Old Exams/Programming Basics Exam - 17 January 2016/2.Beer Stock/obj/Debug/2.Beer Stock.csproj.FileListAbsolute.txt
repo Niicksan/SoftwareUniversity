@@ -1,0 +1,7 @@
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\2.Beer Stock\bin\Debug\2.Beer Stock.exe.config
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\2.Beer Stock\bin\Debug\2.Beer Stock.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\2.Beer Stock\bin\Debug\2.Beer Stock.pdb
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\2.Beer Stock\obj\Debug\2.Beer Stock.csprojResolveAssemblyReference.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\2.Beer Stock\obj\Debug\2.Beer Stock.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\2.Beer Stock\obj\Debug\2.Beer Stock.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 17 January 2016\2.Beer Stock\obj\Debug\2.Beer Stock.pdb

@@ -1,0 +1,7 @@
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\01 - Hungry Garfield\bin\Debug\01 - Hungry Garfield.exe.config
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\01 - Hungry Garfield\bin\Debug\01 - Hungry Garfield.exe
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\01 - Hungry Garfield\bin\Debug\01 - Hungry Garfield.pdb
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\01 - Hungry Garfield\obj\Debug\01 - Hungry Garfield.csprojResolveAssemblyReference.cache
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\01 - Hungry Garfield\obj\Debug\01 - Hungry Garfield.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\01 - Hungry Garfield\obj\Debug\01 - Hungry Garfield.exe
+c:\users\nik\source\repos\Programming Basics Exam - 21 February 2016\01 - Hungry Garfield\obj\Debug\01 - Hungry Garfield.pdb
