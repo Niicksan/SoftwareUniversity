@@ -1,0 +1,7 @@
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\1. Prospect In Hospitality\bin\Debug\_1.Prospect_In_Hospitality.exe.config
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\1. Prospect In Hospitality\bin\Debug\_1.Prospect_In_Hospitality.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\1. Prospect In Hospitality\bin\Debug\_1.Prospect_In_Hospitality.pdb
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\1. Prospect In Hospitality\obj\Debug\1. Prospect In Hospitality.csprojResolveAssemblyReference.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\1. Prospect In Hospitality\obj\Debug\1. Prospect In Hospitality.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\1. Prospect In Hospitality\obj\Debug\_1.Prospect_In_Hospitality.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\1. Prospect In Hospitality\obj\Debug\_1.Prospect_In_Hospitality.pdb

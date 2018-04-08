@@ -1,0 +1,7 @@
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\3. Local Elections\bin\Debug\_3.Local_Elections.exe.config
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\3. Local Elections\bin\Debug\_3.Local_Elections.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\3. Local Elections\bin\Debug\_3.Local_Elections.pdb
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\3. Local Elections\obj\Debug\3. Local Elections.csprojResolveAssemblyReference.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\3. Local Elections\obj\Debug\3. Local Elections.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\3. Local Elections\obj\Debug\_3.Local_Elections.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\3. Local Elections\obj\Debug\_3.Local_Elections.pdb

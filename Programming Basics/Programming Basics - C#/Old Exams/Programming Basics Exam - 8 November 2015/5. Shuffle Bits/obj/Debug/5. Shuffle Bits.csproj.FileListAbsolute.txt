@@ -1,0 +1,7 @@
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\5. Shuffle Bits\bin\Debug\_5.Shuffle_Bits.exe.config
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\5. Shuffle Bits\bin\Debug\_5.Shuffle_Bits.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\5. Shuffle Bits\bin\Debug\_5.Shuffle_Bits.pdb
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\5. Shuffle Bits\obj\Debug\5. Shuffle Bits.csprojResolveAssemblyReference.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\5. Shuffle Bits\obj\Debug\5. Shuffle Bits.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\5. Shuffle Bits\obj\Debug\_5.Shuffle_Bits.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\5. Shuffle Bits\obj\Debug\_5.Shuffle_Bits.pdb

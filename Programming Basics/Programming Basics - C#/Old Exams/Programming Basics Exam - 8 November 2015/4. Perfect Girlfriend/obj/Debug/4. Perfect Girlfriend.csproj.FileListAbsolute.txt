@@ -1,0 +1,7 @@
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\4. Perfect Girlfriend\obj\Debug\4. Perfect Girlfriend.csprojResolveAssemblyReference.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\4. Perfect Girlfriend\obj\Debug\4. Perfect Girlfriend.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\4. Perfect Girlfriend\bin\Debug\_4.Perfect_Girlfriend.exe.config
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\4. Perfect Girlfriend\bin\Debug\_4.Perfect_Girlfriend.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\4. Perfect Girlfriend\bin\Debug\_4.Perfect_Girlfriend.pdb
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\4. Perfect Girlfriend\obj\Debug\_4.Perfect_Girlfriend.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\4. Perfect Girlfriend\obj\Debug\_4.Perfect_Girlfriend.pdb

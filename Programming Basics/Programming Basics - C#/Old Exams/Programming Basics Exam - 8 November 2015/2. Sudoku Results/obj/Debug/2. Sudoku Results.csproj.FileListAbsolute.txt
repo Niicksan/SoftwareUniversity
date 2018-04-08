@@ -1,0 +1,6 @@
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\2. Sudoku Results\bin\Debug\_2.Sudoku_Results.exe.config
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\2. Sudoku Results\bin\Debug\_2.Sudoku_Results.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\2. Sudoku Results\bin\Debug\_2.Sudoku_Results.pdb
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\2. Sudoku Results\obj\Debug\2. Sudoku Results.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\2. Sudoku Results\obj\Debug\_2.Sudoku_Results.exe
+C:\Users\NIk\source\repos\Programming Basics Exam - 8 November 2015\2. Sudoku Results\obj\Debug\_2.Sudoku_Results.pdb
