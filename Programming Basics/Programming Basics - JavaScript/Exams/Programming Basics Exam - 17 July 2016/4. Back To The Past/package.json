@@ -1,0 +1,9 @@
+{
+  "name": "4.-back-to-the-past",
+  "version": "0.0.0",
+  "description": "4. Back To The Past",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}
