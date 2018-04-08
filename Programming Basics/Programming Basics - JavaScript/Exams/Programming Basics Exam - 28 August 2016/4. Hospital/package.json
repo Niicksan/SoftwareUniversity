@@ -1,0 +1,9 @@
+{
+  "name": "4.-hospital",
+  "version": "0.0.0",
+  "description": "4. Hospital",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

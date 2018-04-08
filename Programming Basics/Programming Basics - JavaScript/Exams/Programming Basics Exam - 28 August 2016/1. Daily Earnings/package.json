@@ -1,0 +1,9 @@
+{
+  "name": "1.-daily-earnings",
+  "version": "0.0.0",
+  "description": "1. Daily Earnings",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}
