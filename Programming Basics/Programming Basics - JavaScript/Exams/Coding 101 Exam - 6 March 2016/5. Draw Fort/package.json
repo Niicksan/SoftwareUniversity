@@ -1,0 +1,9 @@
+{
+  "name": "5.-draw-fort",
+  "version": "0.0.0",
+  "description": "5. Draw Fort",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

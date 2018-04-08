@@ -1,0 +1,9 @@
+{
+  "name": "3.-on-time-for-the-exam",
+  "version": "0.0.0",
+  "description": "3. On Time for the Exam",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

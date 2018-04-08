@@ -1,0 +1,9 @@
+{
+  "name": "1.-pipes-in-pool",
+  "version": "0.0.0",
+  "description": "1. Pipes In Pool",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

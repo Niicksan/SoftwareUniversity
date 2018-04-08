@@ -1,0 +1,9 @@
+{
+  "name": "2.-transport-price",
+  "version": "0.0.0",
+  "description": "2. Transport Price",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "2.-sleepy-tom-cat",
+  "version": "0.0.0",
+  "description": "2. Sleepy Tom Cat",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}
