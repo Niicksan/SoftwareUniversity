@@ -1,0 +1,10 @@
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.deps.json
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.runtimeconfig.json
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.runtimeconfig.dev.json
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.dll
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\14. Magic Letter\bin\Debug\netcoreapp2.0\14. Magic Letter.pdb
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.AssemblyInfoInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.AssemblyInfo.cs
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.dll
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\14. Magic Letter\obj\Debug\netcoreapp2.0\14. Magic Letter.pdb
