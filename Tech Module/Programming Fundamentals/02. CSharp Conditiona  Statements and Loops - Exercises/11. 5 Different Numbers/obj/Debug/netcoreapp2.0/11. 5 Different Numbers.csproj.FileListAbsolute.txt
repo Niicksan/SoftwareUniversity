@@ -1,0 +1,11 @@
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\11. 5 Different Numbers\bin\Debug\netcoreapp2.0\11. 5 Different Numbers.deps.json
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\11. 5 Different Numbers\bin\Debug\netcoreapp2.0\11. 5 Different Numbers.runtimeconfig.json
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\11. 5 Different Numbers\bin\Debug\netcoreapp2.0\11. 5 Different Numbers.runtimeconfig.dev.json
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\11. 5 Different Numbers\bin\Debug\netcoreapp2.0\11. 5 Different Numbers.dll
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\11. 5 Different Numbers\bin\Debug\netcoreapp2.0\11. 5 Different Numbers.pdb
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\11. 5 Different Numbers\obj\Debug\netcoreapp2.0\11. 5 Different Numbers.csprojAssemblyReference.cache
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\11. 5 Different Numbers\obj\Debug\netcoreapp2.0\11. 5 Different Numbers.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\11. 5 Different Numbers\obj\Debug\netcoreapp2.0\11. 5 Different Numbers.AssemblyInfoInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\11. 5 Different Numbers\obj\Debug\netcoreapp2.0\11. 5 Different Numbers.AssemblyInfo.cs
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\11. 5 Different Numbers\obj\Debug\netcoreapp2.0\11. 5 Different Numbers.dll
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\11. 5 Different Numbers\obj\Debug\netcoreapp2.0\11. 5 Different Numbers.pdb
