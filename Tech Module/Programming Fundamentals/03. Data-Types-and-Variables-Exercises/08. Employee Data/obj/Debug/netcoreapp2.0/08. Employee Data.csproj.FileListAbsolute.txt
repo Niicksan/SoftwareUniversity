@@ -1,0 +1,10 @@
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\08. Employee Data\bin\Debug\netcoreapp2.0\08. Employee Data.deps.json
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\08. Employee Data\bin\Debug\netcoreapp2.0\08. Employee Data.runtimeconfig.json
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\08. Employee Data\bin\Debug\netcoreapp2.0\08. Employee Data.runtimeconfig.dev.json
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\08. Employee Data\bin\Debug\netcoreapp2.0\08. Employee Data.dll
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\08. Employee Data\bin\Debug\netcoreapp2.0\08. Employee Data.pdb
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\08. Employee Data\obj\Debug\netcoreapp2.0\08. Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\08. Employee Data\obj\Debug\netcoreapp2.0\08. Employee Data.AssemblyInfoInputs.cache
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\08. Employee Data\obj\Debug\netcoreapp2.0\08. Employee Data.AssemblyInfo.cs
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\08. Employee Data\obj\Debug\netcoreapp2.0\08. Employee Data.dll
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\08. Employee Data\obj\Debug\netcoreapp2.0\08. Employee Data.pdb
