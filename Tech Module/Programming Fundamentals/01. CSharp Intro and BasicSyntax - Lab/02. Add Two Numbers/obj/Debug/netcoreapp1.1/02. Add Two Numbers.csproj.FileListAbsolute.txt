@@ -1,0 +1,10 @@
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\02. Add Two Numbers\bin\Debug\netcoreapp1.1\02. Add Two Numbers.deps.json
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\02. Add Two Numbers\bin\Debug\netcoreapp1.1\02. Add Two Numbers.runtimeconfig.json
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\02. Add Two Numbers\bin\Debug\netcoreapp1.1\02. Add Two Numbers.runtimeconfig.dev.json
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\02. Add Two Numbers\bin\Debug\netcoreapp1.1\02. Add Two Numbers.dll
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\02. Add Two Numbers\bin\Debug\netcoreapp1.1\02. Add Two Numbers.pdb
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\02. Add Two Numbers\obj\Debug\netcoreapp1.1\02. Add Two Numbers.csprojResolveAssemblyReference.cache
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\02. Add Two Numbers\obj\Debug\netcoreapp1.1\02. Add Two Numbers.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\02. Add Two Numbers\obj\Debug\netcoreapp1.1\02. Add Two Numbers.AssemblyInfo.cs
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\02. Add Two Numbers\obj\Debug\netcoreapp1.1\02. Add Two Numbers.dll
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\02. Add Two Numbers\obj\Debug\netcoreapp1.1\02. Add Two Numbers.pdb
