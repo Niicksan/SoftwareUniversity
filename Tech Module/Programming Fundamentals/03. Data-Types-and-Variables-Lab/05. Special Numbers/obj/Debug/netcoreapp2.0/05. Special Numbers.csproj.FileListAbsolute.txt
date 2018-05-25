@@ -1,0 +1,11 @@
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.deps.json
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.runtimeconfig.json
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.runtimeconfig.dev.json
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.dll
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\05. Special Numbers\bin\Debug\netcoreapp2.0\05. Special Numbers.pdb
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.AssemblyInfoInputs.cache
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.AssemblyInfo.cs
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.dll
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.pdb
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\05. Special Numbers\obj\Debug\netcoreapp2.0\05. Special Numbers.csprojAssemblyReference.cache
