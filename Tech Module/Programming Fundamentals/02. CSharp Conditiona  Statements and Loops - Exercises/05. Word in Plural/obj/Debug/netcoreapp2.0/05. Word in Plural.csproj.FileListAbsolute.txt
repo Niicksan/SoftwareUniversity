@@ -1,0 +1,11 @@
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.csprojAssemblyReference.cache
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.AssemblyInfoInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.AssemblyInfo.cs
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.deps.json
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.runtimeconfig.json
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.runtimeconfig.dev.json
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.dll
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\05. Word in Plural\bin\Debug\netcoreapp2.0\05. Word in Plural.pdb
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.dll
+C:\Users\NIk\source\repos\02. CSharp Conditiona  Statements and Loops -\05. Word in Plural\obj\Debug\netcoreapp2.0\05. Word in Plural.pdb
