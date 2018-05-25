@@ -1,0 +1,10 @@
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.deps.json
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.runtimeconfig.json
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.runtimeconfig.dev.json
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.dll
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.pdb
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.AssemblyInfoInputs.cache
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.AssemblyInfo.cs
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.dll
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Exercises\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.pdb
