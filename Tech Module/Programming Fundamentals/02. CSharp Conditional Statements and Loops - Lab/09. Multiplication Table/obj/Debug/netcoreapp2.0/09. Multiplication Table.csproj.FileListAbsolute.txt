@@ -1,0 +1,11 @@
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\09. Multiplication Table\bin\Debug\netcoreapp2.0\09. Multiplication Table.deps.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\09. Multiplication Table\bin\Debug\netcoreapp2.0\09. Multiplication Table.runtimeconfig.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\09. Multiplication Table\bin\Debug\netcoreapp2.0\09. Multiplication Table.runtimeconfig.dev.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\09. Multiplication Table\bin\Debug\netcoreapp2.0\09. Multiplication Table.dll
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\09. Multiplication Table\bin\Debug\netcoreapp2.0\09. Multiplication Table.pdb
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\09. Multiplication Table\obj\Debug\netcoreapp2.0\09. Multiplication Table.csprojAssemblyReference.cache
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\09. Multiplication Table\obj\Debug\netcoreapp2.0\09. Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\09. Multiplication Table\obj\Debug\netcoreapp2.0\09. Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\09. Multiplication Table\obj\Debug\netcoreapp2.0\09. Multiplication Table.AssemblyInfo.cs
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\09. Multiplication Table\obj\Debug\netcoreapp2.0\09. Multiplication Table.dll
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\09. Multiplication Table\obj\Debug\netcoreapp2.0\09. Multiplication Table.pdb
