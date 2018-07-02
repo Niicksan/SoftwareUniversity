@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\03. Text Filter\bin\Debug\netcoreapp2.0\03. Text Filter.deps.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\03. Text Filter\bin\Debug\netcoreapp2.0\03. Text Filter.runtimeconfig.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\03. Text Filter\bin\Debug\netcoreapp2.0\03. Text Filter.runtimeconfig.dev.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\03. Text Filter\bin\Debug\netcoreapp2.0\03. Text Filter.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\03. Text Filter\bin\Debug\netcoreapp2.0\03. Text Filter.pdb
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\03. Text Filter\obj\Debug\netcoreapp2.0\03. Text Filter.csprojAssemblyReference.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\03. Text Filter\obj\Debug\netcoreapp2.0\03. Text Filter.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\03. Text Filter\obj\Debug\netcoreapp2.0\03. Text Filter.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\03. Text Filter\obj\Debug\netcoreapp2.0\03. Text Filter.AssemblyInfo.cs
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\03. Text Filter\obj\Debug\netcoreapp2.0\03. Text Filter.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\03. Text Filter\obj\Debug\netcoreapp2.0\03. Text Filter.pdb

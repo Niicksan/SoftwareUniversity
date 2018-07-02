@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\03. Water Overflow\bin\Debug\netcoreapp2.0\03. Water Overflow.deps.json
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\03. Water Overflow\bin\Debug\netcoreapp2.0\03. Water Overflow.runtimeconfig.json
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\03. Water Overflow\bin\Debug\netcoreapp2.0\03. Water Overflow.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\03. Water Overflow\bin\Debug\netcoreapp2.0\03. Water Overflow.dll
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\03. Water Overflow\bin\Debug\netcoreapp2.0\03. Water Overflow.pdb
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\03. Water Overflow\obj\Debug\netcoreapp2.0\03. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\03. Water Overflow\obj\Debug\netcoreapp2.0\03. Water Overflow.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\03. Water Overflow\obj\Debug\netcoreapp2.0\03. Water Overflow.AssemblyInfo.cs
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\03. Water Overflow\obj\Debug\netcoreapp2.0\03. Water Overflow.dll
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\03. Water Overflow\obj\Debug\netcoreapp2.0\03. Water Overflow.pdb

@@ -1,0 +1,7 @@
+E:\SoftwareUniversity\Competition\Softuniada 2016\01. Groups of Equal Sum\bin\Debug\_01.Groups_of_Equal_Sum.exe.config
+E:\SoftwareUniversity\Competition\Softuniada 2016\01. Groups of Equal Sum\bin\Debug\_01.Groups_of_Equal_Sum.exe
+E:\SoftwareUniversity\Competition\Softuniada 2016\01. Groups of Equal Sum\bin\Debug\_01.Groups_of_Equal_Sum.pdb
+E:\SoftwareUniversity\Competition\Softuniada 2016\01. Groups of Equal Sum\obj\Debug\01. Groups of Equal Sum.csprojResolveAssemblyReference.cache
+E:\SoftwareUniversity\Competition\Softuniada 2016\01. Groups of Equal Sum\obj\Debug\01. Groups of Equal Sum.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Competition\Softuniada 2016\01. Groups of Equal Sum\obj\Debug\_01.Groups_of_Equal_Sum.exe
+E:\SoftwareUniversity\Competition\Softuniada 2016\01. Groups of Equal Sum\obj\Debug\_01.Groups_of_Equal_Sum.pdb

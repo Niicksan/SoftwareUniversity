@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\02. SoftUni Course Planning\bin\Debug\netcoreapp2.0\02. SoftUni Course Planning.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\02. SoftUni Course Planning\bin\Debug\netcoreapp2.0\02. SoftUni Course Planning.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\02. SoftUni Course Planning\bin\Debug\netcoreapp2.0\02. SoftUni Course Planning.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\02. SoftUni Course Planning\bin\Debug\netcoreapp2.0\02. SoftUni Course Planning.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\02. SoftUni Course Planning\bin\Debug\netcoreapp2.0\02. SoftUni Course Planning.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\02. SoftUni Course Planning\obj\Debug\netcoreapp2.0\02. SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\02. SoftUni Course Planning\obj\Debug\netcoreapp2.0\02. SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\02. SoftUni Course Planning\obj\Debug\netcoreapp2.0\02. SoftUni Course Planning.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\02. SoftUni Course Planning\obj\Debug\netcoreapp2.0\02. SoftUni Course Planning.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\02. SoftUni Course Planning\obj\Debug\netcoreapp2.0\02. SoftUni Course Planning.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\02. SoftUni Course Planning\obj\Debug\netcoreapp2.0\02. SoftUni Course Planning.csprojAssemblyReference.cache

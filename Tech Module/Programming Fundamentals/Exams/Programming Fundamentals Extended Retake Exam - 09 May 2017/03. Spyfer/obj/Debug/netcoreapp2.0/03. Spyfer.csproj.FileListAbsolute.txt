@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\03. Spyfer\bin\Debug\netcoreapp2.0\03. Spyfer.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\03. Spyfer\bin\Debug\netcoreapp2.0\03. Spyfer.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\03. Spyfer\bin\Debug\netcoreapp2.0\03. Spyfer.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\03. Spyfer\bin\Debug\netcoreapp2.0\03. Spyfer.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\03. Spyfer\bin\Debug\netcoreapp2.0\03. Spyfer.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\03. Spyfer\obj\Debug\netcoreapp2.0\03. Spyfer.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\03. Spyfer\obj\Debug\netcoreapp2.0\03. Spyfer.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\03. Spyfer\obj\Debug\netcoreapp2.0\03. Spyfer.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\03. Spyfer\obj\Debug\netcoreapp2.0\03. Spyfer.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\03. Spyfer\obj\Debug\netcoreapp2.0\03. Spyfer.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\03. Spyfer\obj\Debug\netcoreapp2.0\03. Spyfer.pdb

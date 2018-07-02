@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\01. Padawan Equipment\bin\Debug\netcoreapp2.0\01. Padawan Equipment.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\01. Padawan Equipment\bin\Debug\netcoreapp2.0\01. Padawan Equipment.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\01. Padawan Equipment\bin\Debug\netcoreapp2.0\01. Padawan Equipment.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\01. Padawan Equipment\bin\Debug\netcoreapp2.0\01. Padawan Equipment.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\01. Padawan Equipment\bin\Debug\netcoreapp2.0\01. Padawan Equipment.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\01. Padawan Equipment\obj\Debug\netcoreapp2.0\01. Padawan Equipment.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\01. Padawan Equipment\obj\Debug\netcoreapp2.0\01. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\01. Padawan Equipment\obj\Debug\netcoreapp2.0\01. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\01. Padawan Equipment\obj\Debug\netcoreapp2.0\01. Padawan Equipment.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\01. Padawan Equipment\obj\Debug\netcoreapp2.0\01. Padawan Equipment.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\01. Padawan Equipment\obj\Debug\netcoreapp2.0\01. Padawan Equipment.pdb

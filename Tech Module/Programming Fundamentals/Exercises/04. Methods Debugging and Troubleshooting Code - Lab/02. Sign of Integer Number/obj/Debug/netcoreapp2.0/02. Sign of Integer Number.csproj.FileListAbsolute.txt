@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.deps.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.dll
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\02. Sign of Integer Number\bin\Debug\netcoreapp2.0\02. Sign of Integer Number.pdb
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.dll
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\02. Sign of Integer Number\obj\Debug\netcoreapp2.0\02. Sign of Integer Number.pdb

@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\05. Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp2.0\09. Extract Middle Elements.deps.json
+C:\Users\Nik\source\repos\05. Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp2.0\09. Extract Middle Elements.runtimeconfig.json
+C:\Users\Nik\source\repos\05. Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp2.0\09. Extract Middle Elements.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\05. Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp2.0\09. Extract Middle Elements.dll
+C:\Users\Nik\source\repos\05. Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp2.0\09. Extract Middle Elements.pdb
+C:\Users\Nik\source\repos\05. Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp2.0\09. Extract Middle Elements.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\05. Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp2.0\09. Extract Middle Elements.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\05. Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp2.0\09. Extract Middle Elements.AssemblyInfo.cs
+C:\Users\Nik\source\repos\05. Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp2.0\09. Extract Middle Elements.dll
+C:\Users\Nik\source\repos\05. Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp2.0\09. Extract Middle Elements.pdb

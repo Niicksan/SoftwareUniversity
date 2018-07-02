@@ -1,0 +1,7 @@
+E:\SoftwareUniversity\Competition\Softuniada 2016\03. Sum Time\obj\Debug\03. Sum Time.csprojResolveAssemblyReference.cache
+E:\SoftwareUniversity\Competition\Softuniada 2016\03. Sum Time\obj\Debug\03. Sum Time.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Competition\Softuniada 2016\03. Sum Time\bin\Debug\_03.Sum_Time.exe.config
+E:\SoftwareUniversity\Competition\Softuniada 2016\03. Sum Time\bin\Debug\_03.Sum_Time.exe
+E:\SoftwareUniversity\Competition\Softuniada 2016\03. Sum Time\bin\Debug\_03.Sum_Time.pdb
+E:\SoftwareUniversity\Competition\Softuniada 2016\03. Sum Time\obj\Debug\_03.Sum_Time.exe
+E:\SoftwareUniversity\Competition\Softuniada 2016\03. Sum Time\obj\Debug\_03.Sum_Time.pdb

@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\02. Convert from base-N to base-10\bin\Debug\netcoreapp2.0\02. Convert from base-N to base-10.deps.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\02. Convert from base-N to base-10\bin\Debug\netcoreapp2.0\02. Convert from base-N to base-10.runtimeconfig.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\02. Convert from base-N to base-10\bin\Debug\netcoreapp2.0\02. Convert from base-N to base-10.runtimeconfig.dev.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\02. Convert from base-N to base-10\bin\Debug\netcoreapp2.0\02. Convert from base-N to base-10.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\02. Convert from base-N to base-10\bin\Debug\netcoreapp2.0\02. Convert from base-N to base-10.pdb
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\02. Convert from base-N to base-10\obj\Debug\netcoreapp2.0\02. Convert from base-N to base-10.csprojAssemblyReference.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\02. Convert from base-N to base-10\obj\Debug\netcoreapp2.0\02. Convert from base-N to base-10.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\02. Convert from base-N to base-10\obj\Debug\netcoreapp2.0\02. Convert from base-N to base-10.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\02. Convert from base-N to base-10\obj\Debug\netcoreapp2.0\02. Convert from base-N to base-10.AssemblyInfo.cs
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\02. Convert from base-N to base-10\obj\Debug\netcoreapp2.0\02. Convert from base-N to base-10.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\02. Convert from base-N to base-10\obj\Debug\netcoreapp2.0\02. Convert from base-N to base-10.pdb

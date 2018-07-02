@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.deps.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.dll
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\netcoreapp2.0\13. Factorial.pdb
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.dll
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\netcoreapp2.0\13. Factorial.pdb

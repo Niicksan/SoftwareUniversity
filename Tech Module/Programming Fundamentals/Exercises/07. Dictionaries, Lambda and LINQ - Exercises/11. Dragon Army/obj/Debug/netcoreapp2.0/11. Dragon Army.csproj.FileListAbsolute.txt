@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\11. Dragon Army\bin\Debug\netcoreapp2.0\11. Dragon Army.deps.json
+c:\users\nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\11. Dragon Army\bin\Debug\netcoreapp2.0\11. Dragon Army.runtimeconfig.json
+c:\users\nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\11. Dragon Army\bin\Debug\netcoreapp2.0\11. Dragon Army.runtimeconfig.dev.json
+c:\users\nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\11. Dragon Army\bin\Debug\netcoreapp2.0\11. Dragon Army.dll
+c:\users\nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\11. Dragon Army\bin\Debug\netcoreapp2.0\11. Dragon Army.pdb
+c:\users\nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\11. Dragon Army\obj\Debug\netcoreapp2.0\11. Dragon Army.csprojAssemblyReference.cache
+c:\users\nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\11. Dragon Army\obj\Debug\netcoreapp2.0\11. Dragon Army.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\11. Dragon Army\obj\Debug\netcoreapp2.0\11. Dragon Army.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\11. Dragon Army\obj\Debug\netcoreapp2.0\11. Dragon Army.AssemblyInfo.cs
+c:\users\nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\11. Dragon Army\obj\Debug\netcoreapp2.0\11. Dragon Army.dll
+c:\users\nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\11. Dragon Army\obj\Debug\netcoreapp2.0\11. Dragon Army.pdb

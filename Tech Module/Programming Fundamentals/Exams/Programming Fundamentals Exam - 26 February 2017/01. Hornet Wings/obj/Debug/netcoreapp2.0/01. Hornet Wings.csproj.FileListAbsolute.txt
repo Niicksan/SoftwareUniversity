@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\01. Hornet Wings\bin\Debug\netcoreapp2.0\01. Hornet Wings.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\01. Hornet Wings\bin\Debug\netcoreapp2.0\01. Hornet Wings.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\01. Hornet Wings\bin\Debug\netcoreapp2.0\01. Hornet Wings.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\01. Hornet Wings\bin\Debug\netcoreapp2.0\01. Hornet Wings.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\01. Hornet Wings\bin\Debug\netcoreapp2.0\01. Hornet Wings.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\01. Hornet Wings\obj\Debug\netcoreapp2.0\01. Hornet Wings.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\01. Hornet Wings\obj\Debug\netcoreapp2.0\01. Hornet Wings.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\01. Hornet Wings\obj\Debug\netcoreapp2.0\01. Hornet Wings.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\01. Hornet Wings\obj\Debug\netcoreapp2.0\01. Hornet Wings.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\01. Hornet Wings\obj\Debug\netcoreapp2.0\01. Hornet Wings.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\01. Hornet Wings\obj\Debug\netcoreapp2.0\01. Hornet Wings.pdb

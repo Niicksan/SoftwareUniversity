@@ -1,0 +1,11 @@
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.deps.json
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.runtimeconfig.json
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.runtimeconfig.dev.json
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.dll
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\netcoreapp2.0\04. Beverage Labels.pdb
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.csprojAssemblyReference.cache
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.AssemblyInfoInputs.cache
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.AssemblyInfo.cs
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.dll
+C:\Users\NIk\source\repos\01. CSharp Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\netcoreapp2.0\04. Beverage Labels.pdb

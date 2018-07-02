@@ -1,0 +1,10 @@
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\12. Number Checker\bin\Debug\netcoreapp2.0\12. Number Checker.deps.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\12. Number Checker\bin\Debug\netcoreapp2.0\12. Number Checker.runtimeconfig.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\12. Number Checker\bin\Debug\netcoreapp2.0\12. Number Checker.runtimeconfig.dev.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\12. Number Checker\bin\Debug\netcoreapp2.0\12. Number Checker.dll
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\12. Number Checker\bin\Debug\netcoreapp2.0\12. Number Checker.pdb
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\12. Number Checker\obj\Debug\netcoreapp2.0\12. Number Checker.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\12. Number Checker\obj\Debug\netcoreapp2.0\12. Number Checker.AssemblyInfoInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\12. Number Checker\obj\Debug\netcoreapp2.0\12. Number Checker.AssemblyInfo.cs
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\12. Number Checker\obj\Debug\netcoreapp2.0\12. Number Checker.dll
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\12. Number Checker\obj\Debug\netcoreapp2.0\12. Number Checker.pdb

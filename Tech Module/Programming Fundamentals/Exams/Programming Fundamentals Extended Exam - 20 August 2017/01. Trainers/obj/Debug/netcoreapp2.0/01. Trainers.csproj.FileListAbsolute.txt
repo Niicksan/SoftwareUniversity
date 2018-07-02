@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\bin\Debug\netcoreapp2.0\01. Trainers.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\bin\Debug\netcoreapp2.0\01. Trainers.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\bin\Debug\netcoreapp2.0\01. Trainers.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\bin\Debug\netcoreapp2.0\01. Trainers.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\bin\Debug\netcoreapp2.0\01. Trainers.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\obj\Debug\netcoreapp2.0\01. Trainers.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\obj\Debug\netcoreapp2.0\01. Trainers.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\obj\Debug\netcoreapp2.0\01. Trainers.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\obj\Debug\netcoreapp2.0\01. Trainers.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\obj\Debug\netcoreapp2.0\01. Trainers.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\01. Trainers\obj\Debug\netcoreapp2.0\01. Trainers.pdb

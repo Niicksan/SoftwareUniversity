@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\04. SoftUni Exam Results\bin\Debug\netcoreapp2.0\04. SoftUni Exam Results.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\04. SoftUni Exam Results\bin\Debug\netcoreapp2.0\04. SoftUni Exam Results.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\04. SoftUni Exam Results\bin\Debug\netcoreapp2.0\04. SoftUni Exam Results.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\04. SoftUni Exam Results\bin\Debug\netcoreapp2.0\04. SoftUni Exam Results.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\04. SoftUni Exam Results\bin\Debug\netcoreapp2.0\04. SoftUni Exam Results.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\04. SoftUni Exam Results\obj\Debug\netcoreapp2.0\04. SoftUni Exam Results.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\04. SoftUni Exam Results\obj\Debug\netcoreapp2.0\04. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\04. SoftUni Exam Results\obj\Debug\netcoreapp2.0\04. SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\04. SoftUni Exam Results\obj\Debug\netcoreapp2.0\04. SoftUni Exam Results.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\04. SoftUni Exam Results\obj\Debug\netcoreapp2.0\04. SoftUni Exam Results.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\04. SoftUni Exam Results\obj\Debug\netcoreapp2.0\04. SoftUni Exam Results.pdb

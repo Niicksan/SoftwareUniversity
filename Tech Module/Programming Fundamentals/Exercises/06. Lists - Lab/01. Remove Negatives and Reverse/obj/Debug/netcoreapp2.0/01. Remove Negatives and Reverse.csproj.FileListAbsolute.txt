@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\06. Lists - Lab\01. Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\01. Remove Negatives and Reverse.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\06. Lists - Lab\01. Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\01. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\06. Lists - Lab\01. Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\01. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\06. Lists - Lab\01. Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\01. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\Nik\source\repos\06. Lists - Lab\01. Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\01. Remove Negatives and Reverse.deps.json
+C:\Users\Nik\source\repos\06. Lists - Lab\01. Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\01. Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\Nik\source\repos\06. Lists - Lab\01. Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\01. Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\06. Lists - Lab\01. Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\01. Remove Negatives and Reverse.dll
+C:\Users\Nik\source\repos\06. Lists - Lab\01. Remove Negatives and Reverse\bin\Debug\netcoreapp2.0\01. Remove Negatives and Reverse.pdb
+C:\Users\Nik\source\repos\06. Lists - Lab\01. Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\01. Remove Negatives and Reverse.dll
+C:\Users\Nik\source\repos\06. Lists - Lab\01. Remove Negatives and Reverse\obj\Debug\netcoreapp2.0\01. Remove Negatives and Reverse.pdb

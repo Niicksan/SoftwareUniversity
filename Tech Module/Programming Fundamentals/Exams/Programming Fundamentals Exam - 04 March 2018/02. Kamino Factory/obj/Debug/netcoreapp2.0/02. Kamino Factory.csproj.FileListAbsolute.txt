@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\02. Kamino Factory\obj\Debug\netcoreapp2.0\02. Kamino Factory.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\02. Kamino Factory\obj\Debug\netcoreapp2.0\02. Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\02. Kamino Factory\obj\Debug\netcoreapp2.0\02. Kamino Factory.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\02. Kamino Factory\obj\Debug\netcoreapp2.0\02. Kamino Factory.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\02. Kamino Factory\bin\Debug\netcoreapp2.0\02. Kamino Factory.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\02. Kamino Factory\bin\Debug\netcoreapp2.0\02. Kamino Factory.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\02. Kamino Factory\bin\Debug\netcoreapp2.0\02. Kamino Factory.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\02. Kamino Factory\bin\Debug\netcoreapp2.0\02. Kamino Factory.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\02. Kamino Factory\bin\Debug\netcoreapp2.0\02. Kamino Factory.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\02. Kamino Factory\obj\Debug\netcoreapp2.0\02. Kamino Factory.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\02. Kamino Factory\obj\Debug\netcoreapp2.0\02. Kamino Factory.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\06. Lists - Lab\02. Append Lists\bin\Debug\netcoreapp2.0\02. Append Lists.deps.json
+C:\Users\Nik\source\repos\06. Lists - Lab\02. Append Lists\bin\Debug\netcoreapp2.0\02. Append Lists.runtimeconfig.json
+C:\Users\Nik\source\repos\06. Lists - Lab\02. Append Lists\bin\Debug\netcoreapp2.0\02. Append Lists.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\06. Lists - Lab\02. Append Lists\bin\Debug\netcoreapp2.0\02. Append Lists.dll
+C:\Users\Nik\source\repos\06. Lists - Lab\02. Append Lists\bin\Debug\netcoreapp2.0\02. Append Lists.pdb
+C:\Users\Nik\source\repos\06. Lists - Lab\02. Append Lists\obj\Debug\netcoreapp2.0\02. Append Lists.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\06. Lists - Lab\02. Append Lists\obj\Debug\netcoreapp2.0\02. Append Lists.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\06. Lists - Lab\02. Append Lists\obj\Debug\netcoreapp2.0\02. Append Lists.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\06. Lists - Lab\02. Append Lists\obj\Debug\netcoreapp2.0\02. Append Lists.AssemblyInfo.cs
+C:\Users\Nik\source\repos\06. Lists - Lab\02. Append Lists\obj\Debug\netcoreapp2.0\02. Append Lists.dll
+C:\Users\Nik\source\repos\06. Lists - Lab\02. Append Lists\obj\Debug\netcoreapp2.0\02. Append Lists.pdb

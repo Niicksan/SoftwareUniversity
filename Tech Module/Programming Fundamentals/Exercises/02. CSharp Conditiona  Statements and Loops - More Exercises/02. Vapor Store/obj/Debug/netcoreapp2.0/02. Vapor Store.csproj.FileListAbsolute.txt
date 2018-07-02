@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\02. Vapor Store\bin\Debug\netcoreapp2.0\02. Vapor Store.deps.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\02. Vapor Store\bin\Debug\netcoreapp2.0\02. Vapor Store.runtimeconfig.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\02. Vapor Store\bin\Debug\netcoreapp2.0\02. Vapor Store.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\02. Vapor Store\bin\Debug\netcoreapp2.0\02. Vapor Store.dll
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\02. Vapor Store\bin\Debug\netcoreapp2.0\02. Vapor Store.pdb
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\02. Vapor Store\obj\Debug\netcoreapp2.0\02. Vapor Store.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\02. Vapor Store\obj\Debug\netcoreapp2.0\02. Vapor Store.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\02. Vapor Store\obj\Debug\netcoreapp2.0\02. Vapor Store.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\02. Vapor Store\obj\Debug\netcoreapp2.0\02. Vapor Store.AssemblyInfo.cs
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\02. Vapor Store\obj\Debug\netcoreapp2.0\02. Vapor Store.dll
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\02. Vapor Store\obj\Debug\netcoreapp2.0\02. Vapor Store.pdb

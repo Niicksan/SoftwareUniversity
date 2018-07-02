@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.deps.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.runtimeconfig.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.dll
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.pdb
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.dll
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.pdb

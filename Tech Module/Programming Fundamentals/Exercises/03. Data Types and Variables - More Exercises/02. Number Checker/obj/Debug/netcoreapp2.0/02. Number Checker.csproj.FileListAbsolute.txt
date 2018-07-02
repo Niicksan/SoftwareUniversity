@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.deps.json
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.runtimeconfig.json
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.dll
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\02. Number Checker\bin\Debug\netcoreapp2.0\02. Number Checker.pdb
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.AssemblyInfo.cs
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.dll
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\02. Number Checker\obj\Debug\netcoreapp2.0\02. Number Checker.pdb

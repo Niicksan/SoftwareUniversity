@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\12. Master Number\bin\Debug\netcoreapp2.0\12. Master Number.deps.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\12. Master Number\bin\Debug\netcoreapp2.0\12. Master Number.runtimeconfig.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\12. Master Number\bin\Debug\netcoreapp2.0\12. Master Number.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\12. Master Number\bin\Debug\netcoreapp2.0\12. Master Number.dll
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\12. Master Number\bin\Debug\netcoreapp2.0\12. Master Number.pdb
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\12. Master Number\obj\Debug\netcoreapp2.0\12. Master Number.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\12. Master Number\obj\Debug\netcoreapp2.0\12. Master Number.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\12. Master Number\obj\Debug\netcoreapp2.0\12. Master Number.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\12. Master Number\obj\Debug\netcoreapp2.0\12. Master Number.dll
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\12. Master Number\obj\Debug\netcoreapp2.0\12. Master Number.pdb

@@ -1,0 +1,9 @@
+{
+  "name": "15.-stupid-password-generator",
+  "version": "0.0.0",
+  "description": "15. Stupid Password Generator",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

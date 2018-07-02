@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\03. Circles Intersection\bin\Debug\netcoreapp2.0\03. Circles Intersection.deps.json
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\03. Circles Intersection\bin\Debug\netcoreapp2.0\03. Circles Intersection.runtimeconfig.json
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\03. Circles Intersection\bin\Debug\netcoreapp2.0\03. Circles Intersection.runtimeconfig.dev.json
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\03. Circles Intersection\bin\Debug\netcoreapp2.0\03. Circles Intersection.dll
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\03. Circles Intersection\bin\Debug\netcoreapp2.0\03. Circles Intersection.pdb
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\03. Circles Intersection\obj\Debug\netcoreapp2.0\03. Circles Intersection.csprojAssemblyReference.cache
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\03. Circles Intersection\obj\Debug\netcoreapp2.0\03. Circles Intersection.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\03. Circles Intersection\obj\Debug\netcoreapp2.0\03. Circles Intersection.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\03. Circles Intersection\obj\Debug\netcoreapp2.0\03. Circles Intersection.AssemblyInfo.cs
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\03. Circles Intersection\obj\Debug\netcoreapp2.0\03. Circles Intersection.dll
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\03. Circles Intersection\obj\Debug\netcoreapp2.0\03. Circles Intersection.pdb

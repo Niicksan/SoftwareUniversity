@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\01. SoftUni Reception\bin\Debug\netcoreapp2.0\01. SoftUni Reception.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\01. SoftUni Reception\bin\Debug\netcoreapp2.0\01. SoftUni Reception.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\01. SoftUni Reception\bin\Debug\netcoreapp2.0\01. SoftUni Reception.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\01. SoftUni Reception\bin\Debug\netcoreapp2.0\01. SoftUni Reception.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\01. SoftUni Reception\bin\Debug\netcoreapp2.0\01. SoftUni Reception.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\01. SoftUni Reception\obj\Debug\netcoreapp2.0\01. SoftUni Reception.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\01. SoftUni Reception\obj\Debug\netcoreapp2.0\01. SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\01. SoftUni Reception\obj\Debug\netcoreapp2.0\01. SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\01. SoftUni Reception\obj\Debug\netcoreapp2.0\01. SoftUni Reception.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\01. SoftUni Reception\obj\Debug\netcoreapp2.0\01. SoftUni Reception.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 01 July 2018\01. SoftUni Reception\obj\Debug\netcoreapp2.0\01. SoftUni Reception.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 11 September 2016\01. Thea the Photographer\bin\Debug\netcoreapp2.0\01. Thea the Photographer.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 11 September 2016\01. Thea the Photographer\bin\Debug\netcoreapp2.0\01. Thea the Photographer.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 11 September 2016\01. Thea the Photographer\bin\Debug\netcoreapp2.0\01. Thea the Photographer.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 11 September 2016\01. Thea the Photographer\bin\Debug\netcoreapp2.0\01. Thea the Photographer.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 11 September 2016\01. Thea the Photographer\bin\Debug\netcoreapp2.0\01. Thea the Photographer.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 11 September 2016\01. Thea the Photographer\obj\Debug\netcoreapp2.0\01. Thea the Photographer.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 11 September 2016\01. Thea the Photographer\obj\Debug\netcoreapp2.0\01. Thea the Photographer.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 11 September 2016\01. Thea the Photographer\obj\Debug\netcoreapp2.0\01. Thea the Photographer.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 11 September 2016\01. Thea the Photographer\obj\Debug\netcoreapp2.0\01. Thea the Photographer.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 11 September 2016\01. Thea the Photographer\obj\Debug\netcoreapp2.0\01. Thea the Photographer.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 11 September 2016\01. Thea the Photographer\obj\Debug\netcoreapp2.0\01. Thea the Photographer.pdb

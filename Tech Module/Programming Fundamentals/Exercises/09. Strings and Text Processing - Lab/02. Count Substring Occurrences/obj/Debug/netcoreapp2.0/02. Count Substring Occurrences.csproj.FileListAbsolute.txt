@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp2.0\02. Count Substring Occurrences.deps.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp2.0\02. Count Substring Occurrences.runtimeconfig.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp2.0\02. Count Substring Occurrences.runtimeconfig.dev.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp2.0\02. Count Substring Occurrences.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\02. Count Substring Occurrences\bin\Debug\netcoreapp2.0\02. Count Substring Occurrences.pdb
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp2.0\02. Count Substring Occurrences.csprojAssemblyReference.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp2.0\02. Count Substring Occurrences.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp2.0\02. Count Substring Occurrences.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp2.0\02. Count Substring Occurrences.AssemblyInfo.cs
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp2.0\02. Count Substring Occurrences.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\02. Count Substring Occurrences\obj\Debug\netcoreapp2.0\02. Count Substring Occurrences.pdb

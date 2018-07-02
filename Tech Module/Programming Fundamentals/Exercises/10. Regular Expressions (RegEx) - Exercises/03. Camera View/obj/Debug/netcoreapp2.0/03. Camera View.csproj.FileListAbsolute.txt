@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.deps.json
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.runtimeconfig.json
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.dll
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.pdb
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.AssemblyInfo.cs
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.dll
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.pdb

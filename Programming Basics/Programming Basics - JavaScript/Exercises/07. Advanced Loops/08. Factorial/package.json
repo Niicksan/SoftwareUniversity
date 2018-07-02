@@ -1,0 +1,9 @@
+{
+  "name": "08.-factorial",
+  "version": "0.0.0",
+  "description": "08. Factorial",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

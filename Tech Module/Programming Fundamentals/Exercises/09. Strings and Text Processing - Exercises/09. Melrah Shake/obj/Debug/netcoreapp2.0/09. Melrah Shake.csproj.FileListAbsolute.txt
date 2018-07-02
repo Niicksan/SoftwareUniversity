@@ -1,0 +1,10 @@
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\netcoreapp2.0\09. Melrah Shake.deps.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\netcoreapp2.0\09. Melrah Shake.runtimeconfig.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\netcoreapp2.0\09. Melrah Shake.runtimeconfig.dev.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\netcoreapp2.0\09. Melrah Shake.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\netcoreapp2.0\09. Melrah Shake.pdb
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\netcoreapp2.0\09. Melrah Shake.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\netcoreapp2.0\09. Melrah Shake.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\netcoreapp2.0\09. Melrah Shake.AssemblyInfo.cs
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\netcoreapp2.0\09. Melrah Shake.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\netcoreapp2.0\09. Melrah Shake.pdb

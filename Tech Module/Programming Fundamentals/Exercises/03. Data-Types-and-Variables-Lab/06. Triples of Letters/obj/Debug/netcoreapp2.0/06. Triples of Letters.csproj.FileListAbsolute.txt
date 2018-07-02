@@ -1,0 +1,11 @@
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\06. Triples of Letters\bin\Debug\netcoreapp2.0\06. Triples of Letters.deps.json
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\06. Triples of Letters\bin\Debug\netcoreapp2.0\06. Triples of Letters.runtimeconfig.json
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\06. Triples of Letters\bin\Debug\netcoreapp2.0\06. Triples of Letters.runtimeconfig.dev.json
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\06. Triples of Letters\bin\Debug\netcoreapp2.0\06. Triples of Letters.dll
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\06. Triples of Letters\bin\Debug\netcoreapp2.0\06. Triples of Letters.pdb
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\06. Triples of Letters\obj\Debug\netcoreapp2.0\06. Triples of Letters.csprojAssemblyReference.cache
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\06. Triples of Letters\obj\Debug\netcoreapp2.0\06. Triples of Letters.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\06. Triples of Letters\obj\Debug\netcoreapp2.0\06. Triples of Letters.AssemblyInfoInputs.cache
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\06. Triples of Letters\obj\Debug\netcoreapp2.0\06. Triples of Letters.AssemblyInfo.cs
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\06. Triples of Letters\obj\Debug\netcoreapp2.0\06. Triples of Letters.dll
+C:\Users\NIk\source\repos\03. Data-Types-and-Variables-Lab\06. Triples of Letters\obj\Debug\netcoreapp2.0\06. Triples of Letters.pdb

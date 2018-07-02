@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\06. DNA Sequences\bin\Debug\netcoreapp2.0\06. DNA Sequences.deps.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\06. DNA Sequences\bin\Debug\netcoreapp2.0\06. DNA Sequences.runtimeconfig.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\06. DNA Sequences\bin\Debug\netcoreapp2.0\06. DNA Sequences.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\06. DNA Sequences\bin\Debug\netcoreapp2.0\06. DNA Sequences.dll
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\06. DNA Sequences\bin\Debug\netcoreapp2.0\06. DNA Sequences.pdb
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\06. DNA Sequences\obj\Debug\netcoreapp2.0\06. DNA Sequences.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\06. DNA Sequences\obj\Debug\netcoreapp2.0\06. DNA Sequences.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\06. DNA Sequences\obj\Debug\netcoreapp2.0\06. DNA Sequences.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\06. DNA Sequences\obj\Debug\netcoreapp2.0\06. DNA Sequences.AssemblyInfo.cs
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\06. DNA Sequences\obj\Debug\netcoreapp2.0\06. DNA Sequences.dll
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\06. DNA Sequences\obj\Debug\netcoreapp2.0\06. DNA Sequences.pdb

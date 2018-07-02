@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\03. Hornet Assault\bin\Debug\netcoreapp2.0\03. Hornet Assault.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\03. Hornet Assault\bin\Debug\netcoreapp2.0\03. Hornet Assault.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\03. Hornet Assault\bin\Debug\netcoreapp2.0\03. Hornet Assault.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\03. Hornet Assault\bin\Debug\netcoreapp2.0\03. Hornet Assault.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\03. Hornet Assault\bin\Debug\netcoreapp2.0\03. Hornet Assault.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\03. Hornet Assault\obj\Debug\netcoreapp2.0\03. Hornet Assault.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\03. Hornet Assault\obj\Debug\netcoreapp2.0\03. Hornet Assault.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\03. Hornet Assault\obj\Debug\netcoreapp2.0\03. Hornet Assault.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\03. Hornet Assault\obj\Debug\netcoreapp2.0\03. Hornet Assault.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\03. Hornet Assault\obj\Debug\netcoreapp2.0\03. Hornet Assault.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\03. Hornet Assault\obj\Debug\netcoreapp2.0\03. Hornet Assault.pdb

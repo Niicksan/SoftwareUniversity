@@ -1,0 +1,7 @@
+E:\SoftwareUniversity\Competition\Softuniada 2017\01. SumTo13\obj\Debug\01. SumTo13.csprojResolveAssemblyReference.cache
+E:\SoftwareUniversity\Competition\Softuniada 2017\01. SumTo13\obj\Debug\01. SumTo13.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Competition\Softuniada 2017\01. SumTo13\bin\Debug\_01.SumTo13.exe.config
+E:\SoftwareUniversity\Competition\Softuniada 2017\01. SumTo13\bin\Debug\_01.SumTo13.exe
+E:\SoftwareUniversity\Competition\Softuniada 2017\01. SumTo13\bin\Debug\_01.SumTo13.pdb
+E:\SoftwareUniversity\Competition\Softuniada 2017\01. SumTo13\obj\Debug\_01.SumTo13.exe
+E:\SoftwareUniversity\Competition\Softuniada 2017\01. SumTo13\obj\Debug\_01.SumTo13.pdb

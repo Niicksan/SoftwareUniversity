@@ -1,0 +1,9 @@
+{
+  "name": "10.-check-prime",
+  "version": "0.0.0",
+  "description": "10. Check Prime",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

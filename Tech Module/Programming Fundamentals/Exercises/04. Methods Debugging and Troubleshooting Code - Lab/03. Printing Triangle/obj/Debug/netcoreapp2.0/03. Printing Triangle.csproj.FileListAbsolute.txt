@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.deps.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.dll
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\03. Printing Triangle\bin\Debug\netcoreapp2.0\03. Printing Triangle.pdb
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.dll
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\03. Printing Triangle\obj\Debug\netcoreapp2.0\03. Printing Triangle.pdb

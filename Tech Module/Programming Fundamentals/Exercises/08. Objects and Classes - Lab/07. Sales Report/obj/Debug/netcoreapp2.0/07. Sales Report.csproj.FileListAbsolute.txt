@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\08. Objects and Classes - Lab\07. Sales Report\bin\Debug\netcoreapp2.0\07. Sales Report.deps.json
+c:\users\nik\source\repos\08. Objects and Classes - Lab\07. Sales Report\bin\Debug\netcoreapp2.0\07. Sales Report.runtimeconfig.json
+c:\users\nik\source\repos\08. Objects and Classes - Lab\07. Sales Report\bin\Debug\netcoreapp2.0\07. Sales Report.runtimeconfig.dev.json
+c:\users\nik\source\repos\08. Objects and Classes - Lab\07. Sales Report\bin\Debug\netcoreapp2.0\07. Sales Report.dll
+c:\users\nik\source\repos\08. Objects and Classes - Lab\07. Sales Report\bin\Debug\netcoreapp2.0\07. Sales Report.pdb
+c:\users\nik\source\repos\08. Objects and Classes - Lab\07. Sales Report\obj\Debug\netcoreapp2.0\07. Sales Report.csprojAssemblyReference.cache
+c:\users\nik\source\repos\08. Objects and Classes - Lab\07. Sales Report\obj\Debug\netcoreapp2.0\07. Sales Report.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\08. Objects and Classes - Lab\07. Sales Report\obj\Debug\netcoreapp2.0\07. Sales Report.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\08. Objects and Classes - Lab\07. Sales Report\obj\Debug\netcoreapp2.0\07. Sales Report.AssemblyInfo.cs
+c:\users\nik\source\repos\08. Objects and Classes - Lab\07. Sales Report\obj\Debug\netcoreapp2.0\07. Sales Report.dll
+c:\users\nik\source\repos\08. Objects and Classes - Lab\07. Sales Report\obj\Debug\netcoreapp2.0\07. Sales Report.pdb

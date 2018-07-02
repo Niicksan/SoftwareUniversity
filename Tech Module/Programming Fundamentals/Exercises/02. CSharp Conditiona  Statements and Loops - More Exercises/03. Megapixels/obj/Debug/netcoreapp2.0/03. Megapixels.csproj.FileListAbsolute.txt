@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\03. Megapixels\bin\Debug\netcoreapp2.0\03. Megapixels.deps.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\03. Megapixels\bin\Debug\netcoreapp2.0\03. Megapixels.runtimeconfig.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\03. Megapixels\bin\Debug\netcoreapp2.0\03. Megapixels.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\03. Megapixels\bin\Debug\netcoreapp2.0\03. Megapixels.dll
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\03. Megapixels\bin\Debug\netcoreapp2.0\03. Megapixels.pdb
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\03. Megapixels\obj\Debug\netcoreapp2.0\03. Megapixels.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\03. Megapixels\obj\Debug\netcoreapp2.0\03. Megapixels.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\03. Megapixels\obj\Debug\netcoreapp2.0\03. Megapixels.AssemblyInfo.cs
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\03. Megapixels\obj\Debug\netcoreapp2.0\03. Megapixels.dll
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\03. Megapixels\obj\Debug\netcoreapp2.0\03. Megapixels.pdb

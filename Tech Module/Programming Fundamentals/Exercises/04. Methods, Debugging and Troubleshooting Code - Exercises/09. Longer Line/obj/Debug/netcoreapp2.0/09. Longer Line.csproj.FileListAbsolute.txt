@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\bin\Debug\netcoreapp2.0\09. Longer Line.deps.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\bin\Debug\netcoreapp2.0\09. Longer Line.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\bin\Debug\netcoreapp2.0\09. Longer Line.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\bin\Debug\netcoreapp2.0\09. Longer Line.dll
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\bin\Debug\netcoreapp2.0\09. Longer Line.pdb
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\obj\Debug\netcoreapp2.0\09. Longer Line.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\obj\Debug\netcoreapp2.0\09. Longer Line.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\obj\Debug\netcoreapp2.0\09. Longer Line.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\obj\Debug\netcoreapp2.0\09. Longer Line.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\obj\Debug\netcoreapp2.0\09. Longer Line.dll
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\09. Longer Line\obj\Debug\netcoreapp2.0\09. Longer Line.pdb

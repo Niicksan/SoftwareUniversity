@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.AssemblyInfo.cs
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.csprojAssemblyReference.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.deps.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.runtimeconfig.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.runtimeconfig.dev.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\04. Palindromes\bin\Debug\netcoreapp2.0\04. Palindromes.pdb
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\04. Palindromes\obj\Debug\netcoreapp2.0\04. Palindromes.pdb

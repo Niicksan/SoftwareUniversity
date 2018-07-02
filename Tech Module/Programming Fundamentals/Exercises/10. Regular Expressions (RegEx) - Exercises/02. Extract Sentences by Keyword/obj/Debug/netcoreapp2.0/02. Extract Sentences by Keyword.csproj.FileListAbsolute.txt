@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.deps.json
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.runtimeconfig.json
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.dll
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\bin\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.pdb
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.AssemblyInfo.cs
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.dll
+C:\Users\Nik\source\repos\10. Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\netcoreapp2.0\02. Extract Sentences by Keyword.pdb

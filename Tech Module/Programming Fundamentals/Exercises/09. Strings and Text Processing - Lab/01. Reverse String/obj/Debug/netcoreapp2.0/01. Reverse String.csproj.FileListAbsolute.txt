@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\01. Reverse String\bin\Debug\netcoreapp2.0\01. Reverse String.deps.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\01. Reverse String\bin\Debug\netcoreapp2.0\01. Reverse String.runtimeconfig.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\01. Reverse String\bin\Debug\netcoreapp2.0\01. Reverse String.runtimeconfig.dev.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\01. Reverse String\bin\Debug\netcoreapp2.0\01. Reverse String.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\01. Reverse String\bin\Debug\netcoreapp2.0\01. Reverse String.pdb
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\01. Reverse String\obj\Debug\netcoreapp2.0\01. Reverse String.csprojAssemblyReference.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\01. Reverse String\obj\Debug\netcoreapp2.0\01. Reverse String.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\01. Reverse String\obj\Debug\netcoreapp2.0\01. Reverse String.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\01. Reverse String\obj\Debug\netcoreapp2.0\01. Reverse String.AssemblyInfo.cs
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\01. Reverse String\obj\Debug\netcoreapp2.0\01. Reverse String.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Lab\01. Reverse String\obj\Debug\netcoreapp2.0\01. Reverse String.pdb

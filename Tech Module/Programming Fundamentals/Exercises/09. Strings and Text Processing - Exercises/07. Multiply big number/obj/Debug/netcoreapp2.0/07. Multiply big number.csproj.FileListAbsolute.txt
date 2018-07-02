@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.csprojAssemblyReference.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.AssemblyInfo.cs
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.deps.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.runtimeconfig.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.runtimeconfig.dev.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.pdb
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.pdb

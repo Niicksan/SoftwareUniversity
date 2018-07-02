@@ -1,0 +1,6 @@
+E:\SoftwareUniversity\Competition\Softuniada 2016\02. Draw a House\bin\Debug\_02.Draw_a_House.exe.config
+E:\SoftwareUniversity\Competition\Softuniada 2016\02. Draw a House\bin\Debug\_02.Draw_a_House.exe
+E:\SoftwareUniversity\Competition\Softuniada 2016\02. Draw a House\bin\Debug\_02.Draw_a_House.pdb
+E:\SoftwareUniversity\Competition\Softuniada 2016\02. Draw a House\obj\Debug\02. Draw a House.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Competition\Softuniada 2016\02. Draw a House\obj\Debug\_02.Draw_a_House.exe
+E:\SoftwareUniversity\Competition\Softuniada 2016\02. Draw a House\obj\Debug\_02.Draw_a_House.pdb

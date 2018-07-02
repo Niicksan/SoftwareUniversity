@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\10. Holidays Between Two Dates.deps.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\10. Holidays Between Two Dates.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\10. Holidays Between Two Dates.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\10. Holidays Between Two Dates.dll
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\10. Holidays Between Two Dates.pdb
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\10. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\10. Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\10. Holidays Between Two Dates.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\10. Holidays Between Two Dates.dll
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\10. Holidays Between Two Dates.pdb

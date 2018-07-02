@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\07. Training Hall Equipment\bin\Debug\netcoreapp2.0\07. Training Hall Equipment.deps.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\07. Training Hall Equipment\bin\Debug\netcoreapp2.0\07. Training Hall Equipment.runtimeconfig.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\07. Training Hall Equipment\bin\Debug\netcoreapp2.0\07. Training Hall Equipment.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\07. Training Hall Equipment\bin\Debug\netcoreapp2.0\07. Training Hall Equipment.dll
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\07. Training Hall Equipment\bin\Debug\netcoreapp2.0\07. Training Hall Equipment.pdb
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\07. Training Hall Equipment\obj\Debug\netcoreapp2.0\07. Training Hall Equipment.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\07. Training Hall Equipment\obj\Debug\netcoreapp2.0\07. Training Hall Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\07. Training Hall Equipment\obj\Debug\netcoreapp2.0\07. Training Hall Equipment.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\07. Training Hall Equipment\obj\Debug\netcoreapp2.0\07. Training Hall Equipment.AssemblyInfo.cs
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\07. Training Hall Equipment\obj\Debug\netcoreapp2.0\07. Training Hall Equipment.dll
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\07. Training Hall Equipment\obj\Debug\netcoreapp2.0\07. Training Hall Equipment.pdb

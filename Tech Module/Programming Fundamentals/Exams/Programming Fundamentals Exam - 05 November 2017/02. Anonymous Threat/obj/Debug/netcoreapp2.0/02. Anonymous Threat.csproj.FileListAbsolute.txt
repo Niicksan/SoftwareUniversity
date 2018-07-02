@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\02. Anonymous Threat\bin\Debug\netcoreapp2.0\02. Anonymous Threat.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\02. Anonymous Threat\bin\Debug\netcoreapp2.0\02. Anonymous Threat.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\02. Anonymous Threat\bin\Debug\netcoreapp2.0\02. Anonymous Threat.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\02. Anonymous Threat\bin\Debug\netcoreapp2.0\02. Anonymous Threat.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\02. Anonymous Threat\bin\Debug\netcoreapp2.0\02. Anonymous Threat.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\02. Anonymous Threat\obj\Debug\netcoreapp2.0\02. Anonymous Threat.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\02. Anonymous Threat\obj\Debug\netcoreapp2.0\02. Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\02. Anonymous Threat\obj\Debug\netcoreapp2.0\02. Anonymous Threat.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\02. Anonymous Threat\obj\Debug\netcoreapp2.0\02. Anonymous Threat.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\02. Anonymous Threat\obj\Debug\netcoreapp2.0\02. Anonymous Threat.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\02. Anonymous Threat\obj\Debug\netcoreapp2.0\02. Anonymous Threat.pdb

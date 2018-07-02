@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\08. Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.0\03. Big Factorial.deps.json
+c:\users\nik\source\repos\08. Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.0\03. Big Factorial.runtimeconfig.json
+c:\users\nik\source\repos\08. Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.0\03. Big Factorial.runtimeconfig.dev.json
+c:\users\nik\source\repos\08. Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.0\03. Big Factorial.dll
+c:\users\nik\source\repos\08. Objects and Classes - Lab\03. Big Factorial\bin\Debug\netcoreapp2.0\03. Big Factorial.pdb
+c:\users\nik\source\repos\08. Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.0\03. Big Factorial.csprojAssemblyReference.cache
+c:\users\nik\source\repos\08. Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.0\03. Big Factorial.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\08. Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.0\03. Big Factorial.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\08. Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.0\03. Big Factorial.AssemblyInfo.cs
+c:\users\nik\source\repos\08. Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.0\03. Big Factorial.dll
+c:\users\nik\source\repos\08. Objects and Classes - Lab\03. Big Factorial\obj\Debug\netcoreapp2.0\03. Big Factorial.pdb

@@ -1,0 +1,6 @@
+E:\SoftwareUniversity\Competition\Softuniada 2016\06. Three Brothers\bin\Debug\_06.Three_Brothers.exe.config
+E:\SoftwareUniversity\Competition\Softuniada 2016\06. Three Brothers\bin\Debug\_06.Three_Brothers.exe
+E:\SoftwareUniversity\Competition\Softuniada 2016\06. Three Brothers\bin\Debug\_06.Three_Brothers.pdb
+E:\SoftwareUniversity\Competition\Softuniada 2016\06. Three Brothers\obj\Debug\06. Three Brothers.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Competition\Softuniada 2016\06. Three Brothers\obj\Debug\_06.Three_Brothers.exe
+E:\SoftwareUniversity\Competition\Softuniada 2016\06. Three Brothers\obj\Debug\_06.Three_Brothers.pdb

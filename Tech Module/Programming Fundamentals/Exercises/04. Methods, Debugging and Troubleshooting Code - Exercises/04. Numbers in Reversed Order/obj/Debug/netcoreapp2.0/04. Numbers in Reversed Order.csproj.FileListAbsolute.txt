@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\04. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\04. Numbers in Reversed Order.deps.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\04. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\04. Numbers in Reversed Order.runtimeconfig.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\04. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\04. Numbers in Reversed Order.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\04. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\04. Numbers in Reversed Order.dll
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\04. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\04. Numbers in Reversed Order.pdb
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\04. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\04. Numbers in Reversed Order.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\04. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\04. Numbers in Reversed Order.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\04. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\04. Numbers in Reversed Order.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\04. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\04. Numbers in Reversed Order.dll
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\04. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\04. Numbers in Reversed Order.pdb
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\04. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\04. Numbers in Reversed Order.csprojAssemblyReference.cache

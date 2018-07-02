@@ -1,0 +1,7 @@
+E:\SoftwareUniversity\Competition\Softuniada 2016\05. Crossing Figures\obj\Debug\05. Crossing Figures.csprojResolveAssemblyReference.cache
+E:\SoftwareUniversity\Competition\Softuniada 2016\05. Crossing Figures\obj\Debug\05. Crossing Figures.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Competition\Softuniada 2016\05. Crossing Figures\bin\Debug\_05.Crossing_Figures.exe.config
+E:\SoftwareUniversity\Competition\Softuniada 2016\05. Crossing Figures\bin\Debug\_05.Crossing_Figures.exe
+E:\SoftwareUniversity\Competition\Softuniada 2016\05. Crossing Figures\bin\Debug\_05.Crossing_Figures.pdb
+E:\SoftwareUniversity\Competition\Softuniada 2016\05. Crossing Figures\obj\Debug\_05.Crossing_Figures.exe
+E:\SoftwareUniversity\Competition\Softuniada 2016\05. Crossing Figures\obj\Debug\_05.Crossing_Figures.pdb

@@ -1,0 +1,9 @@
+{
+  "name": "04.-even-powers-of-2",
+  "version": "0.0.0",
+  "description": "04. Even Powers of 2",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

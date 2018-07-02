@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\03. Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\netcoreapp2.0\15. Balanced Brackets.deps.json
+C:\Users\Nik\source\repos\03. Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\netcoreapp2.0\15. Balanced Brackets.runtimeconfig.json
+C:\Users\Nik\source\repos\03. Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\netcoreapp2.0\15. Balanced Brackets.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\03. Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\netcoreapp2.0\15. Balanced Brackets.dll
+C:\Users\Nik\source\repos\03. Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\netcoreapp2.0\15. Balanced Brackets.pdb
+C:\Users\Nik\source\repos\03. Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\netcoreapp2.0\15. Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\03. Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\netcoreapp2.0\15. Balanced Brackets.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\03. Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\netcoreapp2.0\15. Balanced Brackets.AssemblyInfo.cs
+C:\Users\Nik\source\repos\03. Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\netcoreapp2.0\15. Balanced Brackets.dll
+C:\Users\Nik\source\repos\03. Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\netcoreapp2.0\15. Balanced Brackets.pdb

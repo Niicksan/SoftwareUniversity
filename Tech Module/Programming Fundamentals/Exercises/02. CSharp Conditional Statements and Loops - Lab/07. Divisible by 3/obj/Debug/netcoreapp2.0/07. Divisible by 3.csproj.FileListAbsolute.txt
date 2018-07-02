@@ -1,0 +1,11 @@
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\07. Divisible by 3\bin\Debug\netcoreapp2.0\07. Divisible by 3.deps.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\07. Divisible by 3\bin\Debug\netcoreapp2.0\07. Divisible by 3.runtimeconfig.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\07. Divisible by 3\bin\Debug\netcoreapp2.0\07. Divisible by 3.runtimeconfig.dev.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\07. Divisible by 3\bin\Debug\netcoreapp2.0\07. Divisible by 3.dll
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\07. Divisible by 3\bin\Debug\netcoreapp2.0\07. Divisible by 3.pdb
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\07. Divisible by 3\obj\Debug\netcoreapp2.0\07. Divisible by 3.csprojAssemblyReference.cache
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\07. Divisible by 3\obj\Debug\netcoreapp2.0\07. Divisible by 3.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\07. Divisible by 3\obj\Debug\netcoreapp2.0\07. Divisible by 3.AssemblyInfoInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\07. Divisible by 3\obj\Debug\netcoreapp2.0\07. Divisible by 3.AssemblyInfo.cs
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\07. Divisible by 3\obj\Debug\netcoreapp2.0\07. Divisible by 3.dll
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\07. Divisible by 3\obj\Debug\netcoreapp2.0\07. Divisible by 3.pdb

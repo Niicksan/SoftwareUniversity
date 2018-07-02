@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\04. NSA\bin\Debug\netcoreapp2.0\04. NSA.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\04. NSA\bin\Debug\netcoreapp2.0\04. NSA.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\04. NSA\bin\Debug\netcoreapp2.0\04. NSA.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\04. NSA\bin\Debug\netcoreapp2.0\04. NSA.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\04. NSA\bin\Debug\netcoreapp2.0\04. NSA.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\04. NSA\obj\Debug\netcoreapp2.0\04. NSA.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\04. NSA\obj\Debug\netcoreapp2.0\04. NSA.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\04. NSA\obj\Debug\netcoreapp2.0\04. NSA.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\04. NSA\obj\Debug\netcoreapp2.0\04. NSA.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\04. NSA\obj\Debug\netcoreapp2.0\04. NSA.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\04. NSA\obj\Debug\netcoreapp2.0\04. NSA.pdb

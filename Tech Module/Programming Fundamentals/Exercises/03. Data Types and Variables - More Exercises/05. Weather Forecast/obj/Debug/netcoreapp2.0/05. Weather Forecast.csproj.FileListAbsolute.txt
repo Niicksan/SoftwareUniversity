@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\05. Weather Forecast\bin\Debug\netcoreapp2.0\05. Weather Forecast.deps.json
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\05. Weather Forecast\bin\Debug\netcoreapp2.0\05. Weather Forecast.runtimeconfig.json
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\05. Weather Forecast\bin\Debug\netcoreapp2.0\05. Weather Forecast.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\05. Weather Forecast\bin\Debug\netcoreapp2.0\05. Weather Forecast.dll
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\05. Weather Forecast\bin\Debug\netcoreapp2.0\05. Weather Forecast.pdb
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\05. Weather Forecast\obj\Debug\netcoreapp2.0\05. Weather Forecast.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\05. Weather Forecast\obj\Debug\netcoreapp2.0\05. Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\05. Weather Forecast\obj\Debug\netcoreapp2.0\05. Weather Forecast.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\05. Weather Forecast\obj\Debug\netcoreapp2.0\05. Weather Forecast.AssemblyInfo.cs
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\05. Weather Forecast\obj\Debug\netcoreapp2.0\05. Weather Forecast.dll
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\05. Weather Forecast\obj\Debug\netcoreapp2.0\05. Weather Forecast.pdb

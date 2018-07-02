@@ -1,0 +1,9 @@
+{
+  "name": "07.-greatest-common-divisor--cgd-",
+  "version": "0.0.0",
+  "description": "07. Greatest Common Divisor (CGD)",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

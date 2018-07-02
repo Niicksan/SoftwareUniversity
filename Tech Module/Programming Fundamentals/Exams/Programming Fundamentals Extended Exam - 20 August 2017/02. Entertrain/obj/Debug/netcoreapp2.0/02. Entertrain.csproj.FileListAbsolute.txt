@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\02. Entertrain\bin\Debug\netcoreapp2.0\02. Entertrain.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\02. Entertrain\bin\Debug\netcoreapp2.0\02. Entertrain.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\02. Entertrain\bin\Debug\netcoreapp2.0\02. Entertrain.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\02. Entertrain\bin\Debug\netcoreapp2.0\02. Entertrain.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\02. Entertrain\bin\Debug\netcoreapp2.0\02. Entertrain.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\02. Entertrain\obj\Debug\netcoreapp2.0\02. Entertrain.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\02. Entertrain\obj\Debug\netcoreapp2.0\02. Entertrain.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\02. Entertrain\obj\Debug\netcoreapp2.0\02. Entertrain.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\02. Entertrain\obj\Debug\netcoreapp2.0\02. Entertrain.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\02. Entertrain\obj\Debug\netcoreapp2.0\02. Entertrain.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Exam - 20 August 2017\02. Entertrain\obj\Debug\netcoreapp2.0\02. Entertrain.pdb

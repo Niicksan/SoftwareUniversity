@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\02. Snowmen\bin\Debug\netcoreapp2.0\02. Snowmen.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\02. Snowmen\bin\Debug\netcoreapp2.0\02. Snowmen.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\02. Snowmen\bin\Debug\netcoreapp2.0\02. Snowmen.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\02. Snowmen\bin\Debug\netcoreapp2.0\02. Snowmen.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\02. Snowmen\bin\Debug\netcoreapp2.0\02. Snowmen.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\02. Snowmen\obj\Debug\netcoreapp2.0\02. Snowmen.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\02. Snowmen\obj\Debug\netcoreapp2.0\02. Snowmen.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\02. Snowmen\obj\Debug\netcoreapp2.0\02. Snowmen.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\02. Snowmen\obj\Debug\netcoreapp2.0\02. Snowmen.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\02. Snowmen\obj\Debug\netcoreapp2.0\02. Snowmen.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\02. Snowmen\obj\Debug\netcoreapp2.0\02. Snowmen.pdb

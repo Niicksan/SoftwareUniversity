@@ -1,0 +1,9 @@
+{
+  "name": "01.-numbers-1-to-n-with-step-3",
+  "version": "0.0.0",
+  "description": "01. Numbers 1 to N with Step 3",
+  "main": "app.js",
+  "author": {
+    "name": "NIk"
+  }
+}

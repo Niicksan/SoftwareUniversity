@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\01. X\bin\Debug\netcoreapp2.0\01. X.deps.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\01. X\bin\Debug\netcoreapp2.0\01. X.runtimeconfig.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\01. X\bin\Debug\netcoreapp2.0\01. X.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\01. X\bin\Debug\netcoreapp2.0\01. X.dll
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\01. X\bin\Debug\netcoreapp2.0\01. X.pdb
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\01. X\obj\Debug\netcoreapp2.0\01. X.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\01. X\obj\Debug\netcoreapp2.0\01. X.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\01. X\obj\Debug\netcoreapp2.0\01. X.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\01. X\obj\Debug\netcoreapp2.0\01. X.AssemblyInfo.cs
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\01. X\obj\Debug\netcoreapp2.0\01. X.dll
+C:\Users\Nik\source\repos\02. CSharp Conditiona  Statements and Loops - Exer\01. X\obj\Debug\netcoreapp2.0\01. X.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.deps.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.dll
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp2.0\06. Calculate Triangle Area.pdb
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.dll
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp2.0\06. Calculate Triangle Area.pdb

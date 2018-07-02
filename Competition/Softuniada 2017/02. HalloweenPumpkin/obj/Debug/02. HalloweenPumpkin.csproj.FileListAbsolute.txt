@@ -1,0 +1,6 @@
+E:\SoftwareUniversity\Competition\Softuniada 2017\02. HalloweenPumpkin\bin\Debug\_02.HalloweenPumpkin.exe.config
+E:\SoftwareUniversity\Competition\Softuniada 2017\02. HalloweenPumpkin\bin\Debug\_02.HalloweenPumpkin.exe
+E:\SoftwareUniversity\Competition\Softuniada 2017\02. HalloweenPumpkin\bin\Debug\_02.HalloweenPumpkin.pdb
+E:\SoftwareUniversity\Competition\Softuniada 2017\02. HalloweenPumpkin\obj\Debug\02. HalloweenPumpkin.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Competition\Softuniada 2017\02. HalloweenPumpkin\obj\Debug\_02.HalloweenPumpkin.exe
+E:\SoftwareUniversity\Competition\Softuniada 2017\02. HalloweenPumpkin\obj\Debug\_02.HalloweenPumpkin.pdb

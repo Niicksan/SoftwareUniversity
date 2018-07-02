@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\05. Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\07. Max Sequence of Increasing Elements.deps.json
+C:\Users\Nik\source\repos\05. Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\07. Max Sequence of Increasing Elements.runtimeconfig.json
+C:\Users\Nik\source\repos\05. Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\07. Max Sequence of Increasing Elements.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\05. Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\07. Max Sequence of Increasing Elements.dll
+C:\Users\Nik\source\repos\05. Arrays - Exercises\07. Max Sequence of Increasing Elements\bin\Debug\netcoreapp2.0\07. Max Sequence of Increasing Elements.pdb
+C:\Users\Nik\source\repos\05. Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\07. Max Sequence of Increasing Elements.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\05. Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\07. Max Sequence of Increasing Elements.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\05. Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\07. Max Sequence of Increasing Elements.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\05. Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\07. Max Sequence of Increasing Elements.AssemblyInfo.cs
+C:\Users\Nik\source\repos\05. Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\07. Max Sequence of Increasing Elements.dll
+C:\Users\Nik\source\repos\05. Arrays - Exercises\07. Max Sequence of Increasing Elements\obj\Debug\netcoreapp2.0\07. Max Sequence of Increasing Elements.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.AssemblyInfo.cs
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.deps.json
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.runtimeconfig.json
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.dll
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\04. Tourist Information\bin\Debug\netcoreapp2.0\04. Tourist Information.pdb
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.dll
+C:\Users\Nik\source\repos\03. Data Types and Variables More - Exercises\04. Tourist Information\obj\Debug\netcoreapp2.0\04. Tourist Information.pdb

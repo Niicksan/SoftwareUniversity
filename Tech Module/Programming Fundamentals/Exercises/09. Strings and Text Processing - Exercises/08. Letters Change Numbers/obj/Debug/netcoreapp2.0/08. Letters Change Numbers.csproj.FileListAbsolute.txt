@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.deps.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.runtimeconfig.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.runtimeconfig.dev.json
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.pdb
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.csprojAssemblyReference.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.AssemblyInfo.cs
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.dll
+c:\users\nik\source\repos\09. Strings and Text Processing - Exercises\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.pdb

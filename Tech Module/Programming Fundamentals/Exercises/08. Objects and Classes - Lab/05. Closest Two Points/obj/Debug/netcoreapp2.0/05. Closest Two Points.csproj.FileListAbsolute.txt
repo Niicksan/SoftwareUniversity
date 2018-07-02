@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\08. Objects and Classes - Lab\05. Closest Two Points\bin\Debug\netcoreapp2.0\05. Closest Two Points.deps.json
+c:\users\nik\source\repos\08. Objects and Classes - Lab\05. Closest Two Points\bin\Debug\netcoreapp2.0\05. Closest Two Points.runtimeconfig.json
+c:\users\nik\source\repos\08. Objects and Classes - Lab\05. Closest Two Points\bin\Debug\netcoreapp2.0\05. Closest Two Points.runtimeconfig.dev.json
+c:\users\nik\source\repos\08. Objects and Classes - Lab\05. Closest Two Points\bin\Debug\netcoreapp2.0\05. Closest Two Points.dll
+c:\users\nik\source\repos\08. Objects and Classes - Lab\05. Closest Two Points\bin\Debug\netcoreapp2.0\05. Closest Two Points.pdb
+c:\users\nik\source\repos\08. Objects and Classes - Lab\05. Closest Two Points\obj\Debug\netcoreapp2.0\05. Closest Two Points.csprojAssemblyReference.cache
+c:\users\nik\source\repos\08. Objects and Classes - Lab\05. Closest Two Points\obj\Debug\netcoreapp2.0\05. Closest Two Points.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\08. Objects and Classes - Lab\05. Closest Two Points\obj\Debug\netcoreapp2.0\05. Closest Two Points.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\08. Objects and Classes - Lab\05. Closest Two Points\obj\Debug\netcoreapp2.0\05. Closest Two Points.AssemblyInfo.cs
+c:\users\nik\source\repos\08. Objects and Classes - Lab\05. Closest Two Points\obj\Debug\netcoreapp2.0\05. Closest Two Points.dll
+c:\users\nik\source\repos\08. Objects and Classes - Lab\05. Closest Two Points\obj\Debug\netcoreapp2.0\05. Closest Two Points.pdb

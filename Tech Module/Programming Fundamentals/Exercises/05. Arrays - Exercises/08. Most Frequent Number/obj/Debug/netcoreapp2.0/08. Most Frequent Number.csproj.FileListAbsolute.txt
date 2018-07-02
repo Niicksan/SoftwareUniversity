@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\05. Arrays - Exercises\08. Most Frequent Number\bin\Debug\netcoreapp2.0\08. Most Frequent Number.deps.json
+C:\Users\Nik\source\repos\05. Arrays - Exercises\08. Most Frequent Number\bin\Debug\netcoreapp2.0\08. Most Frequent Number.runtimeconfig.json
+C:\Users\Nik\source\repos\05. Arrays - Exercises\08. Most Frequent Number\bin\Debug\netcoreapp2.0\08. Most Frequent Number.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\05. Arrays - Exercises\08. Most Frequent Number\bin\Debug\netcoreapp2.0\08. Most Frequent Number.dll
+C:\Users\Nik\source\repos\05. Arrays - Exercises\08. Most Frequent Number\bin\Debug\netcoreapp2.0\08. Most Frequent Number.pdb
+C:\Users\Nik\source\repos\05. Arrays - Exercises\08. Most Frequent Number\obj\Debug\netcoreapp2.0\08. Most Frequent Number.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\05. Arrays - Exercises\08. Most Frequent Number\obj\Debug\netcoreapp2.0\08. Most Frequent Number.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\05. Arrays - Exercises\08. Most Frequent Number\obj\Debug\netcoreapp2.0\08. Most Frequent Number.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\05. Arrays - Exercises\08. Most Frequent Number\obj\Debug\netcoreapp2.0\08. Most Frequent Number.AssemblyInfo.cs
+C:\Users\Nik\source\repos\05. Arrays - Exercises\08. Most Frequent Number\obj\Debug\netcoreapp2.0\08. Most Frequent Number.dll
+C:\Users\Nik\source\repos\05. Arrays - Exercises\08. Most Frequent Number\obj\Debug\netcoreapp2.0\08. Most Frequent Number.pdb

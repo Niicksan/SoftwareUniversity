@@ -1,0 +1,6 @@
+E:\SoftwareUniversity\Competition\Softuniada 2018\3. Bingo Generator\bin\Debug\_3.Bingo_Generator.exe.config
+E:\SoftwareUniversity\Competition\Softuniada 2018\3. Bingo Generator\bin\Debug\_3.Bingo_Generator.exe
+E:\SoftwareUniversity\Competition\Softuniada 2018\3. Bingo Generator\bin\Debug\_3.Bingo_Generator.pdb
+E:\SoftwareUniversity\Competition\Softuniada 2018\3. Bingo Generator\obj\Debug\3. Bingo Generator.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Competition\Softuniada 2018\3. Bingo Generator\obj\Debug\_3.Bingo_Generator.exe
+E:\SoftwareUniversity\Competition\Softuniada 2018\3. Bingo Generator\obj\Debug\_3.Bingo_Generator.pdb

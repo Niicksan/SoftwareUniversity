@@ -1,0 +1,7 @@
+E:\SoftwareUniversity\Competition\Softuniada 2018\2. Easter Egg\bin\Debug\_2.Easter_Egg.exe.config
+E:\SoftwareUniversity\Competition\Softuniada 2018\2. Easter Egg\bin\Debug\_2.Easter_Egg.exe
+E:\SoftwareUniversity\Competition\Softuniada 2018\2. Easter Egg\bin\Debug\_2.Easter_Egg.pdb
+E:\SoftwareUniversity\Competition\Softuniada 2018\2. Easter Egg\obj\Debug\2. Easter Egg.csprojResolveAssemblyReference.cache
+E:\SoftwareUniversity\Competition\Softuniada 2018\2. Easter Egg\obj\Debug\2. Easter Egg.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Competition\Softuniada 2018\2. Easter Egg\obj\Debug\_2.Easter_Egg.exe
+E:\SoftwareUniversity\Competition\Softuniada 2018\2. Easter Egg\obj\Debug\_2.Easter_Egg.pdb

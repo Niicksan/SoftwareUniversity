@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\01. Splinter Trip\bin\Debug\netcoreapp2.0\01. Splinter Trip.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\01. Splinter Trip\bin\Debug\netcoreapp2.0\01. Splinter Trip.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\01. Splinter Trip\bin\Debug\netcoreapp2.0\01. Splinter Trip.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\01. Splinter Trip\bin\Debug\netcoreapp2.0\01. Splinter Trip.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\01. Splinter Trip\bin\Debug\netcoreapp2.0\01. Splinter Trip.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\01. Splinter Trip\obj\Debug\netcoreapp2.0\01. Splinter Trip.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\01. Splinter Trip\obj\Debug\netcoreapp2.0\01. Splinter Trip.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\01. Splinter Trip\obj\Debug\netcoreapp2.0\01. Splinter Trip.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\01. Splinter Trip\obj\Debug\netcoreapp2.0\01. Splinter Trip.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\01. Splinter Trip\obj\Debug\netcoreapp2.0\01. Splinter Trip.pdb

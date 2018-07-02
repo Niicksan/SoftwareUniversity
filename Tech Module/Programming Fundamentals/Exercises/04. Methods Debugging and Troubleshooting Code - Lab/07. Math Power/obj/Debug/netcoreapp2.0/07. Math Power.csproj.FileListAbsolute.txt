@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\07. Math Power\bin\Debug\netcoreapp2.0\07. Math Power.deps.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\07. Math Power\bin\Debug\netcoreapp2.0\07. Math Power.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\07. Math Power\bin\Debug\netcoreapp2.0\07. Math Power.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\07. Math Power\bin\Debug\netcoreapp2.0\07. Math Power.dll
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\07. Math Power\bin\Debug\netcoreapp2.0\07. Math Power.pdb
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\07. Math Power\obj\Debug\netcoreapp2.0\07. Math Power.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\07. Math Power\obj\Debug\netcoreapp2.0\07. Math Power.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\07. Math Power\obj\Debug\netcoreapp2.0\07. Math Power.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\07. Math Power\obj\Debug\netcoreapp2.0\07. Math Power.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\07. Math Power\obj\Debug\netcoreapp2.0\07. Math Power.dll
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\07. Math Power\obj\Debug\netcoreapp2.0\07. Math Power.pdb

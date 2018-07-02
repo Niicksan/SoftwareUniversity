@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\04. ForceBook\bin\Debug\netcoreapp2.0\04. ForceBook.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\04. ForceBook\bin\Debug\netcoreapp2.0\04. ForceBook.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\04. ForceBook\bin\Debug\netcoreapp2.0\04. ForceBook.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\04. ForceBook\bin\Debug\netcoreapp2.0\04. ForceBook.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\04. ForceBook\bin\Debug\netcoreapp2.0\04. ForceBook.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\04. ForceBook\obj\Debug\netcoreapp2.0\04. ForceBook.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\04. ForceBook\obj\Debug\netcoreapp2.0\04. ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\04. ForceBook\obj\Debug\netcoreapp2.0\04. ForceBook.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\04. ForceBook\obj\Debug\netcoreapp2.0\04. ForceBook.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\04. ForceBook\obj\Debug\netcoreapp2.0\04. ForceBook.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 04 March 2018\04. ForceBook\obj\Debug\netcoreapp2.0\04. ForceBook.pdb

@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\01. Count Working Days\bin\Debug\netcoreapp2.0\01. Count Working Days.deps.json
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\01. Count Working Days\bin\Debug\netcoreapp2.0\01. Count Working Days.runtimeconfig.json
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\01. Count Working Days\bin\Debug\netcoreapp2.0\01. Count Working Days.runtimeconfig.dev.json
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\01. Count Working Days\bin\Debug\netcoreapp2.0\01. Count Working Days.dll
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\01. Count Working Days\bin\Debug\netcoreapp2.0\01. Count Working Days.pdb
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\01. Count Working Days\obj\Debug\netcoreapp2.0\01. Count Working Days.csprojAssemblyReference.cache
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\01. Count Working Days\obj\Debug\netcoreapp2.0\01. Count Working Days.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\01. Count Working Days\obj\Debug\netcoreapp2.0\01. Count Working Days.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\01. Count Working Days\obj\Debug\netcoreapp2.0\01. Count Working Days.AssemblyInfo.cs
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\01. Count Working Days\obj\Debug\netcoreapp2.0\01. Count Working Days.dll
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\01. Count Working Days\obj\Debug\netcoreapp2.0\01. Count Working Days.pdb

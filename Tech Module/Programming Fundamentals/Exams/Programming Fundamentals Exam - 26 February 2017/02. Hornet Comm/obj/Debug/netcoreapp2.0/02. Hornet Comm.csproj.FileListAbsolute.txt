@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\02. Hornet Comm\bin\Debug\netcoreapp2.0\02. Hornet Comm.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\02. Hornet Comm\bin\Debug\netcoreapp2.0\02. Hornet Comm.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\02. Hornet Comm\bin\Debug\netcoreapp2.0\02. Hornet Comm.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\02. Hornet Comm\bin\Debug\netcoreapp2.0\02. Hornet Comm.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\02. Hornet Comm\bin\Debug\netcoreapp2.0\02. Hornet Comm.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\02. Hornet Comm\obj\Debug\netcoreapp2.0\02. Hornet Comm.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\02. Hornet Comm\obj\Debug\netcoreapp2.0\02. Hornet Comm.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\02. Hornet Comm\obj\Debug\netcoreapp2.0\02. Hornet Comm.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\02. Hornet Comm\obj\Debug\netcoreapp2.0\02. Hornet Comm.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\02. Hornet Comm\obj\Debug\netcoreapp2.0\02. Hornet Comm.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 26 February 2017\02. Hornet Comm\obj\Debug\netcoreapp2.0\02. Hornet Comm.pdb

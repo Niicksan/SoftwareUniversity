@@ -1,0 +1,11 @@
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\11. Odd Number\bin\Debug\netcoreapp2.0\11. Odd Number.deps.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\11. Odd Number\bin\Debug\netcoreapp2.0\11. Odd Number.runtimeconfig.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\11. Odd Number\bin\Debug\netcoreapp2.0\11. Odd Number.runtimeconfig.dev.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\11. Odd Number\bin\Debug\netcoreapp2.0\11. Odd Number.dll
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\11. Odd Number\bin\Debug\netcoreapp2.0\11. Odd Number.pdb
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\11. Odd Number\obj\Debug\netcoreapp2.0\11. Odd Number.csprojAssemblyReference.cache
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\11. Odd Number\obj\Debug\netcoreapp2.0\11. Odd Number.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\11. Odd Number\obj\Debug\netcoreapp2.0\11. Odd Number.AssemblyInfoInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\11. Odd Number\obj\Debug\netcoreapp2.0\11. Odd Number.AssemblyInfo.cs
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\11. Odd Number\obj\Debug\netcoreapp2.0\11. Odd Number.dll
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\11. Odd Number\obj\Debug\netcoreapp2.0\11. Odd Number.pdb

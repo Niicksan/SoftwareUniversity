@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\01. Anonymous Downsite\bin\Debug\netcoreapp2.0\01. Anonymous Downsite.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\01. Anonymous Downsite\bin\Debug\netcoreapp2.0\01. Anonymous Downsite.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\01. Anonymous Downsite\bin\Debug\netcoreapp2.0\01. Anonymous Downsite.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\01. Anonymous Downsite\bin\Debug\netcoreapp2.0\01. Anonymous Downsite.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\01. Anonymous Downsite\bin\Debug\netcoreapp2.0\01. Anonymous Downsite.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\01. Anonymous Downsite\obj\Debug\netcoreapp2.0\01. Anonymous Downsite.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\01. Anonymous Downsite\obj\Debug\netcoreapp2.0\01. Anonymous Downsite.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\01. Anonymous Downsite\obj\Debug\netcoreapp2.0\01. Anonymous Downsite.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\01. Anonymous Downsite\obj\Debug\netcoreapp2.0\01. Anonymous Downsite.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\01. Anonymous Downsite\obj\Debug\netcoreapp2.0\01. Anonymous Downsite.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\01. Anonymous Downsite\obj\Debug\netcoreapp2.0\01. Anonymous Downsite.pdb

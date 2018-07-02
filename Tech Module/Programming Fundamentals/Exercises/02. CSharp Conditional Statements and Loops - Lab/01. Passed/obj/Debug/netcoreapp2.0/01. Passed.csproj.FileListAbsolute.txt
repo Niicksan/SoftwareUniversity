@@ -1,0 +1,11 @@
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\01. Passed\bin\Debug\netcoreapp2.0\01. Passed.deps.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\01. Passed\bin\Debug\netcoreapp2.0\01. Passed.runtimeconfig.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\01. Passed\bin\Debug\netcoreapp2.0\01. Passed.runtimeconfig.dev.json
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\01. Passed\bin\Debug\netcoreapp2.0\01. Passed.dll
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\01. Passed\bin\Debug\netcoreapp2.0\01. Passed.pdb
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\01. Passed\obj\Debug\netcoreapp2.0\01. Passed.csprojAssemblyReference.cache
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\01. Passed\obj\Debug\netcoreapp2.0\01. Passed.csproj.CoreCompileInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\01. Passed\obj\Debug\netcoreapp2.0\01. Passed.AssemblyInfoInputs.cache
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\01. Passed\obj\Debug\netcoreapp2.0\01. Passed.AssemblyInfo.cs
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\01. Passed\obj\Debug\netcoreapp2.0\01. Passed.dll
+C:\Users\NIk\source\repos\02. CSharp Conditional Statements and Loops - Lab\01. Passed\obj\Debug\netcoreapp2.0\01. Passed.pdb

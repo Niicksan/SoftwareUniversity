@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.deps.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.dll
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp2.0\09. Multiply Evens by Odds.pdb
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.dll
+C:\Users\Nik\source\repos\04. Methods Debugging and Troubleshooting Code-Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp2.0\09. Multiply Evens by Odds.pdb

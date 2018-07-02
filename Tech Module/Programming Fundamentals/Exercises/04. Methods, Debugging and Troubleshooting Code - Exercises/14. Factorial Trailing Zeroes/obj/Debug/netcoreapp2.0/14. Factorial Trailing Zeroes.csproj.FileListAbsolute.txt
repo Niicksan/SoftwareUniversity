@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.deps.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.dll
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.pdb
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.dll
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\netcoreapp2.0\14. Factorial Trailing Zeroes.pdb

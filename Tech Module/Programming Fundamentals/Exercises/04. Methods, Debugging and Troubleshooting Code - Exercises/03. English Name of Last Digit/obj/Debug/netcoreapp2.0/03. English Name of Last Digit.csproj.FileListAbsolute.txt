@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.deps.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.runtimeconfig.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.dll
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\03. English Name of Last Digit\bin\Debug\netcoreapp2.0\03. English Name of Last Digit.pdb
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.dll
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.pdb
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\03. English Name of Last Digit\obj\Debug\netcoreapp2.0\03. English Name of Last Digit.csprojAssemblyReference.cache

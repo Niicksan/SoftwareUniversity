@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\02. Spy Gram\bin\Debug\netcoreapp2.0\02. Spy Gram.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\02. Spy Gram\bin\Debug\netcoreapp2.0\02. Spy Gram.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\02. Spy Gram\bin\Debug\netcoreapp2.0\02. Spy Gram.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\02. Spy Gram\bin\Debug\netcoreapp2.0\02. Spy Gram.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\02. Spy Gram\bin\Debug\netcoreapp2.0\02. Spy Gram.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\02. Spy Gram\obj\Debug\netcoreapp2.0\02. Spy Gram.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\02. Spy Gram\obj\Debug\netcoreapp2.0\02. Spy Gram.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\02. Spy Gram\obj\Debug\netcoreapp2.0\02. Spy Gram.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\02. Spy Gram\obj\Debug\netcoreapp2.0\02. Spy Gram.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\02. Spy Gram\obj\Debug\netcoreapp2.0\02. Spy Gram.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Extended Retake Exam\02. Spy Gram\obj\Debug\netcoreapp2.0\02. Spy Gram.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.deps.json
+C:\Users\Nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.runtimeconfig.json
+C:\Users\Nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.dll
+C:\Users\Nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\01. Phonebook\bin\Debug\netcoreapp2.0\01. Phonebook.pdb
+C:\Users\Nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.AssemblyInfo.cs
+C:\Users\Nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.dll
+C:\Users\Nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.pdb
+C:\Users\Nik\source\repos\07. Dictionaries, Lambda and LINQ - Exercises\01. Phonebook\obj\Debug\netcoreapp2.0\01. Phonebook.csprojAssemblyReference.cache

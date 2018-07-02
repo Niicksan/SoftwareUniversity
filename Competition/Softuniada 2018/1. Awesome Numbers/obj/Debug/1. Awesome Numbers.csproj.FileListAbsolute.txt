@@ -1,0 +1,7 @@
+E:\SoftwareUniversity\Competition\Softuniada 2018\1. Awesome Numbers\bin\Debug\_1.Awesome_Numbers.exe.config
+E:\SoftwareUniversity\Competition\Softuniada 2018\1. Awesome Numbers\bin\Debug\_1.Awesome_Numbers.exe
+E:\SoftwareUniversity\Competition\Softuniada 2018\1. Awesome Numbers\bin\Debug\_1.Awesome_Numbers.pdb
+E:\SoftwareUniversity\Competition\Softuniada 2018\1. Awesome Numbers\obj\Debug\1. Awesome Numbers.csprojResolveAssemblyReference.cache
+E:\SoftwareUniversity\Competition\Softuniada 2018\1. Awesome Numbers\obj\Debug\1. Awesome Numbers.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Competition\Softuniada 2018\1. Awesome Numbers\obj\Debug\_1.Awesome_Numbers.exe
+E:\SoftwareUniversity\Competition\Softuniada 2018\1. Awesome Numbers\obj\Debug\_1.Awesome_Numbers.pdb

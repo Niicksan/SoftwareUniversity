@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\01. Rage Expenses\bin\Debug\netcoreapp2.0\01. Rage Expenses.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\01. Rage Expenses\bin\Debug\netcoreapp2.0\01. Rage Expenses.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\01. Rage Expenses\bin\Debug\netcoreapp2.0\01. Rage Expenses.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\01. Rage Expenses\bin\Debug\netcoreapp2.0\01. Rage Expenses.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\01. Rage Expenses\bin\Debug\netcoreapp2.0\01. Rage Expenses.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\01. Rage Expenses\obj\Debug\netcoreapp2.0\01. Rage Expenses.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\01. Rage Expenses\obj\Debug\netcoreapp2.0\01. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\01. Rage Expenses\obj\Debug\netcoreapp2.0\01. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\01. Rage Expenses\obj\Debug\netcoreapp2.0\01. Rage Expenses.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\01. Rage Expenses\obj\Debug\netcoreapp2.0\01. Rage Expenses.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam\01. Rage Expenses\obj\Debug\netcoreapp2.0\01. Rage Expenses.pdb

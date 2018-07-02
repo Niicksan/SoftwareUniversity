@@ -1,0 +1,21 @@
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.deps.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.runtimeconfig.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.dll
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.pdb
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.dll
+C:\Users\Nik\source\repos\Methods Debugging and Troubleshooting Code-Exe\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.pdb
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.deps.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.dll
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\06. Prime Checker\bin\Debug\netcoreapp2.0\06. Prime Checker.pdb
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.dll
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\netcoreapp2.0\06. Prime Checker.pdb

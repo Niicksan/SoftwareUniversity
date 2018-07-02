@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\06. Lists - Lab\05. Sort Numbers\bin\Debug\netcoreapp2.0\05. Sort Numbers.deps.json
+C:\Users\Nik\source\repos\06. Lists - Lab\05. Sort Numbers\bin\Debug\netcoreapp2.0\05. Sort Numbers.runtimeconfig.json
+C:\Users\Nik\source\repos\06. Lists - Lab\05. Sort Numbers\bin\Debug\netcoreapp2.0\05. Sort Numbers.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\06. Lists - Lab\05. Sort Numbers\bin\Debug\netcoreapp2.0\05. Sort Numbers.dll
+C:\Users\Nik\source\repos\06. Lists - Lab\05. Sort Numbers\bin\Debug\netcoreapp2.0\05. Sort Numbers.pdb
+C:\Users\Nik\source\repos\06. Lists - Lab\05. Sort Numbers\obj\Debug\netcoreapp2.0\05. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\06. Lists - Lab\05. Sort Numbers\obj\Debug\netcoreapp2.0\05. Sort Numbers.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\06. Lists - Lab\05. Sort Numbers\obj\Debug\netcoreapp2.0\05. Sort Numbers.AssemblyInfo.cs
+C:\Users\Nik\source\repos\06. Lists - Lab\05. Sort Numbers\obj\Debug\netcoreapp2.0\05. Sort Numbers.dll
+C:\Users\Nik\source\repos\06. Lists - Lab\05. Sort Numbers\obj\Debug\netcoreapp2.0\05. Sort Numbers.pdb

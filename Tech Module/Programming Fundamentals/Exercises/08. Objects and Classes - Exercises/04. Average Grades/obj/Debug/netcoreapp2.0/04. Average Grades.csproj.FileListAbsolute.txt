@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\08. Objects and Classes - Exercises\04. Average Grades\bin\Debug\netcoreapp2.0\04. Average Grades.deps.json
+C:\Users\Nik\source\repos\08. Objects and Classes - Exercises\04. Average Grades\bin\Debug\netcoreapp2.0\04. Average Grades.runtimeconfig.json
+C:\Users\Nik\source\repos\08. Objects and Classes - Exercises\04. Average Grades\bin\Debug\netcoreapp2.0\04. Average Grades.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\08. Objects and Classes - Exercises\04. Average Grades\bin\Debug\netcoreapp2.0\04. Average Grades.dll
+C:\Users\Nik\source\repos\08. Objects and Classes - Exercises\04. Average Grades\bin\Debug\netcoreapp2.0\04. Average Grades.pdb
+C:\Users\Nik\source\repos\08. Objects and Classes - Exercises\04. Average Grades\obj\Debug\netcoreapp2.0\04. Average Grades.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\08. Objects and Classes - Exercises\04. Average Grades\obj\Debug\netcoreapp2.0\04. Average Grades.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\08. Objects and Classes - Exercises\04. Average Grades\obj\Debug\netcoreapp2.0\04. Average Grades.AssemblyInfo.cs
+C:\Users\Nik\source\repos\08. Objects and Classes - Exercises\04. Average Grades\obj\Debug\netcoreapp2.0\04. Average Grades.dll
+C:\Users\Nik\source\repos\08. Objects and Classes - Exercises\04. Average Grades\obj\Debug\netcoreapp2.0\04. Average Grades.pdb

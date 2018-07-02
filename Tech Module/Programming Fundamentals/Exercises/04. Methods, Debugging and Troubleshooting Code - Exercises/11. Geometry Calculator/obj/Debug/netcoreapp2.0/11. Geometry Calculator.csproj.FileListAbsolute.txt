@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.deps.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.dll
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\bin\Debug\netcoreapp2.0\11. Geometry Calculator.pdb
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.dll
+C:\Users\Nik\source\repos\04. Methods, Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\netcoreapp2.0\11. Geometry Calculator.pdb

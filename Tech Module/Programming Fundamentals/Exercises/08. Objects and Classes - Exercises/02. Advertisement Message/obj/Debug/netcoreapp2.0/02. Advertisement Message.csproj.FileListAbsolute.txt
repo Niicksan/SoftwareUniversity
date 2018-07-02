@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.deps.json
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.runtimeconfig.json
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.runtimeconfig.dev.json
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.dll
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.pdb
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.csprojAssemblyReference.cache
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.AssemblyInfo.cs
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.dll
+c:\users\nik\source\repos\08. Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.pdb

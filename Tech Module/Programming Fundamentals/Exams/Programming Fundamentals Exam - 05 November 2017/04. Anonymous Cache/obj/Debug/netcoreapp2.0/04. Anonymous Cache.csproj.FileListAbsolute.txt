@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\04. Anonymous Cache\bin\Debug\netcoreapp2.0\04. Anonymous Cache.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\04. Anonymous Cache\bin\Debug\netcoreapp2.0\04. Anonymous Cache.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\04. Anonymous Cache\bin\Debug\netcoreapp2.0\04. Anonymous Cache.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\04. Anonymous Cache\bin\Debug\netcoreapp2.0\04. Anonymous Cache.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\04. Anonymous Cache\bin\Debug\netcoreapp2.0\04. Anonymous Cache.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\04. Anonymous Cache\obj\Debug\netcoreapp2.0\04. Anonymous Cache.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\04. Anonymous Cache\obj\Debug\netcoreapp2.0\04. Anonymous Cache.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\04. Anonymous Cache\obj\Debug\netcoreapp2.0\04. Anonymous Cache.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\04. Anonymous Cache\obj\Debug\netcoreapp2.0\04. Anonymous Cache.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\04. Anonymous Cache\obj\Debug\netcoreapp2.0\04. Anonymous Cache.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Exam - 05 November 2017\04. Anonymous Cache\obj\Debug\netcoreapp2.0\04. Anonymous Cache.csprojAssemblyReference.cache

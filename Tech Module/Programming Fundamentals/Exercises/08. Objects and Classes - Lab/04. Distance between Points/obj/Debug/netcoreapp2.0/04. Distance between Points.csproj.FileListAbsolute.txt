@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\08. Objects and Classes - Lab\04. Distance between Points\obj\Debug\netcoreapp2.0\04. Distance between Points.csprojAssemblyReference.cache
+c:\users\nik\source\repos\08. Objects and Classes - Lab\04. Distance between Points\obj\Debug\netcoreapp2.0\04. Distance between Points.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\08. Objects and Classes - Lab\04. Distance between Points\obj\Debug\netcoreapp2.0\04. Distance between Points.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\08. Objects and Classes - Lab\04. Distance between Points\obj\Debug\netcoreapp2.0\04. Distance between Points.AssemblyInfo.cs
+c:\users\nik\source\repos\08. Objects and Classes - Lab\04. Distance between Points\bin\Debug\netcoreapp2.0\04. Distance between Points.deps.json
+c:\users\nik\source\repos\08. Objects and Classes - Lab\04. Distance between Points\bin\Debug\netcoreapp2.0\04. Distance between Points.runtimeconfig.json
+c:\users\nik\source\repos\08. Objects and Classes - Lab\04. Distance between Points\bin\Debug\netcoreapp2.0\04. Distance between Points.runtimeconfig.dev.json
+c:\users\nik\source\repos\08. Objects and Classes - Lab\04. Distance between Points\bin\Debug\netcoreapp2.0\04. Distance between Points.dll
+c:\users\nik\source\repos\08. Objects and Classes - Lab\04. Distance between Points\bin\Debug\netcoreapp2.0\04. Distance between Points.pdb
+c:\users\nik\source\repos\08. Objects and Classes - Lab\04. Distance between Points\obj\Debug\netcoreapp2.0\04. Distance between Points.dll
+c:\users\nik\source\repos\08. Objects and Classes - Lab\04. Distance between Points\obj\Debug\netcoreapp2.0\04. Distance between Points.pdb
