@@ -1,0 +1,35 @@
+#red {
+     background-color: gray;
+     text-align: center;
+     border: 3px solid red;
+     border-radius: 8px;
+
+ }
+
+#red span {
+    color: red;
+}
+
+#blue {
+    background-color: gray;
+    text-align: center;
+    border: 3px solid blue;
+    border-radius: 8px;
+
+}
+
+#blue span {
+    color: blue;
+}
+
+#green {
+    background-color: gray;
+    text-align: center;
+    border: 3px solid green;
+    border-radius: 8px;
+
+}
+
+#green span {
+    color: green;
+}
