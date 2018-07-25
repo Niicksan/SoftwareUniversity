@@ -1,0 +1,31 @@
+<div class="container body-content">
+    <div class="row">
+        <div class="col-md-12">
+            {{#each users}}
+
+                    <header>
+                        <h2>Profile: {{this.fullName}} </h2>
+                    </header>
+
+                    <p>
+                        <h4>Email: {{this.email}}</h4>
+                    </p>
+
+                    <p class="author">
+                        <h4>User Name: {{this.fullName}}</h4>
+                    </p>
+                    <p>
+                        <label for="pass">Password: </label>
+                        <input type="password" value="{{this.passwordHash}}" name="pass">
+                    </p>
+
+                    <footer>
+                        <div class="pull-right">
+                            <a class="btn btn-default btn-xs" href="/">Back &raquo;</a>
+                        </div>
+                    </footer>
+
+            {{/each}}
+        </div>
+    </div>
+</div>
