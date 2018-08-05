@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\To Do List\To Do List\bin\Debug\netcoreapp2.0\To Do List.deps.json
+C:\Users\Nik\source\repos\To Do List\To Do List\bin\Debug\netcoreapp2.0\To Do List.runtimeconfig.json
+C:\Users\Nik\source\repos\To Do List\To Do List\bin\Debug\netcoreapp2.0\To Do List.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\To Do List\To Do List\bin\Debug\netcoreapp2.0\To Do List.dll
+C:\Users\Nik\source\repos\To Do List\To Do List\obj\Debug\netcoreapp2.0\To Do List.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\To Do List\To Do List\obj\Debug\netcoreapp2.0\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\To Do List\To Do List\obj\Debug\netcoreapp2.0\To Do List.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\To Do List\To Do List\obj\Debug\netcoreapp2.0\To Do List.AssemblyInfo.cs
+C:\Users\Nik\source\repos\To Do List\To Do List\bin\Debug\netcoreapp2.0\To Do List.pdb
+C:\Users\Nik\source\repos\To Do List\To Do List\obj\Debug\netcoreapp2.0\To Do List.dll
+C:\Users\Nik\source\repos\To Do List\To Do List\obj\Debug\netcoreapp2.0\To Do List.pdb
