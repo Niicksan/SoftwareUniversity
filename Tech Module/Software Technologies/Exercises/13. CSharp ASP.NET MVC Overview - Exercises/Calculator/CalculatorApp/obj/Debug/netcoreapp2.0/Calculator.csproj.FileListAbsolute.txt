@@ -1,0 +1,11 @@
+C:\Users\Nik\Downloads\13. CSharp-ASP.NET-MVC-Overview-Exercises-Skeletons\CalculatorApp\bin\Debug\netcoreapp2.0\Calculator.deps.json
+C:\Users\Nik\Downloads\13. CSharp-ASP.NET-MVC-Overview-Exercises-Skeletons\CalculatorApp\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.json
+C:\Users\Nik\Downloads\13. CSharp-ASP.NET-MVC-Overview-Exercises-Skeletons\CalculatorApp\bin\Debug\netcoreapp2.0\Calculator.runtimeconfig.dev.json
+C:\Users\Nik\Downloads\13. CSharp-ASP.NET-MVC-Overview-Exercises-Skeletons\CalculatorApp\bin\Debug\netcoreapp2.0\Calculator.dll
+C:\Users\Nik\Downloads\13. CSharp-ASP.NET-MVC-Overview-Exercises-Skeletons\CalculatorApp\bin\Debug\netcoreapp2.0\Calculator.pdb
+C:\Users\Nik\Downloads\13. CSharp-ASP.NET-MVC-Overview-Exercises-Skeletons\CalculatorApp\obj\Debug\netcoreapp2.0\Calculator.csprojAssemblyReference.cache
+C:\Users\Nik\Downloads\13. CSharp-ASP.NET-MVC-Overview-Exercises-Skeletons\CalculatorApp\obj\Debug\netcoreapp2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Downloads\13. CSharp-ASP.NET-MVC-Overview-Exercises-Skeletons\CalculatorApp\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Nik\Downloads\13. CSharp-ASP.NET-MVC-Overview-Exercises-Skeletons\CalculatorApp\obj\Debug\netcoreapp2.0\Calculator.AssemblyInfo.cs
+C:\Users\Nik\Downloads\13. CSharp-ASP.NET-MVC-Overview-Exercises-Skeletons\CalculatorApp\obj\Debug\netcoreapp2.0\Calculator.dll
+C:\Users\Nik\Downloads\13. CSharp-ASP.NET-MVC-Overview-Exercises-Skeletons\CalculatorApp\obj\Debug\netcoreapp2.0\Calculator.pdb
