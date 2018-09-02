@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\02. Grains of Sands\bin\Debug\netcoreapp2.0\02. Grains of Sands.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\02. Grains of Sands\bin\Debug\netcoreapp2.0\02. Grains of Sands.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\02. Grains of Sands\bin\Debug\netcoreapp2.0\02. Grains of Sands.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\02. Grains of Sands\bin\Debug\netcoreapp2.0\02. Grains of Sands.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\02. Grains of Sands\bin\Debug\netcoreapp2.0\02. Grains of Sands.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\02. Grains of Sands\obj\Debug\netcoreapp2.0\02. Grains of Sands.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\02. Grains of Sands\obj\Debug\netcoreapp2.0\02. Grains of Sands.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\02. Grains of Sands\obj\Debug\netcoreapp2.0\02. Grains of Sands.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\02. Grains of Sands\obj\Debug\netcoreapp2.0\02. Grains of Sands.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\02. Grains of Sands\obj\Debug\netcoreapp2.0\02. Grains of Sands.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\02. Grains of Sands\obj\Debug\netcoreapp2.0\02. Grains of Sands.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\01. Hogswatch\bin\Debug\netcoreapp2.0\01. Hogswatch.deps.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\01. Hogswatch\bin\Debug\netcoreapp2.0\01. Hogswatch.runtimeconfig.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\01. Hogswatch\bin\Debug\netcoreapp2.0\01. Hogswatch.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\01. Hogswatch\bin\Debug\netcoreapp2.0\01. Hogswatch.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\01. Hogswatch\bin\Debug\netcoreapp2.0\01. Hogswatch.pdb
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\01. Hogswatch\obj\Debug\netcoreapp2.0\01. Hogswatch.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\01. Hogswatch\obj\Debug\netcoreapp2.0\01. Hogswatch.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\01. Hogswatch\obj\Debug\netcoreapp2.0\01. Hogswatch.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\01. Hogswatch\obj\Debug\netcoreapp2.0\01. Hogswatch.AssemblyInfo.cs
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\01. Hogswatch\obj\Debug\netcoreapp2.0\01. Hogswatch.dll
+C:\Users\Nik\source\repos\Programming Fundamentals Retake Exam - 27 August\01. Hogswatch\obj\Debug\netcoreapp2.0\01. Hogswatch.pdb
