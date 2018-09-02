@@ -7,137 +7,77 @@ namespace _05._Array_Manipulator
     class Program
     {
         static void Main(string[] args)
-        {   // Work but 50/100
-            List<int> inputList = Console.ReadLine()
-                .Split()
-                .Select(int.Parse)
-                .ToList();
+        {   // Works 100/100
+            List<int> inputNums = Console.ReadLine().Split().Select(int.Parse).ToList();
+            string command = Console.ReadLine();
 
-            List<int> sumPair = new List<int>();
-            string input = Console.ReadLine();
-
-            while(true)
+            while (command != "print")
             {
-                if (input == "print")
+                string[] elements = command.Split().ToArray();
+                string operation = elements[0];
+
+                if (operation == "add")
                 {
-                    break;
+                    int index = int.Parse(elements[1]);
+                    int item = int.Parse(elements[2]);
+
+                    inputNums.Insert(index, item);
                 }
-
-                string[] commandsArr = input.Split();
-
-                string command = commandsArr[0];
-
-                if (command == "add")
+                else if (operation == "addMany")
                 {
-                    int index = int.Parse(commandsArr[1]);
-                    int num = int.Parse(commandsArr[2]);
+                    int index = int.Parse(elements[1]);
+                    List<int> addNums = new List<int>();
 
-                    inputList.Insert(index, num);
-                }
-
-                else if (command == "addMany")
-                {
-                    int index = int.Parse(commandsArr[1]);
-                    List<int> elementsToInsert = new List<int>();
-
-                    for (int i = 2; i < commandsArr.Length; i++)
+                    for (int i = 2; i < elements.Length; i++)
                     {
-                        elementsToInsert.Add(int.Parse(commandsArr[i]));
+                        addNums.Add(int.Parse(elements[i]));
                     }
 
-                    List<int> currentResult = new List<int>();
+                    inputNums.InsertRange(index, addNums);
+                }
+                else if (operation == "contains")
+                {
+                    int index = inputNums.IndexOf(int.Parse(elements[1]));
 
-                    for (int i = 0; i < inputList.Count; i++)
+                    Console.WriteLine(index);
+                }
+                else if (operation == "remove")
+                {
+                    int index = int.Parse(elements[1]);
+
+                    inputNums.RemoveAt(index);
+                }
+                else if (operation == "shift")
+                {
+                    int positionsToMove = int.Parse(elements[1]);
+
+                    for (int j = 0; j < positionsToMove; j++)
                     {
-                        if (inputList[i] != index)
+                        int firstElement = inputNums[0];
+
+                        for (int i = 1; i < inputNums.Count; i++)
                         {
-                            currentResult.Add(inputList[i]);
+                            inputNums[i - 1] = inputNums[i];
                         }
-                        else
-                        {
-                            currentResult.AddRange(elementsToInsert); 
-                        }
-                    }
-                    inputList = currentResult;
-                }
 
-                else if (command == "contains")
+                        inputNums[inputNums.Count - 1] = firstElement;
+                    }
+                }
+                else if (operation == "sumPairs")
                 {
-                    if (!inputList.Contains(int.Parse(commandsArr[1])))
+                    for (int i = 0; i < inputNums.Count - 1; i += 2)
                     {
-                        Console.WriteLine(-1);
+                        inputNums[i] += inputNums[i + 1];
+                        inputNums[i + 1] = -1;
                     }
-                    else
-                    {
-                        for (int i = 0; i < inputList.Count; i++)
-                        {
-                            if (inputList.Contains(int.Parse(commandsArr[i])))
-                            {
-                                Console.WriteLine(i);
-                                break;
-                            }
-                        }
-                    }
+
+                    inputNums.RemoveAll(x => x == -1);
                 }
 
-                else if (command == "remove")
-                {
-                    inputList.RemoveAt(int.Parse(commandsArr[1]));
-                }
-
-                else if (command == "shift")
-                {
-                    for (int i = 0; i < int.Parse(commandsArr[1]); i++)
-                    {
-                        ShiftElements(inputList);
-                    }
-                }
-
-                else if (command == "sumPairs")
-                {
-                    int sum = 0;
-                    
-
-                    if (inputList.Count % 2 == 0)
-                    {
-                        for (int i = 0; i < inputList.Count - 1; i += 2)
-                        {
-                            sum += inputList[i] + inputList[i + 1];
-                            sumPair.Add(sum);
-                        }
-                    }
-                    else
-                    {
-                        for (int i = 0; i < inputList.Count - 2; i += 2)
-                        {
-                            sum += inputList[i] + inputList[i + 1];
-                            sumPair.Add(sum);
-                        }
-                        sumPair.Add(inputList[inputList.Count - 1]);
-                        inputList = sumPair;
-                    }
-                }
-
-                input = Console.ReadLine();
+                command = Console.ReadLine();
             }
 
-            Console.WriteLine("[" + string.Join(", ", inputList) + "]");
-        }
-
-        static void ShiftElements(List<int> inputList)
-        {
-            int[] array = new int[inputList.Count];
-            array[array.Length - 1] = inputList[0];
-
-            for (int i = array.Length - 2; i >= 0; i--)
-            {
-                array[i] = inputList[i + 1];
-            }
-
-            for (int i = 0; i < array.Length; i++)
-            {
-                inputList[i] = array[i];
-            }
+            Console.WriteLine("[" + string.Join(", ", inputNums) + "]");
         }
     }
 }
