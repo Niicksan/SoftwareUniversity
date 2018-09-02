@@ -8,48 +8,46 @@ namespace _01._Phonebook
     {
         static void Main(string[] args)
         {
-            string[] contacts = Console.ReadLine().Split().ToArray();
+            string[] inputElements = Console.ReadLine().Split().ToArray();
 
-            Dictionary<string, string> phoneBook = new Dictionary<string, string>();
+            Dictionary<string, string> phonebook = new Dictionary<string, string>();
 
-            while (contacts[0] != "END")
+            while (inputElements[0] != "END")
             {
-               
-                if (contacts[0] == "A")
+                string name = inputElements[1];
+
+                if (inputElements[0] == "A")
                 {
-                    AddUpdateContact(phoneBook, contacts);
+                    string phone = inputElements[2];
+
+                    if (!phonebook.ContainsKey(name))
+                    {
+                        phonebook.Add(name, phone);
+                    }
+                    else
+                    {
+                        phonebook[name] = phone;
+                    }
                 }
-                else if (contacts[0] == "S")
+                else if (inputElements[0] == "S")
                 {
-                    SearchContact(phoneBook, contacts);
+                    if (phonebook.ContainsKey(name))
+                    {
+                        foreach (var item in phonebook)
+                        {
+                            if (item.Key == name)
+                            {
+                                Console.WriteLine($"{item.Key} -> {item.Value}");
+                            }
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Contact {name} does not exist.");
+                    }
                 }
 
-                contacts = Console.ReadLine().Split().ToArray();
-            }
-        }
-
-        private static void AddUpdateContact(Dictionary<string, string> phoneBook, string[] contacts)
-        {
-            if (phoneBook.ContainsKey(contacts[1]))
-            {
-                phoneBook[contacts[1]] = contacts[2];
-            }
-            else
-            {
-                phoneBook.Add(contacts[1], contacts[2]);
-            }
-        }
-
-        private static void SearchContact(Dictionary<string, string> phoneBook, string[] contacts)
-        {
-            if (phoneBook.ContainsKey(contacts[1]))
-            {
-                Console.WriteLine($"{contacts[1]} -> {phoneBook[contacts[1]]}");
-
-            }
-            else
-            {
-                Console.WriteLine($"Contact {contacts[1]} does not exist.");
+                inputElements = Console.ReadLine().Split().ToArray();
             }
         }
     }
