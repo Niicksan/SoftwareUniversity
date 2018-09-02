@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\01. Sino The Walker\bin\Debug\netcoreapp2.0\01. Sino The Walker.deps.json
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\01. Sino The Walker\bin\Debug\netcoreapp2.0\01. Sino The Walker.runtimeconfig.json
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\01. Sino The Walker\bin\Debug\netcoreapp2.0\01. Sino The Walker.runtimeconfig.dev.json
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\01. Sino The Walker\bin\Debug\netcoreapp2.0\01. Sino The Walker.dll
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\01. Sino The Walker\bin\Debug\netcoreapp2.0\01. Sino The Walker.pdb
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\01. Sino The Walker\obj\Debug\netcoreapp2.0\01. Sino The Walker.csprojAssemblyReference.cache
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\01. Sino The Walker\obj\Debug\netcoreapp2.0\01. Sino The Walker.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\01. Sino The Walker\obj\Debug\netcoreapp2.0\01. Sino The Walker.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\01. Sino The Walker\obj\Debug\netcoreapp2.0\01. Sino The Walker.AssemblyInfo.cs
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\01. Sino The Walker\obj\Debug\netcoreapp2.0\01. Sino The Walker.dll
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\01. Sino The Walker\obj\Debug\netcoreapp2.0\01. Sino The Walker.pdb

@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\03. Endurance Rally\bin\Debug\netcoreapp2.0\03. Endurance Rally.deps.json
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\03. Endurance Rally\bin\Debug\netcoreapp2.0\03. Endurance Rally.runtimeconfig.json
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\03. Endurance Rally\bin\Debug\netcoreapp2.0\03. Endurance Rally.runtimeconfig.dev.json
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\03. Endurance Rally\bin\Debug\netcoreapp2.0\03. Endurance Rally.dll
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\03. Endurance Rally\bin\Debug\netcoreapp2.0\03. Endurance Rally.pdb
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\03. Endurance Rally\obj\Debug\netcoreapp2.0\03. Endurance Rally.csprojAssemblyReference.cache
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\03. Endurance Rally\obj\Debug\netcoreapp2.0\03. Endurance Rally.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\03. Endurance Rally\obj\Debug\netcoreapp2.0\03. Endurance Rally.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\03. Endurance Rally\obj\Debug\netcoreapp2.0\03. Endurance Rally.AssemblyInfo.cs
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\03. Endurance Rally\obj\Debug\netcoreapp2.0\03. Endurance Rally.dll
+c:\users\nik\source\repos\Programming Fundamentals Retake Exam - 6 January\03. Endurance Rally\obj\Debug\netcoreapp2.0\03. Endurance Rally.pdb
