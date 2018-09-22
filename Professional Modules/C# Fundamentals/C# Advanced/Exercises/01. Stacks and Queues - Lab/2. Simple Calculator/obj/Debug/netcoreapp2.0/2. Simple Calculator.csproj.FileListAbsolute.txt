@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\2. Simple Calculator\bin\Debug\netcoreapp2.0\2. Simple Calculator.deps.json
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\2. Simple Calculator\bin\Debug\netcoreapp2.0\2. Simple Calculator.runtimeconfig.json
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\2. Simple Calculator\bin\Debug\netcoreapp2.0\2. Simple Calculator.runtimeconfig.dev.json
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\2. Simple Calculator\bin\Debug\netcoreapp2.0\2. Simple Calculator.dll
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\2. Simple Calculator\bin\Debug\netcoreapp2.0\2. Simple Calculator.pdb
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\2. Simple Calculator\obj\Debug\netcoreapp2.0\2. Simple Calculator.csprojAssemblyReference.cache
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\2. Simple Calculator\obj\Debug\netcoreapp2.0\2. Simple Calculator.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\2. Simple Calculator\obj\Debug\netcoreapp2.0\2. Simple Calculator.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\2. Simple Calculator\obj\Debug\netcoreapp2.0\2. Simple Calculator.AssemblyInfo.cs
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\2. Simple Calculator\obj\Debug\netcoreapp2.0\2. Simple Calculator.dll
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\2. Simple Calculator\obj\Debug\netcoreapp2.0\2. Simple Calculator.pdb

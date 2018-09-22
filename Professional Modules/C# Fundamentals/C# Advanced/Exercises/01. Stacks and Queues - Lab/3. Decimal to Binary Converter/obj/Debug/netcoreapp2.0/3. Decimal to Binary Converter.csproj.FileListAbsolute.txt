@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\3. Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3. Decimal to Binary Converter.deps.json
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\3. Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3. Decimal to Binary Converter.runtimeconfig.json
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\3. Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3. Decimal to Binary Converter.runtimeconfig.dev.json
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\3. Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3. Decimal to Binary Converter.dll
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\3. Decimal to Binary Converter\bin\Debug\netcoreapp2.0\3. Decimal to Binary Converter.pdb
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\3. Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3. Decimal to Binary Converter.csprojAssemblyReference.cache
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\3. Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3. Decimal to Binary Converter.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\3. Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3. Decimal to Binary Converter.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\3. Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3. Decimal to Binary Converter.AssemblyInfo.cs
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\3. Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3. Decimal to Binary Converter.dll
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\3. Decimal to Binary Converter\obj\Debug\netcoreapp2.0\3. Decimal to Binary Converter.pdb

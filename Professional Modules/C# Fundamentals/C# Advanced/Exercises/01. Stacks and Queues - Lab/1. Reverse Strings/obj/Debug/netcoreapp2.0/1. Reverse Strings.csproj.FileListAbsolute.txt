@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp2.0\1. Reverse Strings.deps.json
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp2.0\1. Reverse Strings.runtimeconfig.json
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp2.0\1. Reverse Strings.runtimeconfig.dev.json
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp2.0\1. Reverse Strings.dll
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\1. Reverse Strings\bin\Debug\netcoreapp2.0\1. Reverse Strings.pdb
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp2.0\1. Reverse Strings.csprojAssemblyReference.cache
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp2.0\1. Reverse Strings.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp2.0\1. Reverse Strings.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp2.0\1. Reverse Strings.AssemblyInfo.cs
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp2.0\1. Reverse Strings.dll
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\1. Reverse Strings\obj\Debug\netcoreapp2.0\1. Reverse Strings.pdb

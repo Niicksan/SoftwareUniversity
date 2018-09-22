@@ -1,0 +1,10 @@
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\5. Hot Potato\bin\Debug\netcoreapp2.0\5. Hot Potato.deps.json
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\5. Hot Potato\bin\Debug\netcoreapp2.0\5. Hot Potato.runtimeconfig.json
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\5. Hot Potato\bin\Debug\netcoreapp2.0\5. Hot Potato.runtimeconfig.dev.json
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\5. Hot Potato\bin\Debug\netcoreapp2.0\5. Hot Potato.dll
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\5. Hot Potato\bin\Debug\netcoreapp2.0\5. Hot Potato.pdb
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\5. Hot Potato\obj\Debug\netcoreapp2.0\5. Hot Potato.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\5. Hot Potato\obj\Debug\netcoreapp2.0\5. Hot Potato.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\5. Hot Potato\obj\Debug\netcoreapp2.0\5. Hot Potato.AssemblyInfo.cs
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\5. Hot Potato\obj\Debug\netcoreapp2.0\5. Hot Potato.dll
+c:\users\nik\source\repos\01. Stacks and Queues - Lab\5. Hot Potato\obj\Debug\netcoreapp2.0\5. Hot Potato.pdb
