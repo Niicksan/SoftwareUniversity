@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp2.0\2. Sum Matrix Columns.deps.json
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp2.0\2. Sum Matrix Columns.runtimeconfig.json
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp2.0\2. Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp2.0\2. Sum Matrix Columns.dll
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\2. Sum Matrix Columns\bin\Debug\netcoreapp2.0\2. Sum Matrix Columns.pdb
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp2.0\2. Sum Matrix Columns.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp2.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp2.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp2.0\2. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp2.0\2. Sum Matrix Columns.dll
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\2. Sum Matrix Columns\obj\Debug\netcoreapp2.0\2. Sum Matrix Columns.pdb

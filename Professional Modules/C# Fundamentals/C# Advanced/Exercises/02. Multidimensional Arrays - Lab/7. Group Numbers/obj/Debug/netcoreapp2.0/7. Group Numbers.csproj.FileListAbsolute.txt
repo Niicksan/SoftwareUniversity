@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\7. Group Numbers\bin\Debug\netcoreapp2.0\7. Group Numbers.deps.json
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\7. Group Numbers\bin\Debug\netcoreapp2.0\7. Group Numbers.runtimeconfig.json
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\7. Group Numbers\bin\Debug\netcoreapp2.0\7. Group Numbers.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\7. Group Numbers\bin\Debug\netcoreapp2.0\7. Group Numbers.dll
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\7. Group Numbers\bin\Debug\netcoreapp2.0\7. Group Numbers.pdb
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\7. Group Numbers\obj\Debug\netcoreapp2.0\7. Group Numbers.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\7. Group Numbers\obj\Debug\netcoreapp2.0\7. Group Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\7. Group Numbers\obj\Debug\netcoreapp2.0\7. Group Numbers.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\7. Group Numbers\obj\Debug\netcoreapp2.0\7. Group Numbers.AssemblyInfo.cs
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\7. Group Numbers\obj\Debug\netcoreapp2.0\7. Group Numbers.dll
+C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\7. Group Numbers\obj\Debug\netcoreapp2.0\7. Group Numbers.pdb
