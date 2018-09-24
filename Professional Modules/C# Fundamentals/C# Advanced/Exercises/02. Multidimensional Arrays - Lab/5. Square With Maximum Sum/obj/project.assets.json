@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nik\\source\\repos\\02. Multidimensional Arrays - Lab\\5. Square With Maximum Sum\\5. Square With Maximum Sum.csproj",
+      "projectUniqueName": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\02. Multidimensional Arrays - Lab\\5. Square With Maximum Sum\\5. Square With Maximum Sum.csproj",
       "projectName": "5. Square With Maximum Sum",
-      "projectPath": "C:\\Users\\Nik\\source\\repos\\02. Multidimensional Arrays - Lab\\5. Square With Maximum Sum\\5. Square With Maximum Sum.csproj",
+      "projectPath": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\02. Multidimensional Arrays - Lab\\5. Square With Maximum Sum\\5. Square With Maximum Sum.csproj",
       "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nik\\source\\repos\\02. Multidimensional Arrays - Lab\\5. Square With Maximum Sum\\obj\\",
+      "outputPath": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\02. Multidimensional Arrays - Lab\\5. Square With Maximum Sum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

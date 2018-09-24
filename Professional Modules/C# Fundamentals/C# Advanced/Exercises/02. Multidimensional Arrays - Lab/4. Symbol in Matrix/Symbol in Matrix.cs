@@ -45,8 +45,13 @@ namespace _4._Symbol_in_Matrix
                         rowIndex = row;
                         colIndex = col;
 
-                        
+                        break;
                     }          
+                }
+
+                if (isFind)
+                {
+                    break;
                 }
             }
 

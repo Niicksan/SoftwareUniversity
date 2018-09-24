@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nik\\source\\repos\\02. Multidimensional Arrays - Lab\\6. Jagged-Array Modification\\6. Jagged-Array Modification.csproj",
+      "projectUniqueName": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\02. Multidimensional Arrays - Lab\\6. Jagged-Array Modification\\6. Jagged-Array Modification.csproj",
       "projectName": "6. Jagged-Array Modification",
-      "projectPath": "C:\\Users\\Nik\\source\\repos\\02. Multidimensional Arrays - Lab\\6. Jagged-Array Modification\\6. Jagged-Array Modification.csproj",
+      "projectPath": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\02. Multidimensional Arrays - Lab\\6. Jagged-Array Modification\\6. Jagged-Array Modification.csproj",
       "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nik\\source\\repos\\02. Multidimensional Arrays - Lab\\6. Jagged-Array Modification\\obj\\",
+      "outputPath": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\02. Multidimensional Arrays - Lab\\6. Jagged-Array Modification\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

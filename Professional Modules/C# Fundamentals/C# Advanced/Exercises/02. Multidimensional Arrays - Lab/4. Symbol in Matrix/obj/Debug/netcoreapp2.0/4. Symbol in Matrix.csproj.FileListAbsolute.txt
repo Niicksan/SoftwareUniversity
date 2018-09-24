@@ -9,3 +9,14 @@ C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\
 C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.0\4. Symbol in Matrix.AssemblyInfo.cs
 C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.0\4. Symbol in Matrix.dll
 C:\Users\Nik\source\repos\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.0\4. Symbol in Matrix.pdb
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.0\4. Symbol in Matrix.deps.json
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.0\4. Symbol in Matrix.runtimeconfig.json
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.0\4. Symbol in Matrix.runtimeconfig.dev.json
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.0\4. Symbol in Matrix.dll
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\bin\Debug\netcoreapp2.0\4. Symbol in Matrix.pdb
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.0\4. Symbol in Matrix.csprojAssemblyReference.cache
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.0\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.0\4. Symbol in Matrix.AssemblyInfoInputs.cache
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.0\4. Symbol in Matrix.AssemblyInfo.cs
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.0\4. Symbol in Matrix.dll
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\02. Multidimensional Arrays - Lab\4. Symbol in Matrix\obj\Debug\netcoreapp2.0\4. Symbol in Matrix.pdb
