@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp2.0\07. SoftUni Party.deps.json
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp2.0\07. SoftUni Party.runtimeconfig.json
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp2.0\07. SoftUni Party.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp2.0\07. SoftUni Party.dll
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp2.0\07. SoftUni Party.pdb
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp2.0\07. SoftUni Party.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp2.0\07. SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp2.0\07. SoftUni Party.AssemblyInfo.cs
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp2.0\07. SoftUni Party.dll
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp2.0\07. SoftUni Party.pdb
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp2.0\07. SoftUni Party.csprojAssemblyReference.cache

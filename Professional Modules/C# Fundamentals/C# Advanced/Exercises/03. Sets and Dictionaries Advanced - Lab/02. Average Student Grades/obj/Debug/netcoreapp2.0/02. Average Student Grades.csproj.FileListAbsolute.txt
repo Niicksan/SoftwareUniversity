@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.0\02. Average Student Grades.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.0\02. Average Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.0\02. Average Student Grades.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.0\02. Average Student Grades.AssemblyInfo.cs
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.0\02. Average Student Grades.deps.json
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.0\02. Average Student Grades.runtimeconfig.json
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.0\02. Average Student Grades.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.0\02. Average Student Grades.dll
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.0\02. Average Student Grades.pdb
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.0\02. Average Student Grades.dll
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.0\02. Average Student Grades.pdb
