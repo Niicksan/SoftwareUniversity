@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\01. Stacks and Queues - Exercise\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.deps.json
+C:\Users\Nik\source\repos\01. Stacks and Queues - Exercise\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.runtimeconfig.json
+C:\Users\Nik\source\repos\01. Stacks and Queues - Exercise\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\01. Stacks and Queues - Exercise\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.dll
+C:\Users\Nik\source\repos\01. Stacks and Queues - Exercise\10. Poisonous Plants\bin\Debug\netcoreapp2.0\10. Poisonous Plants.pdb
+C:\Users\Nik\source\repos\01. Stacks and Queues - Exercise\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\01. Stacks and Queues - Exercise\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\01. Stacks and Queues - Exercise\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\01. Stacks and Queues - Exercise\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.AssemblyInfo.cs
+C:\Users\Nik\source\repos\01. Stacks and Queues - Exercise\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.dll
+C:\Users\Nik\source\repos\01. Stacks and Queues - Exercise\10. Poisonous Plants\obj\Debug\netcoreapp2.0\10. Poisonous Plants.pdb
