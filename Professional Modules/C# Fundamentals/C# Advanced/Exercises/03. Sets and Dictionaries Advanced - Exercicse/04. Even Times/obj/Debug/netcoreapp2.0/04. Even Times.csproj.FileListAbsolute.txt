@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\04. Even Times\obj\Debug\netcoreapp2.0\04. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\04. Even Times\obj\Debug\netcoreapp2.0\04. Even Times.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\04. Even Times\obj\Debug\netcoreapp2.0\04. Even Times.AssemblyInfo.cs
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\04. Even Times\bin\Debug\netcoreapp2.0\04. Even Times.deps.json
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\04. Even Times\bin\Debug\netcoreapp2.0\04. Even Times.runtimeconfig.json
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\04. Even Times\bin\Debug\netcoreapp2.0\04. Even Times.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\04. Even Times\bin\Debug\netcoreapp2.0\04. Even Times.dll
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\04. Even Times\bin\Debug\netcoreapp2.0\04. Even Times.pdb
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\04. Even Times\obj\Debug\netcoreapp2.0\04. Even Times.dll
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\04. Even Times\obj\Debug\netcoreapp2.0\04. Even Times.pdb

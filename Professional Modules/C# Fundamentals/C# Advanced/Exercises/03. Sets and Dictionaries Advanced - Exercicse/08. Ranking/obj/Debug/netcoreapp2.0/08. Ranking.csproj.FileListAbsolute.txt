@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\08. Ranking\bin\Debug\netcoreapp2.0\08. Ranking.deps.json
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\08. Ranking\bin\Debug\netcoreapp2.0\08. Ranking.runtimeconfig.json
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\08. Ranking\bin\Debug\netcoreapp2.0\08. Ranking.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\08. Ranking\bin\Debug\netcoreapp2.0\08. Ranking.dll
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\08. Ranking\bin\Debug\netcoreapp2.0\08. Ranking.pdb
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\08. Ranking\obj\Debug\netcoreapp2.0\08. Ranking.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\08. Ranking\obj\Debug\netcoreapp2.0\08. Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\08. Ranking\obj\Debug\netcoreapp2.0\08. Ranking.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\08. Ranking\obj\Debug\netcoreapp2.0\08. Ranking.AssemblyInfo.cs
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\08. Ranking\obj\Debug\netcoreapp2.0\08. Ranking.dll
+C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Exercicse\08. Ranking\obj\Debug\netcoreapp2.0\08. Ranking.pdb
