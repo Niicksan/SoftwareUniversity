@@ -9,3 +9,14 @@ C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\03. Product S
 C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp2.0\03. Product Shop.dll
 C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp2.0\03. Product Shop.pdb
 C:\Users\Nik\source\repos\03. Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp2.0\03. Product Shop.csprojAssemblyReference.cache
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\03. Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp2.0\03. Product Shop.deps.json
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\03. Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp2.0\03. Product Shop.runtimeconfig.json
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\03. Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp2.0\03. Product Shop.runtimeconfig.dev.json
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\03. Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp2.0\03. Product Shop.dll
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\03. Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp2.0\03. Product Shop.pdb
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\03. Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp2.0\03. Product Shop.csprojAssemblyReference.cache
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\03. Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp2.0\03. Product Shop.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\03. Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp2.0\03. Product Shop.AssemblyInfoInputs.cache
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\03. Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp2.0\03. Product Shop.AssemblyInfo.cs
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\03. Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp2.0\03. Product Shop.dll
+E:\SoftwareUniversity\Professional Modules\C# Fundamentals\C# Advanced\Exercises\03. Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp2.0\03. Product Shop.pdb

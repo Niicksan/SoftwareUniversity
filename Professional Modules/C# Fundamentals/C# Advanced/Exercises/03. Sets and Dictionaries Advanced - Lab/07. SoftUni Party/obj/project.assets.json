@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nik\\source\\repos\\03. Sets and Dictionaries Advanced - Lab\\07. SoftUni Party\\07. SoftUni Party.csproj",
+      "projectUniqueName": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\03. Sets and Dictionaries Advanced - Lab\\07. SoftUni Party\\07. SoftUni Party.csproj",
       "projectName": "07. SoftUni Party",
-      "projectPath": "C:\\Users\\Nik\\source\\repos\\03. Sets and Dictionaries Advanced - Lab\\07. SoftUni Party\\07. SoftUni Party.csproj",
+      "projectPath": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\03. Sets and Dictionaries Advanced - Lab\\07. SoftUni Party\\07. SoftUni Party.csproj",
       "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nik\\source\\repos\\03. Sets and Dictionaries Advanced - Lab\\07. SoftUni Party\\obj\\",
+      "outputPath": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\03. Sets and Dictionaries Advanced - Lab\\07. SoftUni Party\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

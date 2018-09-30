@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nik\\source\\repos\\03. Sets and Dictionaries Advanced - Lab\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj",
+      "projectUniqueName": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\03. Sets and Dictionaries Advanced - Lab\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj",
       "projectName": "01. Count Same Values in Array",
-      "projectPath": "C:\\Users\\Nik\\source\\repos\\03. Sets and Dictionaries Advanced - Lab\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj",
+      "projectPath": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\03. Sets and Dictionaries Advanced - Lab\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj",
       "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nik\\source\\repos\\03. Sets and Dictionaries Advanced - Lab\\01. Count Same Values in Array\\obj\\",
+      "outputPath": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\03. Sets and Dictionaries Advanced - Lab\\01. Count Same Values in Array\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

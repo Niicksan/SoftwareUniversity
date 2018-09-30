@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nik\\source\\repos\\03. Sets and Dictionaries Advanced - Lab\\05. Record Unique Names\\05. Record Unique Names.csproj",
+      "projectUniqueName": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\03. Sets and Dictionaries Advanced - Lab\\05. Record Unique Names\\05. Record Unique Names.csproj",
       "projectName": "05. Record Unique Names",
-      "projectPath": "C:\\Users\\Nik\\source\\repos\\03. Sets and Dictionaries Advanced - Lab\\05. Record Unique Names\\05. Record Unique Names.csproj",
+      "projectPath": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\03. Sets and Dictionaries Advanced - Lab\\05. Record Unique Names\\05. Record Unique Names.csproj",
       "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nik\\source\\repos\\03. Sets and Dictionaries Advanced - Lab\\05. Record Unique Names\\obj\\",
+      "outputPath": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\03. Sets and Dictionaries Advanced - Lab\\05. Record Unique Names\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

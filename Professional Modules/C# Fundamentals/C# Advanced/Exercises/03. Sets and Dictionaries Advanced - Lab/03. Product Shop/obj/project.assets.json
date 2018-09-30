@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nik\\source\\repos\\03. Sets and Dictionaries Advanced - Lab\\03. Product Shop\\03. Product Shop.csproj",
+      "projectUniqueName": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\03. Sets and Dictionaries Advanced - Lab\\03. Product Shop\\03. Product Shop.csproj",
       "projectName": "03. Product Shop",
-      "projectPath": "C:\\Users\\Nik\\source\\repos\\03. Sets and Dictionaries Advanced - Lab\\03. Product Shop\\03. Product Shop.csproj",
+      "projectPath": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\03. Sets and Dictionaries Advanced - Lab\\03. Product Shop\\03. Product Shop.csproj",
       "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nik\\source\\repos\\03. Sets and Dictionaries Advanced - Lab\\03. Product Shop\\obj\\",
+      "outputPath": "E:\\SoftwareUniversity\\Professional Modules\\C# Fundamentals\\C# Advanced\\Exercises\\03. Sets and Dictionaries Advanced - Lab\\03. Product Shop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

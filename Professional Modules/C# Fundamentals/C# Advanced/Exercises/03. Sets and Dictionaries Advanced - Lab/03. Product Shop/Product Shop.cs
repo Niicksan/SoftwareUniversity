@@ -39,7 +39,7 @@ namespace _03._Product_Shop
 
                 foreach (var product in shop.Value)
                 {
-                    Console.WriteLine($"Product: {product.Key}, Price: {product.Value:f1}");
+                    Console.WriteLine($"Product: {product.Key}, Price: {product.Value}");
                 }
             }
         }
