@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Streams - Exercises\7. Directory Traversal\bin\Debug\netcoreapp2.0\7. Directory Traversal.deps.json
+C:\Users\Nik\source\repos\04. Streams - Exercises\7. Directory Traversal\bin\Debug\netcoreapp2.0\7. Directory Traversal.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Streams - Exercises\7. Directory Traversal\bin\Debug\netcoreapp2.0\7. Directory Traversal.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Streams - Exercises\7. Directory Traversal\bin\Debug\netcoreapp2.0\7. Directory Traversal.dll
+C:\Users\Nik\source\repos\04. Streams - Exercises\7. Directory Traversal\bin\Debug\netcoreapp2.0\7. Directory Traversal.pdb
+C:\Users\Nik\source\repos\04. Streams - Exercises\7. Directory Traversal\obj\Debug\netcoreapp2.0\7. Directory Traversal.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Streams - Exercises\7. Directory Traversal\obj\Debug\netcoreapp2.0\7. Directory Traversal.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Streams - Exercises\7. Directory Traversal\obj\Debug\netcoreapp2.0\7. Directory Traversal.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Streams - Exercises\7. Directory Traversal\obj\Debug\netcoreapp2.0\7. Directory Traversal.dll
+C:\Users\Nik\source\repos\04. Streams - Exercises\7. Directory Traversal\obj\Debug\netcoreapp2.0\7. Directory Traversal.pdb
+C:\Users\Nik\source\repos\04. Streams - Exercises\7. Directory Traversal\obj\Debug\netcoreapp2.0\7. Directory Traversal.csprojAssemblyReference.cache

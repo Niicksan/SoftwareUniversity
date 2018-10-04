@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\04. Streams - Exercises\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.deps.json
+C:\Users\Nik\source\repos\04. Streams - Exercises\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Streams - Exercises\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Streams - Exercises\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.dll
+C:\Users\Nik\source\repos\04. Streams - Exercises\4. Copy Binary File\bin\Debug\netcoreapp2.0\4. Copy Binary File.pdb
+C:\Users\Nik\source\repos\04. Streams - Exercises\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Streams - Exercises\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Streams - Exercises\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Streams - Exercises\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.dll
+C:\Users\Nik\source\repos\04. Streams - Exercises\4. Copy Binary File\obj\Debug\netcoreapp2.0\4. Copy Binary File.pdb

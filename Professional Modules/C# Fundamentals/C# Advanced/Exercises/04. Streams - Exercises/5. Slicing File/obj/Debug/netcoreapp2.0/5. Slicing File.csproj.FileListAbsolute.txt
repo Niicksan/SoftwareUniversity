@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Streams - Exercises\5. Slicing File\obj\Debug\netcoreapp2.0\5. Slicing File.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Streams - Exercises\5. Slicing File\obj\Debug\netcoreapp2.0\5. Slicing File.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Streams - Exercises\5. Slicing File\obj\Debug\netcoreapp2.0\5. Slicing File.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Streams - Exercises\5. Slicing File\obj\Debug\netcoreapp2.0\5. Slicing File.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Streams - Exercises\5. Slicing File\bin\Debug\netcoreapp2.0\5. Slicing File.deps.json
+C:\Users\Nik\source\repos\04. Streams - Exercises\5. Slicing File\bin\Debug\netcoreapp2.0\5. Slicing File.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Streams - Exercises\5. Slicing File\bin\Debug\netcoreapp2.0\5. Slicing File.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Streams - Exercises\5. Slicing File\bin\Debug\netcoreapp2.0\5. Slicing File.dll
+C:\Users\Nik\source\repos\04. Streams - Exercises\5. Slicing File\bin\Debug\netcoreapp2.0\5. Slicing File.pdb
+C:\Users\Nik\source\repos\04. Streams - Exercises\5. Slicing File\obj\Debug\netcoreapp2.0\5. Slicing File.dll
+C:\Users\Nik\source\repos\04. Streams - Exercises\5. Slicing File\obj\Debug\netcoreapp2.0\5. Slicing File.pdb

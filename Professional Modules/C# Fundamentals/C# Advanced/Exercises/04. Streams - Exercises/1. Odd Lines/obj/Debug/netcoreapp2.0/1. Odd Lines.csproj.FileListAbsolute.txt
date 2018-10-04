@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Streams - Exercises\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.deps.json
+C:\Users\Nik\source\repos\04. Streams - Exercises\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Streams - Exercises\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Streams - Exercises\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.dll
+C:\Users\Nik\source\repos\04. Streams - Exercises\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.pdb
+C:\Users\Nik\source\repos\04. Streams - Exercises\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Streams - Exercises\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Streams - Exercises\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Streams - Exercises\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Streams - Exercises\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.dll
+C:\Users\Nik\source\repos\04. Streams - Exercises\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.pdb
