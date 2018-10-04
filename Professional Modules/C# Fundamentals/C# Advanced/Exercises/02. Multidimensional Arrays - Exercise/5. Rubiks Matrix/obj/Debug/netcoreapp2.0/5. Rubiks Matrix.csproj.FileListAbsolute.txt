@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.csprojAssemblyReference.cache
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.AssemblyInfo.cs
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.deps.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.runtimeconfig.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.runtimeconfig.dev.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.dll
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.pdb
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.dll
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.pdb

@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.deps.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.runtimeconfig.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.runtimeconfig.dev.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.dll
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\3. Squares in Matrix\bin\Debug\netcoreapp2.0\3. Squares in Matrix.pdb
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.csprojAssemblyReference.cache
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.AssemblyInfo.cs
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.dll
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\3. Squares in Matrix\obj\Debug\netcoreapp2.0\3. Squares in Matrix.pdb

@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.deps.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.runtimeconfig.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.runtimeconfig.dev.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.dll
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.pdb
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.AssemblyInfo.cs
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.dll
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.pdb
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.csprojAssemblyReference.cache

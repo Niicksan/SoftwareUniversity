@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\1. Matrix of Palindromes\bin\Debug\netcoreapp2.0\1. Matrix of Palindromes.deps.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\1. Matrix of Palindromes\bin\Debug\netcoreapp2.0\1. Matrix of Palindromes.runtimeconfig.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\1. Matrix of Palindromes\bin\Debug\netcoreapp2.0\1. Matrix of Palindromes.runtimeconfig.dev.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\1. Matrix of Palindromes\bin\Debug\netcoreapp2.0\1. Matrix of Palindromes.dll
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\1. Matrix of Palindromes\bin\Debug\netcoreapp2.0\1. Matrix of Palindromes.pdb
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\1. Matrix of Palindromes\obj\Debug\netcoreapp2.0\1. Matrix of Palindromes.csprojAssemblyReference.cache
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\1. Matrix of Palindromes\obj\Debug\netcoreapp2.0\1. Matrix of Palindromes.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\1. Matrix of Palindromes\obj\Debug\netcoreapp2.0\1. Matrix of Palindromes.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\1. Matrix of Palindromes\obj\Debug\netcoreapp2.0\1. Matrix of Palindromes.AssemblyInfo.cs
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\1. Matrix of Palindromes\obj\Debug\netcoreapp2.0\1. Matrix of Palindromes.dll
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\1. Matrix of Palindromes\obj\Debug\netcoreapp2.0\1. Matrix of Palindromes.pdb

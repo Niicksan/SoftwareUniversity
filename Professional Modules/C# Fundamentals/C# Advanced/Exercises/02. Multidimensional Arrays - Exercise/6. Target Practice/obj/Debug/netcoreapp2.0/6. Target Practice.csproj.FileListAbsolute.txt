@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\6. Target Practice\bin\Debug\netcoreapp2.0\6. Target Practice.deps.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\6. Target Practice\bin\Debug\netcoreapp2.0\6. Target Practice.runtimeconfig.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\6. Target Practice\bin\Debug\netcoreapp2.0\6. Target Practice.runtimeconfig.dev.json
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\6. Target Practice\bin\Debug\netcoreapp2.0\6. Target Practice.dll
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\6. Target Practice\bin\Debug\netcoreapp2.0\6. Target Practice.pdb
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\6. Target Practice\obj\Debug\netcoreapp2.0\6. Target Practice.csprojAssemblyReference.cache
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\6. Target Practice\obj\Debug\netcoreapp2.0\6. Target Practice.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\6. Target Practice\obj\Debug\netcoreapp2.0\6. Target Practice.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\6. Target Practice\obj\Debug\netcoreapp2.0\6. Target Practice.AssemblyInfo.cs
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\6. Target Practice\obj\Debug\netcoreapp2.0\6. Target Practice.dll
+c:\users\nik\source\repos\02. Multidimensional Arrays - Exercise\6. Target Practice\obj\Debug\netcoreapp2.0\6. Target Practice.pdb
