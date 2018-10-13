@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\05. Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp2.0\05. Filter By Age.deps.json
+c:\users\nik\source\repos\05. Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp2.0\05. Filter By Age.runtimeconfig.json
+c:\users\nik\source\repos\05. Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp2.0\05. Filter By Age.runtimeconfig.dev.json
+c:\users\nik\source\repos\05. Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp2.0\05. Filter By Age.dll
+c:\users\nik\source\repos\05. Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp2.0\05. Filter By Age.pdb
+c:\users\nik\source\repos\05. Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp2.0\05. Filter By Age.csprojAssemblyReference.cache
+c:\users\nik\source\repos\05. Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp2.0\05. Filter By Age.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\05. Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp2.0\05. Filter By Age.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\05. Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp2.0\05. Filter By Age.AssemblyInfo.cs
+c:\users\nik\source\repos\05. Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp2.0\05. Filter By Age.dll
+c:\users\nik\source\repos\05. Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp2.0\05. Filter By Age.pdb
