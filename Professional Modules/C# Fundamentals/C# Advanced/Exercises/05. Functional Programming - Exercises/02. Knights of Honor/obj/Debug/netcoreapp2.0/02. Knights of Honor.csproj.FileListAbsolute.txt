@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\05. Functional Programming - Exercises\02. Knights of Honor\bin\Debug\netcoreapp2.0\02. Knights of Honor.deps.json
+c:\users\nik\source\repos\05. Functional Programming - Exercises\02. Knights of Honor\bin\Debug\netcoreapp2.0\02. Knights of Honor.runtimeconfig.json
+c:\users\nik\source\repos\05. Functional Programming - Exercises\02. Knights of Honor\bin\Debug\netcoreapp2.0\02. Knights of Honor.runtimeconfig.dev.json
+c:\users\nik\source\repos\05. Functional Programming - Exercises\02. Knights of Honor\bin\Debug\netcoreapp2.0\02. Knights of Honor.dll
+c:\users\nik\source\repos\05. Functional Programming - Exercises\02. Knights of Honor\bin\Debug\netcoreapp2.0\02. Knights of Honor.pdb
+c:\users\nik\source\repos\05. Functional Programming - Exercises\02. Knights of Honor\obj\Debug\netcoreapp2.0\02. Knights of Honor.csprojAssemblyReference.cache
+c:\users\nik\source\repos\05. Functional Programming - Exercises\02. Knights of Honor\obj\Debug\netcoreapp2.0\02. Knights of Honor.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\05. Functional Programming - Exercises\02. Knights of Honor\obj\Debug\netcoreapp2.0\02. Knights of Honor.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\05. Functional Programming - Exercises\02. Knights of Honor\obj\Debug\netcoreapp2.0\02. Knights of Honor.AssemblyInfo.cs
+c:\users\nik\source\repos\05. Functional Programming - Exercises\02. Knights of Honor\obj\Debug\netcoreapp2.0\02. Knights of Honor.dll
+c:\users\nik\source\repos\05. Functional Programming - Exercises\02. Knights of Honor\obj\Debug\netcoreapp2.0\02. Knights of Honor.pdb

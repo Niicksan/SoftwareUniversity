@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\05. Functional Programming - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.0\07. Predicate For Names.deps.json
+c:\users\nik\source\repos\05. Functional Programming - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.0\07. Predicate For Names.runtimeconfig.json
+c:\users\nik\source\repos\05. Functional Programming - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.0\07. Predicate For Names.runtimeconfig.dev.json
+c:\users\nik\source\repos\05. Functional Programming - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.0\07. Predicate For Names.dll
+c:\users\nik\source\repos\05. Functional Programming - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.0\07. Predicate For Names.pdb
+c:\users\nik\source\repos\05. Functional Programming - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.0\07. Predicate For Names.csprojAssemblyReference.cache
+c:\users\nik\source\repos\05. Functional Programming - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.0\07. Predicate For Names.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\05. Functional Programming - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.0\07. Predicate For Names.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\05. Functional Programming - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.0\07. Predicate For Names.AssemblyInfo.cs
+c:\users\nik\source\repos\05. Functional Programming - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.0\07. Predicate For Names.dll
+c:\users\nik\source\repos\05. Functional Programming - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.0\07. Predicate For Names.pdb
