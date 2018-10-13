@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\CSharp Advanced Exam - 25 June 2017\04. Hospital\bin\Debug\netcoreapp2.0\04. Hospital.deps.json
+c:\users\nik\source\repos\CSharp Advanced Exam - 25 June 2017\04. Hospital\bin\Debug\netcoreapp2.0\04. Hospital.runtimeconfig.json
+c:\users\nik\source\repos\CSharp Advanced Exam - 25 June 2017\04. Hospital\bin\Debug\netcoreapp2.0\04. Hospital.runtimeconfig.dev.json
+c:\users\nik\source\repos\CSharp Advanced Exam - 25 June 2017\04. Hospital\bin\Debug\netcoreapp2.0\04. Hospital.dll
+c:\users\nik\source\repos\CSharp Advanced Exam - 25 June 2017\04. Hospital\bin\Debug\netcoreapp2.0\04. Hospital.pdb
+c:\users\nik\source\repos\CSharp Advanced Exam - 25 June 2017\04. Hospital\obj\Debug\netcoreapp2.0\04. Hospital.csprojAssemblyReference.cache
+c:\users\nik\source\repos\CSharp Advanced Exam - 25 June 2017\04. Hospital\obj\Debug\netcoreapp2.0\04. Hospital.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\CSharp Advanced Exam - 25 June 2017\04. Hospital\obj\Debug\netcoreapp2.0\04. Hospital.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\CSharp Advanced Exam - 25 June 2017\04. Hospital\obj\Debug\netcoreapp2.0\04. Hospital.AssemblyInfo.cs
+c:\users\nik\source\repos\CSharp Advanced Exam - 25 June 2017\04. Hospital\obj\Debug\netcoreapp2.0\04. Hospital.dll
+c:\users\nik\source\repos\CSharp Advanced Exam - 25 June 2017\04. Hospital\obj\Debug\netcoreapp2.0\04. Hospital.pdb
