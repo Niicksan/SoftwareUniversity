@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\02. Tagram\bin\Debug\netcoreapp2.0\02. Tagram.deps.json
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\02. Tagram\bin\Debug\netcoreapp2.0\02. Tagram.runtimeconfig.json
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\02. Tagram\bin\Debug\netcoreapp2.0\02. Tagram.runtimeconfig.dev.json
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\02. Tagram\bin\Debug\netcoreapp2.0\02. Tagram.dll
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\02. Tagram\bin\Debug\netcoreapp2.0\02. Tagram.pdb
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\02. Tagram\obj\Debug\netcoreapp2.0\02. Tagram.csprojAssemblyReference.cache
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\02. Tagram\obj\Debug\netcoreapp2.0\02. Tagram.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\02. Tagram\obj\Debug\netcoreapp2.0\02. Tagram.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\02. Tagram\obj\Debug\netcoreapp2.0\02. Tagram.AssemblyInfo.cs
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\02. Tagram\obj\Debug\netcoreapp2.0\02. Tagram.dll
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\02. Tagram\obj\Debug\netcoreapp2.0\02. Tagram.pdb

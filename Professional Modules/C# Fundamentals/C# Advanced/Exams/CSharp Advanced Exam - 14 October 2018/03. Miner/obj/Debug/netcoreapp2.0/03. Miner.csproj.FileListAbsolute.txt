@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\03. Miner\bin\Debug\netcoreapp2.0\03. Miner.deps.json
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\03. Miner\bin\Debug\netcoreapp2.0\03. Miner.runtimeconfig.json
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\03. Miner\bin\Debug\netcoreapp2.0\03. Miner.runtimeconfig.dev.json
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\03. Miner\bin\Debug\netcoreapp2.0\03. Miner.dll
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\03. Miner\bin\Debug\netcoreapp2.0\03. Miner.pdb
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\03. Miner\obj\Debug\netcoreapp2.0\03. Miner.csprojAssemblyReference.cache
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\03. Miner\obj\Debug\netcoreapp2.0\03. Miner.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\03. Miner\obj\Debug\netcoreapp2.0\03. Miner.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\03. Miner\obj\Debug\netcoreapp2.0\03. Miner.AssemblyInfo.cs
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\03. Miner\obj\Debug\netcoreapp2.0\03. Miner.dll
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\03. Miner\obj\Debug\netcoreapp2.0\03. Miner.pdb

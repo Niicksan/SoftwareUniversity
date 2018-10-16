@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\04. Cups and Bottles\obj\Debug\netcoreapp2.0\04. Cups and Bottles.csprojAssemblyReference.cache
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\04. Cups and Bottles\obj\Debug\netcoreapp2.0\04. Cups and Bottles.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\04. Cups and Bottles\obj\Debug\netcoreapp2.0\04. Cups and Bottles.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\04. Cups and Bottles\obj\Debug\netcoreapp2.0\04. Cups and Bottles.AssemblyInfo.cs
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\04. Cups and Bottles\bin\Debug\netcoreapp2.0\04. Cups and Bottles.deps.json
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\04. Cups and Bottles\bin\Debug\netcoreapp2.0\04. Cups and Bottles.runtimeconfig.json
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\04. Cups and Bottles\bin\Debug\netcoreapp2.0\04. Cups and Bottles.runtimeconfig.dev.json
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\04. Cups and Bottles\bin\Debug\netcoreapp2.0\04. Cups and Bottles.dll
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\04. Cups and Bottles\bin\Debug\netcoreapp2.0\04. Cups and Bottles.pdb
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\04. Cups and Bottles\obj\Debug\netcoreapp2.0\04. Cups and Bottles.dll
+c:\users\nik\source\repos\CSharp Advanced Exam - 14 October 2018\04. Cups and Bottles\obj\Debug\netcoreapp2.0\04. Cups and Bottles.pdb
