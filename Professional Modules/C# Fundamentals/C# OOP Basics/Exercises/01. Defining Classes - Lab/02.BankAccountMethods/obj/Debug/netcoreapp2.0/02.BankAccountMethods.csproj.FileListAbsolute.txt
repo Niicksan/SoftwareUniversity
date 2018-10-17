@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\01. Defining Classes\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.deps.json
+C:\Users\Nik\source\repos\01. Defining Classes\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.runtimeconfig.json
+C:\Users\Nik\source\repos\01. Defining Classes\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\01. Defining Classes\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.dll
+C:\Users\Nik\source\repos\01. Defining Classes\02.BankAccountMethods\bin\Debug\netcoreapp2.0\02.BankAccountMethods.pdb
+C:\Users\Nik\source\repos\01. Defining Classes\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\01. Defining Classes\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.AssemblyInfo.cs
+C:\Users\Nik\source\repos\01. Defining Classes\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.dll
+C:\Users\Nik\source\repos\01. Defining Classes\02.BankAccountMethods\obj\Debug\netcoreapp2.0\02.BankAccountMethods.pdb

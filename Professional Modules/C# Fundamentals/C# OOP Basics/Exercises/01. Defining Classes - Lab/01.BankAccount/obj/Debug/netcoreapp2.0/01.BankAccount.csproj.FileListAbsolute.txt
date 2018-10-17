@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\01. Defining Classes\01.BankAccount\bin\Debug\netcoreapp2.0\01.BankAccount.deps.json
+C:\Users\Nik\source\repos\01. Defining Classes\01.BankAccount\bin\Debug\netcoreapp2.0\01.BankAccount.runtimeconfig.json
+C:\Users\Nik\source\repos\01. Defining Classes\01.BankAccount\bin\Debug\netcoreapp2.0\01.BankAccount.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\01. Defining Classes\01.BankAccount\bin\Debug\netcoreapp2.0\01.BankAccount.dll
+C:\Users\Nik\source\repos\01. Defining Classes\01.BankAccount\bin\Debug\netcoreapp2.0\01.BankAccount.pdb
+C:\Users\Nik\source\repos\01. Defining Classes\01.BankAccount\obj\Debug\netcoreapp2.0\01.BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes\01.BankAccount\obj\Debug\netcoreapp2.0\01.BankAccount.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes\01.BankAccount\obj\Debug\netcoreapp2.0\01.BankAccount.AssemblyInfo.cs
+C:\Users\Nik\source\repos\01. Defining Classes\01.BankAccount\obj\Debug\netcoreapp2.0\01.BankAccount.dll
+C:\Users\Nik\source\repos\01. Defining Classes\01.BankAccount\obj\Debug\netcoreapp2.0\01.BankAccount.pdb

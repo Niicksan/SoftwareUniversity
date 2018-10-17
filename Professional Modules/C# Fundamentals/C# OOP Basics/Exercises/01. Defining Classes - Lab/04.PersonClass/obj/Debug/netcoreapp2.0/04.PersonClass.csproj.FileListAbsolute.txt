@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\01. Defining Classes\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\01. Defining Classes\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.AssemblyInfo.cs
+C:\Users\Nik\source\repos\01. Defining Classes\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.deps.json
+C:\Users\Nik\source\repos\01. Defining Classes\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.runtimeconfig.json
+C:\Users\Nik\source\repos\01. Defining Classes\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\01. Defining Classes\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.dll
+C:\Users\Nik\source\repos\01. Defining Classes\04.PersonClass\bin\Debug\netcoreapp2.0\04.PersonClass.pdb
+C:\Users\Nik\source\repos\01. Defining Classes\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.dll
+C:\Users\Nik\source\repos\01. Defining Classes\04.PersonClass\obj\Debug\netcoreapp2.0\04.PersonClass.pdb

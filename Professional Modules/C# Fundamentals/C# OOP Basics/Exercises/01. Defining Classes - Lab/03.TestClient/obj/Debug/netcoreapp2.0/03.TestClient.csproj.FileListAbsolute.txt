@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\01. Defining Classes\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\01. Defining Classes\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.AssemblyInfo.cs
+C:\Users\Nik\source\repos\01. Defining Classes\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.deps.json
+C:\Users\Nik\source\repos\01. Defining Classes\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.runtimeconfig.json
+C:\Users\Nik\source\repos\01. Defining Classes\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\01. Defining Classes\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.dll
+C:\Users\Nik\source\repos\01. Defining Classes\03.TestClient\bin\Debug\netcoreapp2.0\03.TestClient.pdb
+C:\Users\Nik\source\repos\01. Defining Classes\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.dll
+C:\Users\Nik\source\repos\01. Defining Classes\03.TestClient\obj\Debug\netcoreapp2.0\03.TestClient.pdb
