@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\05. Mordor's Cruel Plan\bin\Debug\netcoreapp2.0\05. Mordor's Cruel Plan.deps.json
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\05. Mordor's Cruel Plan\bin\Debug\netcoreapp2.0\05. Mordor's Cruel Plan.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\05. Mordor's Cruel Plan\bin\Debug\netcoreapp2.0\05. Mordor's Cruel Plan.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\05. Mordor's Cruel Plan\bin\Debug\netcoreapp2.0\05. Mordor's Cruel Plan.dll
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\05. Mordor's Cruel Plan\bin\Debug\netcoreapp2.0\05. Mordor's Cruel Plan.pdb
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\05. Mordor's Cruel Plan\obj\Debug\netcoreapp2.0\05. Mordor's Cruel Plan.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\05. Mordor's Cruel Plan\obj\Debug\netcoreapp2.0\05. Mordor's Cruel Plan.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\05. Mordor's Cruel Plan\obj\Debug\netcoreapp2.0\05. Mordor's Cruel Plan.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\05. Mordor's Cruel Plan\obj\Debug\netcoreapp2.0\05. Mordor's Cruel Plan.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\05. Mordor's Cruel Plan\obj\Debug\netcoreapp2.0\05. Mordor's Cruel Plan.dll
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\05. Mordor's Cruel Plan\obj\Debug\netcoreapp2.0\05. Mordor's Cruel Plan.pdb

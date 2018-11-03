@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\04. Online Radio Database\obj\Debug\netcoreapp2.0\04. Online Radio Database.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\04. Online Radio Database\obj\Debug\netcoreapp2.0\04. Online Radio Database.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\04. Online Radio Database\obj\Debug\netcoreapp2.0\04. Online Radio Database.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\04. Online Radio Database\obj\Debug\netcoreapp2.0\04. Online Radio Database.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\04. Online Radio Database\bin\Debug\netcoreapp2.0\04. Online Radio Database.deps.json
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\04. Online Radio Database\bin\Debug\netcoreapp2.0\04. Online Radio Database.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\04. Online Radio Database\bin\Debug\netcoreapp2.0\04. Online Radio Database.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\04. Online Radio Database\bin\Debug\netcoreapp2.0\04. Online Radio Database.dll
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\04. Online Radio Database\bin\Debug\netcoreapp2.0\04. Online Radio Database.pdb
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\04. Online Radio Database\obj\Debug\netcoreapp2.0\04. Online Radio Database.dll
+C:\Users\Nik\source\repos\04. Inheritance - Exercise\04. Online Radio Database\obj\Debug\netcoreapp2.0\04. Online Radio Database.pdb
