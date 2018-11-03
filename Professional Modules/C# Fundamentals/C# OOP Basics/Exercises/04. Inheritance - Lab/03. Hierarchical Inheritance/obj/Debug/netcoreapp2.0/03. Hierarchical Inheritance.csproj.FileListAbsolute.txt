@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Inheritance - Lab\03. Hierarchical Inheritance\bin\Debug\netcoreapp2.0\03. Hierarchical Inheritance.deps.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\03. Hierarchical Inheritance\bin\Debug\netcoreapp2.0\03. Hierarchical Inheritance.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\03. Hierarchical Inheritance\bin\Debug\netcoreapp2.0\03. Hierarchical Inheritance.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\03. Hierarchical Inheritance\bin\Debug\netcoreapp2.0\03. Hierarchical Inheritance.dll
+C:\Users\Nik\source\repos\04. Inheritance - Lab\03. Hierarchical Inheritance\bin\Debug\netcoreapp2.0\03. Hierarchical Inheritance.pdb
+C:\Users\Nik\source\repos\04. Inheritance - Lab\03. Hierarchical Inheritance\obj\Debug\netcoreapp2.0\03. Hierarchical Inheritance.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Inheritance - Lab\03. Hierarchical Inheritance\obj\Debug\netcoreapp2.0\03. Hierarchical Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Inheritance - Lab\03. Hierarchical Inheritance\obj\Debug\netcoreapp2.0\03. Hierarchical Inheritance.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Inheritance - Lab\03. Hierarchical Inheritance\obj\Debug\netcoreapp2.0\03. Hierarchical Inheritance.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Inheritance - Lab\03. Hierarchical Inheritance\obj\Debug\netcoreapp2.0\03. Hierarchical Inheritance.dll
+C:\Users\Nik\source\repos\04. Inheritance - Lab\03. Hierarchical Inheritance\obj\Debug\netcoreapp2.0\03. Hierarchical Inheritance.pdb

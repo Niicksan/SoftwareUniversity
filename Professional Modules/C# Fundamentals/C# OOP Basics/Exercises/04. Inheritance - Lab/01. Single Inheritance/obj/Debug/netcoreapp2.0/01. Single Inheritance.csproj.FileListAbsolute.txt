@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp2.0\01. Single Inheritance.deps.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp2.0\01. Single Inheritance.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp2.0\01. Single Inheritance.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp2.0\01. Single Inheritance.dll
+C:\Users\Nik\source\repos\04. Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp2.0\01. Single Inheritance.pdb
+C:\Users\Nik\source\repos\04. Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp2.0\01. Single Inheritance.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp2.0\01. Single Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp2.0\01. Single Inheritance.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp2.0\01. Single Inheritance.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp2.0\01. Single Inheritance.dll
+C:\Users\Nik\source\repos\04. Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp2.0\01. Single Inheritance.pdb

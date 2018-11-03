@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp2.0\05. Stack of Strings.deps.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp2.0\05. Stack of Strings.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp2.0\05. Stack of Strings.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp2.0\05. Stack of Strings.dll
+C:\Users\Nik\source\repos\04. Inheritance - Lab\05. Stack of Strings\bin\Debug\netcoreapp2.0\05. Stack of Strings.pdb
+C:\Users\Nik\source\repos\04. Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp2.0\05. Stack of Strings.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp2.0\05. Stack of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp2.0\05. Stack of Strings.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp2.0\05. Stack of Strings.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp2.0\05. Stack of Strings.dll
+C:\Users\Nik\source\repos\04. Inheritance - Lab\05. Stack of Strings\obj\Debug\netcoreapp2.0\05. Stack of Strings.pdb

@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\04. Inheritance - Lab\04. Random List\bin\Debug\netcoreapp2.0\04. Random List.deps.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\04. Random List\bin\Debug\netcoreapp2.0\04. Random List.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\04. Random List\bin\Debug\netcoreapp2.0\04. Random List.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\04. Random List\bin\Debug\netcoreapp2.0\04. Random List.dll
+C:\Users\Nik\source\repos\04. Inheritance - Lab\04. Random List\bin\Debug\netcoreapp2.0\04. Random List.pdb
+C:\Users\Nik\source\repos\04. Inheritance - Lab\04. Random List\obj\Debug\netcoreapp2.0\04. Random List.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Inheritance - Lab\04. Random List\obj\Debug\netcoreapp2.0\04. Random List.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Inheritance - Lab\04. Random List\obj\Debug\netcoreapp2.0\04. Random List.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Inheritance - Lab\04. Random List\obj\Debug\netcoreapp2.0\04. Random List.dll
+C:\Users\Nik\source\repos\04. Inheritance - Lab\04. Random List\obj\Debug\netcoreapp2.0\04. Random List.pdb

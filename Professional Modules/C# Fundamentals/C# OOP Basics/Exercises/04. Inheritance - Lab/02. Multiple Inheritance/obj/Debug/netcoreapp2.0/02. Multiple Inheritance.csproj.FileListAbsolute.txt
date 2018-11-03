@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp2.0\02. Multiple Inheritance.deps.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp2.0\02. Multiple Inheritance.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp2.0\02. Multiple Inheritance.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp2.0\02. Multiple Inheritance.dll
+C:\Users\Nik\source\repos\04. Inheritance - Lab\02. Multiple Inheritance\bin\Debug\netcoreapp2.0\02. Multiple Inheritance.pdb
+C:\Users\Nik\source\repos\04. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp2.0\02. Multiple Inheritance.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp2.0\02. Multiple Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp2.0\02. Multiple Inheritance.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp2.0\02. Multiple Inheritance.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp2.0\02. Multiple Inheritance.dll
+C:\Users\Nik\source\repos\04. Inheritance - Lab\02. Multiple Inheritance\obj\Debug\netcoreapp2.0\02. Multiple Inheritance.pdb
