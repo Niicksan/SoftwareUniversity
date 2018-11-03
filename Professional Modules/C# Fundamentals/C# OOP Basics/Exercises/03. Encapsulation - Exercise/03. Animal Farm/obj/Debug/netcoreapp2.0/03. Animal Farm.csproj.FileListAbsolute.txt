@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\03. Encapsulation - Exercise\03. Animal Farm\bin\Debug\netcoreapp2.0\03. Animal Farm.deps.json
+c:\users\nik\source\repos\03. Encapsulation - Exercise\03. Animal Farm\bin\Debug\netcoreapp2.0\03. Animal Farm.runtimeconfig.json
+c:\users\nik\source\repos\03. Encapsulation - Exercise\03. Animal Farm\bin\Debug\netcoreapp2.0\03. Animal Farm.runtimeconfig.dev.json
+c:\users\nik\source\repos\03. Encapsulation - Exercise\03. Animal Farm\bin\Debug\netcoreapp2.0\03. Animal Farm.dll
+c:\users\nik\source\repos\03. Encapsulation - Exercise\03. Animal Farm\bin\Debug\netcoreapp2.0\03. Animal Farm.pdb
+c:\users\nik\source\repos\03. Encapsulation - Exercise\03. Animal Farm\obj\Debug\netcoreapp2.0\03. Animal Farm.csprojAssemblyReference.cache
+c:\users\nik\source\repos\03. Encapsulation - Exercise\03. Animal Farm\obj\Debug\netcoreapp2.0\03. Animal Farm.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\03. Encapsulation - Exercise\03. Animal Farm\obj\Debug\netcoreapp2.0\03. Animal Farm.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\03. Encapsulation - Exercise\03. Animal Farm\obj\Debug\netcoreapp2.0\03. Animal Farm.AssemblyInfo.cs
+c:\users\nik\source\repos\03. Encapsulation - Exercise\03. Animal Farm\obj\Debug\netcoreapp2.0\03. Animal Farm.dll
+c:\users\nik\source\repos\03. Encapsulation - Exercise\03. Animal Farm\obj\Debug\netcoreapp2.0\03. Animal Farm.pdb

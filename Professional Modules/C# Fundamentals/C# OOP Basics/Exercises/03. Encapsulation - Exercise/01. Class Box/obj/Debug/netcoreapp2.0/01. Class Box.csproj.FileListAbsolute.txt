@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\03. Encapsulation - Exercise\01. Class Box\bin\Debug\netcoreapp2.0\01. Class Box.deps.json
+c:\users\nik\source\repos\03. Encapsulation - Exercise\01. Class Box\bin\Debug\netcoreapp2.0\01. Class Box.runtimeconfig.json
+c:\users\nik\source\repos\03. Encapsulation - Exercise\01. Class Box\bin\Debug\netcoreapp2.0\01. Class Box.runtimeconfig.dev.json
+c:\users\nik\source\repos\03. Encapsulation - Exercise\01. Class Box\bin\Debug\netcoreapp2.0\01. Class Box.dll
+c:\users\nik\source\repos\03. Encapsulation - Exercise\01. Class Box\bin\Debug\netcoreapp2.0\01. Class Box.pdb
+c:\users\nik\source\repos\03. Encapsulation - Exercise\01. Class Box\obj\Debug\netcoreapp2.0\01. Class Box.csprojAssemblyReference.cache
+c:\users\nik\source\repos\03. Encapsulation - Exercise\01. Class Box\obj\Debug\netcoreapp2.0\01. Class Box.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\03. Encapsulation - Exercise\01. Class Box\obj\Debug\netcoreapp2.0\01. Class Box.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\03. Encapsulation - Exercise\01. Class Box\obj\Debug\netcoreapp2.0\01. Class Box.AssemblyInfo.cs
+c:\users\nik\source\repos\03. Encapsulation - Exercise\01. Class Box\obj\Debug\netcoreapp2.0\01. Class Box.dll
+c:\users\nik\source\repos\03. Encapsulation - Exercise\01. Class Box\obj\Debug\netcoreapp2.0\01. Class Box.pdb

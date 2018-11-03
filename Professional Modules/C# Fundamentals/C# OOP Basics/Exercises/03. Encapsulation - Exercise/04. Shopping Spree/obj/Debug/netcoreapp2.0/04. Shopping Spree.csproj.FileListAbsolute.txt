@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\03. Encapsulation - Exercise\04. Shopping Spree\bin\Debug\netcoreapp2.0\04. Shopping Spree.deps.json
+c:\users\nik\source\repos\03. Encapsulation - Exercise\04. Shopping Spree\bin\Debug\netcoreapp2.0\04. Shopping Spree.runtimeconfig.json
+c:\users\nik\source\repos\03. Encapsulation - Exercise\04. Shopping Spree\bin\Debug\netcoreapp2.0\04. Shopping Spree.runtimeconfig.dev.json
+c:\users\nik\source\repos\03. Encapsulation - Exercise\04. Shopping Spree\bin\Debug\netcoreapp2.0\04. Shopping Spree.dll
+c:\users\nik\source\repos\03. Encapsulation - Exercise\04. Shopping Spree\bin\Debug\netcoreapp2.0\04. Shopping Spree.pdb
+c:\users\nik\source\repos\03. Encapsulation - Exercise\04. Shopping Spree\obj\Debug\netcoreapp2.0\04. Shopping Spree.csprojAssemblyReference.cache
+c:\users\nik\source\repos\03. Encapsulation - Exercise\04. Shopping Spree\obj\Debug\netcoreapp2.0\04. Shopping Spree.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\03. Encapsulation - Exercise\04. Shopping Spree\obj\Debug\netcoreapp2.0\04. Shopping Spree.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\03. Encapsulation - Exercise\04. Shopping Spree\obj\Debug\netcoreapp2.0\04. Shopping Spree.AssemblyInfo.cs
+c:\users\nik\source\repos\03. Encapsulation - Exercise\04. Shopping Spree\obj\Debug\netcoreapp2.0\04. Shopping Spree.dll
+c:\users\nik\source\repos\03. Encapsulation - Exercise\04. Shopping Spree\obj\Debug\netcoreapp2.0\04. Shopping Spree.pdb

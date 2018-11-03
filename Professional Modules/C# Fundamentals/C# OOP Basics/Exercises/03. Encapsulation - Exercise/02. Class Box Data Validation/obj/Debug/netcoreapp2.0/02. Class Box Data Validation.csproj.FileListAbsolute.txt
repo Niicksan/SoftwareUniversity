@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\03. Encapsulation - Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.0\02. Class Box Data Validation.deps.json
+c:\users\nik\source\repos\03. Encapsulation - Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.0\02. Class Box Data Validation.runtimeconfig.json
+c:\users\nik\source\repos\03. Encapsulation - Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.0\02. Class Box Data Validation.runtimeconfig.dev.json
+c:\users\nik\source\repos\03. Encapsulation - Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.0\02. Class Box Data Validation.dll
+c:\users\nik\source\repos\03. Encapsulation - Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.0\02. Class Box Data Validation.pdb
+c:\users\nik\source\repos\03. Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.0\02. Class Box Data Validation.csprojAssemblyReference.cache
+c:\users\nik\source\repos\03. Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.0\02. Class Box Data Validation.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\03. Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.0\02. Class Box Data Validation.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\03. Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.0\02. Class Box Data Validation.AssemblyInfo.cs
+c:\users\nik\source\repos\03. Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.0\02. Class Box Data Validation.dll
+c:\users\nik\source\repos\03. Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.0\02. Class Box Data Validation.pdb
