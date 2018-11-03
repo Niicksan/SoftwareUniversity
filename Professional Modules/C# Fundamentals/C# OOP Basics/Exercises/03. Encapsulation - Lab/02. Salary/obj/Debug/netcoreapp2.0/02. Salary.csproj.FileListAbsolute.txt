@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\03. Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp2.0\02. Salary.deps.json
+c:\users\nik\source\repos\03. Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp2.0\02. Salary.runtimeconfig.json
+c:\users\nik\source\repos\03. Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp2.0\02. Salary.runtimeconfig.dev.json
+c:\users\nik\source\repos\03. Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp2.0\02. Salary.dll
+c:\users\nik\source\repos\03. Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp2.0\02. Salary.pdb
+c:\users\nik\source\repos\03. Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp2.0\02. Salary.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\03. Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp2.0\02. Salary.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\03. Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp2.0\02. Salary.AssemblyInfo.cs
+c:\users\nik\source\repos\03. Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp2.0\02. Salary.dll
+c:\users\nik\source\repos\03. Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp2.0\02. Salary.pdb
+c:\users\nik\source\repos\03. Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp2.0\02. Salary.csprojAssemblyReference.cache

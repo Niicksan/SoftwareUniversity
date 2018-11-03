@@ -1,0 +1,10 @@
+c:\users\nik\source\repos\03. Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.0\03. Validation.deps.json
+c:\users\nik\source\repos\03. Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.0\03. Validation.runtimeconfig.json
+c:\users\nik\source\repos\03. Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.0\03. Validation.runtimeconfig.dev.json
+c:\users\nik\source\repos\03. Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.0\03. Validation.dll
+c:\users\nik\source\repos\03. Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.0\03. Validation.pdb
+c:\users\nik\source\repos\03. Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.0\03. Validation.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\03. Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.0\03. Validation.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\03. Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.0\03. Validation.AssemblyInfo.cs
+c:\users\nik\source\repos\03. Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.0\03. Validation.dll
+c:\users\nik\source\repos\03. Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.0\03. Validation.pdb
