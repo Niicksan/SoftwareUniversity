@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\4. Hotel Reservation\bin\Debug\netcoreapp2.0\4. Hotel Reservation.deps.json
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\4. Hotel Reservation\bin\Debug\netcoreapp2.0\4. Hotel Reservation.runtimeconfig.json
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\4. Hotel Reservation\bin\Debug\netcoreapp2.0\4. Hotel Reservation.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\4. Hotel Reservation\bin\Debug\netcoreapp2.0\4. Hotel Reservation.dll
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\4. Hotel Reservation\bin\Debug\netcoreapp2.0\4. Hotel Reservation.pdb
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\4. Hotel Reservation\obj\Debug\netcoreapp2.0\4. Hotel Reservation.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\4. Hotel Reservation\obj\Debug\netcoreapp2.0\4. Hotel Reservation.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\4. Hotel Reservation\obj\Debug\netcoreapp2.0\4. Hotel Reservation.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\4. Hotel Reservation\obj\Debug\netcoreapp2.0\4. Hotel Reservation.AssemblyInfo.cs
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\4. Hotel Reservation\obj\Debug\netcoreapp2.0\4. Hotel Reservation.dll
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\4. Hotel Reservation\obj\Debug\netcoreapp2.0\4. Hotel Reservation.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\3. Student System\bin\Debug\netcoreapp2.0\3. Student System.deps.json
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\3. Student System\bin\Debug\netcoreapp2.0\3. Student System.runtimeconfig.json
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\3. Student System\bin\Debug\netcoreapp2.0\3. Student System.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\3. Student System\bin\Debug\netcoreapp2.0\3. Student System.dll
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\3. Student System\bin\Debug\netcoreapp2.0\3. Student System.pdb
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\3. Student System\obj\Debug\netcoreapp2.0\3. Student System.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\3. Student System\obj\Debug\netcoreapp2.0\3. Student System.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\3. Student System\obj\Debug\netcoreapp2.0\3. Student System.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\3. Student System\obj\Debug\netcoreapp2.0\3. Student System.AssemblyInfo.cs
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\3. Student System\obj\Debug\netcoreapp2.0\3. Student System.dll
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\3. Student System\obj\Debug\netcoreapp2.0\3. Student System.pdb

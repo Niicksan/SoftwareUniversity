@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\2. Point in Rectangle\bin\Debug\netcoreapp2.0\2. Point in Rectangle.deps.json
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\2. Point in Rectangle\bin\Debug\netcoreapp2.0\2. Point in Rectangle.runtimeconfig.json
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\2. Point in Rectangle\bin\Debug\netcoreapp2.0\2. Point in Rectangle.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\2. Point in Rectangle\bin\Debug\netcoreapp2.0\2. Point in Rectangle.dll
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\2. Point in Rectangle\bin\Debug\netcoreapp2.0\2. Point in Rectangle.pdb
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\2. Point in Rectangle\obj\Debug\netcoreapp2.0\2. Point in Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\2. Point in Rectangle\obj\Debug\netcoreapp2.0\2. Point in Rectangle.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\2. Point in Rectangle\obj\Debug\netcoreapp2.0\2. Point in Rectangle.AssemblyInfo.cs
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\2. Point in Rectangle\obj\Debug\netcoreapp2.0\2. Point in Rectangle.dll
+C:\Users\Nik\source\repos\02. Working with Abstraction - Lab\2. Point in Rectangle\obj\Debug\netcoreapp2.0\2. Point in Rectangle.pdb
