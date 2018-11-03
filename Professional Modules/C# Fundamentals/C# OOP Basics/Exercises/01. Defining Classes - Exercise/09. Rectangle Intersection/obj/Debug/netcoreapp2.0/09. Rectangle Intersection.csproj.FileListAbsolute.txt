@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.0\09. Rectangle Intersection.deps.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.0\09. Rectangle Intersection.runtimeconfig.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.0\09. Rectangle Intersection.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.0\09. Rectangle Intersection.dll
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.0\09. Rectangle Intersection.pdb
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.0\09. Rectangle Intersection.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.0\09. Rectangle Intersection.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.0\09. Rectangle Intersection.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.0\09. Rectangle Intersection.AssemblyInfo.cs
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.0\09. Rectangle Intersection.dll
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.0\09. Rectangle Intersection.pdb

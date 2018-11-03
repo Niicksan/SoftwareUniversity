@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\12. Google\bin\Debug\netcoreapp2.0\12. Google.deps.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\12. Google\bin\Debug\netcoreapp2.0\12. Google.runtimeconfig.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\12. Google\bin\Debug\netcoreapp2.0\12. Google.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\12. Google\bin\Debug\netcoreapp2.0\12. Google.dll
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\12. Google\bin\Debug\netcoreapp2.0\12. Google.pdb
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\12. Google\obj\Debug\netcoreapp2.0\12. Google.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\12. Google\obj\Debug\netcoreapp2.0\12. Google.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\12. Google\obj\Debug\netcoreapp2.0\12. Google.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\12. Google\obj\Debug\netcoreapp2.0\12. Google.AssemblyInfo.cs
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\12. Google\obj\Debug\netcoreapp2.0\12. Google.dll
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\12. Google\obj\Debug\netcoreapp2.0\12. Google.pdb

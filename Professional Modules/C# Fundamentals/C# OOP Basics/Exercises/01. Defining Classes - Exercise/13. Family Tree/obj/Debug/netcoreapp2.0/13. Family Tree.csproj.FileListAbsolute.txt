@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\13. Family Tree\bin\Debug\netcoreapp2.0\13. Family Tree.deps.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\13. Family Tree\bin\Debug\netcoreapp2.0\13. Family Tree.runtimeconfig.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\13. Family Tree\bin\Debug\netcoreapp2.0\13. Family Tree.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\13. Family Tree\bin\Debug\netcoreapp2.0\13. Family Tree.dll
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\13. Family Tree\bin\Debug\netcoreapp2.0\13. Family Tree.pdb
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\13. Family Tree\obj\Debug\netcoreapp2.0\13. Family Tree.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\13. Family Tree\obj\Debug\netcoreapp2.0\13. Family Tree.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\13. Family Tree\obj\Debug\netcoreapp2.0\13. Family Tree.AssemblyInfo.cs
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\13. Family Tree\obj\Debug\netcoreapp2.0\13. Family Tree.dll
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\13. Family Tree\obj\Debug\netcoreapp2.0\13. Family Tree.pdb

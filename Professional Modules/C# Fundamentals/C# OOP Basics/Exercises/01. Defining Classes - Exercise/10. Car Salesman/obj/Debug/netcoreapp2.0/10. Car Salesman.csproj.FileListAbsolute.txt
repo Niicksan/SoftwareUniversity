@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\10. Car Salesman\obj\Debug\netcoreapp2.0\10. Car Salesman.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\10. Car Salesman\obj\Debug\netcoreapp2.0\10. Car Salesman.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\10. Car Salesman\obj\Debug\netcoreapp2.0\10. Car Salesman.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\10. Car Salesman\obj\Debug\netcoreapp2.0\10. Car Salesman.AssemblyInfo.cs
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\10. Car Salesman\bin\Debug\netcoreapp2.0\10. Car Salesman.deps.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\10. Car Salesman\bin\Debug\netcoreapp2.0\10. Car Salesman.runtimeconfig.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\10. Car Salesman\bin\Debug\netcoreapp2.0\10. Car Salesman.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\10. Car Salesman\bin\Debug\netcoreapp2.0\10. Car Salesman.dll
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\10. Car Salesman\bin\Debug\netcoreapp2.0\10. Car Salesman.pdb
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\10. Car Salesman\obj\Debug\netcoreapp2.0\10. Car Salesman.dll
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\10. Car Salesman\obj\Debug\netcoreapp2.0\10. Car Salesman.pdb

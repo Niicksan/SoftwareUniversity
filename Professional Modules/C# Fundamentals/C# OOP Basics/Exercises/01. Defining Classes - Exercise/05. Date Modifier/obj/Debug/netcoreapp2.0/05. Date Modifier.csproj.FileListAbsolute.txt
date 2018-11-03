@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp2.0\05. Date Modifier.deps.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp2.0\05. Date Modifier.runtimeconfig.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp2.0\05. Date Modifier.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp2.0\05. Date Modifier.dll
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp2.0\05. Date Modifier.pdb
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp2.0\05. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp2.0\05. Date Modifier.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp2.0\05. Date Modifier.AssemblyInfo.cs
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp2.0\05. Date Modifier.dll
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp2.0\05. Date Modifier.pdb

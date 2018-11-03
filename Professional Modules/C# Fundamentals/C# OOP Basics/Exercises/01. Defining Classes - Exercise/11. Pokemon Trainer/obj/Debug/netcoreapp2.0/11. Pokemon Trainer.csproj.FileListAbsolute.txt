@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\11. Pokemon Trainer\bin\Debug\netcoreapp2.0\11. Pokemon Trainer.deps.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\11. Pokemon Trainer\bin\Debug\netcoreapp2.0\11. Pokemon Trainer.runtimeconfig.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\11. Pokemon Trainer\bin\Debug\netcoreapp2.0\11. Pokemon Trainer.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\11. Pokemon Trainer\bin\Debug\netcoreapp2.0\11. Pokemon Trainer.dll
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\11. Pokemon Trainer\bin\Debug\netcoreapp2.0\11. Pokemon Trainer.pdb
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\netcoreapp2.0\11. Pokemon Trainer.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\netcoreapp2.0\11. Pokemon Trainer.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\netcoreapp2.0\11. Pokemon Trainer.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\netcoreapp2.0\11. Pokemon Trainer.AssemblyInfo.cs
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\netcoreapp2.0\11. Pokemon Trainer.dll
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\netcoreapp2.0\11. Pokemon Trainer.pdb

@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\06. Company Roster\bin\Debug\netcoreapp2.0\06. Company Roster.deps.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\06. Company Roster\bin\Debug\netcoreapp2.0\06. Company Roster.runtimeconfig.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\06. Company Roster\bin\Debug\netcoreapp2.0\06. Company Roster.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\06. Company Roster\bin\Debug\netcoreapp2.0\06. Company Roster.dll
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\06. Company Roster\bin\Debug\netcoreapp2.0\06. Company Roster.pdb
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\06. Company Roster\obj\Debug\netcoreapp2.0\06. Company Roster.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\06. Company Roster\obj\Debug\netcoreapp2.0\06. Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\06. Company Roster\obj\Debug\netcoreapp2.0\06. Company Roster.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\06. Company Roster\obj\Debug\netcoreapp2.0\06. Company Roster.AssemblyInfo.cs
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\06. Company Roster\obj\Debug\netcoreapp2.0\06. Company Roster.dll
+C:\Users\Nik\source\repos\01. Defining Classes - Exercise\06. Company Roster\obj\Debug\netcoreapp2.0\06. Company Roster.pdb
