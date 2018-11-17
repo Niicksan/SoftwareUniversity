@@ -1,0 +1,11 @@
+c:\users\nik\source\repos\CSharp OOP Basics Exam Retake - 26 April 2018\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.deps.json
+c:\users\nik\source\repos\CSharp OOP Basics Exam Retake - 26 April 2018\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.json
+c:\users\nik\source\repos\CSharp OOP Basics Exam Retake - 26 April 2018\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.dev.json
+c:\users\nik\source\repos\CSharp OOP Basics Exam Retake - 26 April 2018\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.dll
+c:\users\nik\source\repos\CSharp OOP Basics Exam Retake - 26 April 2018\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.pdb
+c:\users\nik\source\repos\CSharp OOP Basics Exam Retake - 26 April 2018\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csprojAssemblyReference.cache
+c:\users\nik\source\repos\CSharp OOP Basics Exam Retake - 26 April 2018\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csproj.CoreCompileInputs.cache
+c:\users\nik\source\repos\CSharp OOP Basics Exam Retake - 26 April 2018\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfoInputs.cache
+c:\users\nik\source\repos\CSharp OOP Basics Exam Retake - 26 April 2018\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfo.cs
+c:\users\nik\source\repos\CSharp OOP Basics Exam Retake - 26 April 2018\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.dll
+c:\users\nik\source\repos\CSharp OOP Basics Exam Retake - 26 April 2018\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.pdb
