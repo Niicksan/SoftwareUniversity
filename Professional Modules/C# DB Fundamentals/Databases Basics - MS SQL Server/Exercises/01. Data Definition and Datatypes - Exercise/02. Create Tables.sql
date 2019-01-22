@@ -1,0 +1,10 @@
+CREATE TABLE Minions (
+ 	Id INT PRIMARY KEY NOT NULL,
+ 	[Name] NVARCHAR(50),
+ 	Age int
+ 	)
+ 	 
+ CREATE TABLE Towns (
+ 	Id INT PRIMARY KEY NOT NULL,
+ 	[Name] NVARCHAR(50)
+)
