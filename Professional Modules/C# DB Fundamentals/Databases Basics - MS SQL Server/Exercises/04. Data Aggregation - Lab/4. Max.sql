@@ -1,0 +1,4 @@
+SELECT e.DepartmentID,
+		MAX(e.Salary) AS MaxSalary
+	FROM Employees AS e
+GROUP BY e.DepartmentID;
