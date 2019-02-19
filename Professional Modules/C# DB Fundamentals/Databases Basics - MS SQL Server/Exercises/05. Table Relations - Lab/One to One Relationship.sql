@@ -1,0 +1,10 @@
+CREATE TABLE Drivers(
+  DriverID INT PRIMARY KEY,
+  DriverName VARCHAR(50)
+)
+
+CREATE TABLE Cars(
+  CarID INT PRIMARY KEY,
+  DriverID INT UNIQUE,
+  CONSTRAINT FK_Cars_Drivers FOREIGN KEY  (DriverID) REFERENCES Drivers(DriverID)
+)
