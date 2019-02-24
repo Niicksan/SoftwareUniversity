@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\3. Minion Names\bin\Debug\netcoreapp2.1\3. Minion Names.deps.json
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\3. Minion Names\bin\Debug\netcoreapp2.1\3. Minion Names.runtimeconfig.json
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\3. Minion Names\bin\Debug\netcoreapp2.1\3. Minion Names.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\3. Minion Names\bin\Debug\netcoreapp2.1\3. Minion Names.dll
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\3. Minion Names\obj\Debug\netcoreapp2.1\3. Minion Names.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\3. Minion Names\obj\Debug\netcoreapp2.1\3. Minion Names.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\3. Minion Names\obj\Debug\netcoreapp2.1\3. Minion Names.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\3. Minion Names\obj\Debug\netcoreapp2.1\3. Minion Names.AssemblyInfo.cs
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\3. Minion Names\bin\Debug\netcoreapp2.1\3. Minion Names.pdb
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\3. Minion Names\obj\Debug\netcoreapp2.1\3. Minion Names.dll
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\3. Minion Names\obj\Debug\netcoreapp2.1\3. Minion Names.pdb

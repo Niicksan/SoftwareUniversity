@@ -1,0 +1,10 @@
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\6. Remove Villain\bin\Debug\netcoreapp2.1\6. Remove Villain.deps.json
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\6. Remove Villain\bin\Debug\netcoreapp2.1\6. Remove Villain.runtimeconfig.json
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\6. Remove Villain\bin\Debug\netcoreapp2.1\6. Remove Villain.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\6. Remove Villain\bin\Debug\netcoreapp2.1\6. Remove Villain.dll
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\6. Remove Villain\obj\Debug\netcoreapp2.1\6. Remove Villain.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\6. Remove Villain\obj\Debug\netcoreapp2.1\6. Remove Villain.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\6. Remove Villain\obj\Debug\netcoreapp2.1\6. Remove Villain.AssemblyInfo.cs
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\6. Remove Villain\bin\Debug\netcoreapp2.1\6. Remove Villain.pdb
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\6. Remove Villain\obj\Debug\netcoreapp2.1\6. Remove Villain.dll
+C:\Users\Nik\source\repos\DB Advanced EF Core - DB Apps\6. Remove Villain\obj\Debug\netcoreapp2.1\6. Remove Villain.pdb
