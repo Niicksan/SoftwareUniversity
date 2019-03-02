@@ -1,0 +1,9 @@
+C:\Users\Nik\source\repos\02. DB Advanced - Mini ORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.deps.json
+C:\Users\Nik\source\repos\02. DB Advanced - Mini ORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\Nik\source\repos\02. DB Advanced - Mini ORM\MiniORM\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\Nik\source\repos\02. DB Advanced - Mini ORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\02. DB Advanced - Mini ORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\02. DB Advanced - Mini ORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\02. DB Advanced - Mini ORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.AssemblyInfo.cs
+C:\Users\Nik\source\repos\02. DB Advanced - Mini ORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\Nik\source\repos\02. DB Advanced - Mini ORM\MiniORM\obj\Debug\netcoreapp2.0\MiniORM.pdb
