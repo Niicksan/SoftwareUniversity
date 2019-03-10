@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\03. Introduction to Entity Framework Core\15. Remove Town\bin\Debug\netcoreapp2.1\15. Remove Town.deps.json
+C:\Users\Nik\source\repos\03. Introduction to Entity Framework Core\15. Remove Town\bin\Debug\netcoreapp2.1\15. Remove Town.runtimeconfig.json
+C:\Users\Nik\source\repos\03. Introduction to Entity Framework Core\15. Remove Town\bin\Debug\netcoreapp2.1\15. Remove Town.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\03. Introduction to Entity Framework Core\15. Remove Town\bin\Debug\netcoreapp2.1\15. Remove Town.dll
+C:\Users\Nik\source\repos\03. Introduction to Entity Framework Core\15. Remove Town\bin\Debug\netcoreapp2.1\02. Database First.dll
+C:\Users\Nik\source\repos\03. Introduction to Entity Framework Core\15. Remove Town\bin\Debug\netcoreapp2.1\02. Database First.pdb
+C:\Users\Nik\source\repos\03. Introduction to Entity Framework Core\15. Remove Town\obj\Debug\netcoreapp2.1\15. Remove Town.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\03. Introduction to Entity Framework Core\15. Remove Town\obj\Debug\netcoreapp2.1\15. Remove Town.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\03. Introduction to Entity Framework Core\15. Remove Town\obj\Debug\netcoreapp2.1\15. Remove Town.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\03. Introduction to Entity Framework Core\15. Remove Town\obj\Debug\netcoreapp2.1\15. Remove Town.AssemblyInfo.cs
+C:\Users\Nik\source\repos\03. Introduction to Entity Framework Core\15. Remove Town\obj\Debug\netcoreapp2.1\15. Remove Town.csproj.CopyComplete

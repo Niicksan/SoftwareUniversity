@@ -1,0 +1,10 @@
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. Introduction to Entity Framework Core\11. 10 Proj\bin\Debug\netcoreapp2.1\11. 10 Proj.deps.json
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. Introduction to Entity Framework Core\11. 10 Proj\bin\Debug\netcoreapp2.1\11. 10 Proj.runtimeconfig.json
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. Introduction to Entity Framework Core\11. 10 Proj\bin\Debug\netcoreapp2.1\11. 10 Proj.runtimeconfig.dev.json
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. Introduction to Entity Framework Core\11. 10 Proj\bin\Debug\netcoreapp2.1\11. 10 Proj.dll
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. Introduction to Entity Framework Core\11. 10 Proj\bin\Debug\netcoreapp2.1\02. Database First.dll
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. Introduction to Entity Framework Core\11. 10 Proj\bin\Debug\netcoreapp2.1\02. Database First.pdb
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. Introduction to Entity Framework Core\11. 10 Proj\obj\Debug\netcoreapp2.1\11. 10 Proj.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. Introduction to Entity Framework Core\11. 10 Proj\obj\Debug\netcoreapp2.1\11. 10 Proj.AssemblyInfoInputs.cache
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. Introduction to Entity Framework Core\11. 10 Proj\obj\Debug\netcoreapp2.1\11. 10 Proj.AssemblyInfo.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\03. Introduction to Entity Framework Core\11. 10 Proj\obj\Debug\netcoreapp2.1\11. 10 Proj.csproj.CopyComplete
