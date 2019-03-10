@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Code First\1. Hospital Database\bin\Debug\netcoreapp2.1\1. Hospital Database.deps.json
+C:\Users\Nik\source\repos\04. Code First\1. Hospital Database\bin\Debug\netcoreapp2.1\1. Hospital Database.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Code First\1. Hospital Database\bin\Debug\netcoreapp2.1\1. Hospital Database.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Code First\1. Hospital Database\bin\Debug\netcoreapp2.1\1. Hospital Database.dll
+C:\Users\Nik\source\repos\04. Code First\1. Hospital Database\obj\Debug\netcoreapp2.1\1. Hospital Database.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Code First\1. Hospital Database\obj\Debug\netcoreapp2.1\1. Hospital Database.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Code First\1. Hospital Database\obj\Debug\netcoreapp2.1\1. Hospital Database.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Code First\1. Hospital Database\obj\Debug\netcoreapp2.1\1. Hospital Database.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Code First\1. Hospital Database\bin\Debug\netcoreapp2.1\1. Hospital Database.pdb
+C:\Users\Nik\source\repos\04. Code First\1. Hospital Database\obj\Debug\netcoreapp2.1\1. Hospital Database.dll
+C:\Users\Nik\source\repos\04. Code First\1. Hospital Database\obj\Debug\netcoreapp2.1\1. Hospital Database.pdb

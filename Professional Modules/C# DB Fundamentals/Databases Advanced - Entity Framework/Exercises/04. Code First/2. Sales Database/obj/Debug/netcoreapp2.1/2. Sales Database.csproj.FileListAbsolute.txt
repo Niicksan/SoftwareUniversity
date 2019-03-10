@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\04. Code First\2. Sales Database\bin\Debug\netcoreapp2.1\2. Sales Database.deps.json
+C:\Users\Nik\source\repos\04. Code First\2. Sales Database\bin\Debug\netcoreapp2.1\2. Sales Database.runtimeconfig.json
+C:\Users\Nik\source\repos\04. Code First\2. Sales Database\bin\Debug\netcoreapp2.1\2. Sales Database.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\04. Code First\2. Sales Database\bin\Debug\netcoreapp2.1\2. Sales Database.dll
+C:\Users\Nik\source\repos\04. Code First\2. Sales Database\obj\Debug\netcoreapp2.1\2. Sales Database.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\04. Code First\2. Sales Database\obj\Debug\netcoreapp2.1\2. Sales Database.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\04. Code First\2. Sales Database\obj\Debug\netcoreapp2.1\2. Sales Database.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\04. Code First\2. Sales Database\obj\Debug\netcoreapp2.1\2. Sales Database.AssemblyInfo.cs
+C:\Users\Nik\source\repos\04. Code First\2. Sales Database\bin\Debug\netcoreapp2.1\2. Sales Database.pdb
+C:\Users\Nik\source\repos\04. Code First\2. Sales Database\obj\Debug\netcoreapp2.1\2. Sales Database.dll
+C:\Users\Nik\source\repos\04. Code First\2. Sales Database\obj\Debug\netcoreapp2.1\2. Sales Database.pdb
