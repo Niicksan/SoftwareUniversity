@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\05. Entity Relations\1. Student System\bin\Debug\netcoreapp2.1\1. Student System.deps.json
+C:\Users\Nik\source\repos\05. Entity Relations\1. Student System\bin\Debug\netcoreapp2.1\1. Student System.runtimeconfig.json
+C:\Users\Nik\source\repos\05. Entity Relations\1. Student System\bin\Debug\netcoreapp2.1\1. Student System.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\05. Entity Relations\1. Student System\bin\Debug\netcoreapp2.1\1. Student System.dll
+C:\Users\Nik\source\repos\05. Entity Relations\1. Student System\obj\Debug\netcoreapp2.1\1. Student System.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\05. Entity Relations\1. Student System\obj\Debug\netcoreapp2.1\1. Student System.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\05. Entity Relations\1. Student System\obj\Debug\netcoreapp2.1\1. Student System.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\05. Entity Relations\1. Student System\obj\Debug\netcoreapp2.1\1. Student System.AssemblyInfo.cs
+C:\Users\Nik\source\repos\05. Entity Relations\1. Student System\bin\Debug\netcoreapp2.1\1. Student System.pdb
+C:\Users\Nik\source\repos\05. Entity Relations\1. Student System\obj\Debug\netcoreapp2.1\1. Student System.dll
+C:\Users\Nik\source\repos\05. Entity Relations\1. Student System\obj\Debug\netcoreapp2.1\1. Student System.pdb
