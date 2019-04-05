@@ -1,0 +1,11 @@
+C:\Users\Nik\source\repos\C# DB Advanced Retake Exam - 01.09.2018\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.deps.json
+C:\Users\Nik\source\repos\C# DB Advanced Retake Exam - 01.09.2018\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.json
+C:\Users\Nik\source\repos\C# DB Advanced Retake Exam - 01.09.2018\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.dev.json
+C:\Users\Nik\source\repos\C# DB Advanced Retake Exam - 01.09.2018\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.dll
+C:\Users\Nik\source\repos\C# DB Advanced Retake Exam - 01.09.2018\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.pdb
+C:\Users\Nik\source\repos\C# DB Advanced Retake Exam - 01.09.2018\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csprojAssemblyReference.cache
+C:\Users\Nik\source\repos\C# DB Advanced Retake Exam - 01.09.2018\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csproj.CoreCompileInputs.cache
+C:\Users\Nik\source\repos\C# DB Advanced Retake Exam - 01.09.2018\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfoInputs.cache
+C:\Users\Nik\source\repos\C# DB Advanced Retake Exam - 01.09.2018\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfo.cs
+C:\Users\Nik\source\repos\C# DB Advanced Retake Exam - 01.09.2018\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.dll
+C:\Users\Nik\source\repos\C# DB Advanced Retake Exam - 01.09.2018\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.pdb
