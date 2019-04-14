@@ -184,12 +184,54 @@ GROUP BY sub.Name, sub.Id
 ORDER BY sub.Id;
 
 --17. Exams Information
-
+SELECT t.Id, a.FirstName +' '+ ISNULL(a.MiddleName+' ', '') + LastName AS FullName,
+c.Name AS [From],
+hc.Name AS [To],
+CASE
+WHEN t.CancelDate IS NOT NULL THEN 'Canceled'
+ELSE CONVERT(VARCHAR(10),DATEDIFF(DAY, ArrivalDate, ReturnDate)) + ' days' 
+END AS Duration
+ FROM Trips AS t
+ JOIN Rooms AS r
+ ON r.Id = t.RoomId
+ JOIN Hotels AS h
+ ON h.Id = r.HotelId
+ JOIN Cities AS hc
+ ON hc.Id = h.CityId
+JOIN AccountsTrips AS at
+ON at.TripId = t.Id
+JOIN Accounts AS a
+ON a.Id = at.AccountId
+JOIN Cities AS c
+ON c.Id = a.CityId
+ORDER BY FullName, t.Id
 
 --18. Exam Grades
+SELECT dbo.udf_GetAvailableRoom(112, '2011-12-17', 2)
+SELECT dbo.udf_GetAvailableRoom(94, '2015-07-26', 3)
 
+ALTER FUNCTION udf_GetAvailableRoom(@HotelId INT, @Date DATETIME2, @People INT) RETURNS VARCHAR(MAX)
+AS BEGIN
+   DECLARE @AvailableRoom NVARCHAR(MAX)= (SELECT TOP(1) CONCAT('Room ', r.Id, ': ', r.Type,' (', r.Beds, ' beds) - $', (h.BaseRate + r.Price) * @People)
+                  FROM Hotels AS h
+                  JOIN Rooms AS r
+                  ON r.HotelId = h.Id
+                  JOIN Trips AS t
+                  ON t.RoomId = r.Id
+                  WHERE @Date NOT BETWEEN t.ArrivalDate AND t.ReturnDate 
+                  AND h.Id = @HotelId AND r.Beds > @People
+				  AND t.CancelDate IS NULL
+                  ORDER BY r.Price DESC)
 
---19.
+		IF(@AvailableRoom IS NULL)
+		BEGIN
+		   RETURN 'No rooms available' 
+		END 
+		
+		  RETURN @AvailableRoom	
+END
+
+--19. Exclude from school
 GO
 
 CREATE PROCEDURE usp_ExcludeFromSchool(@StudentId INT)
