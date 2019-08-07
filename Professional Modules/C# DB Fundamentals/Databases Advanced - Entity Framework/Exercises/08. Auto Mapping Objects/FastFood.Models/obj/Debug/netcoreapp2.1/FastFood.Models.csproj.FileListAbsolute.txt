@@ -7,3 +7,12 @@ C:\Users\Nik\Desktop\New folder(2)\FastFood.Models\obj\Debug\netcoreapp2.1\FastF
 C:\Users\Nik\Desktop\New folder(2)\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfo.cs
 C:\Users\Nik\Desktop\New folder(2)\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.dll
 C:\Users\Nik\Desktop\New folder(2)\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.pdb
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.deps.json
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.csprojAssemblyReference.cache
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfoInputs.cache
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfo.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.dll
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.pdb

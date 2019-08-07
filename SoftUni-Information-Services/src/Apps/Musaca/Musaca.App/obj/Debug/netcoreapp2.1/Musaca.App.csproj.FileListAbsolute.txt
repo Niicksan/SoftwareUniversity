@@ -1,0 +1,4 @@
+C:\Users\Nik\Desktop\SoftUni-Information-Services\src\Apps\Musaca\Musaca.App\obj\Debug\netcoreapp2.1\Musaca.App.csprojAssemblyReference.cache
+C:\Users\Nik\Desktop\SoftUni-Information-Services\src\Apps\Musaca\Musaca.App\obj\Debug\netcoreapp2.1\Musaca.App.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\SoftUni-Information-Services\src\Apps\Musaca\Musaca.App\obj\Debug\netcoreapp2.1\Musaca.App.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\SoftUni-Information-Services\src\Apps\Musaca\Musaca.App\obj\Debug\netcoreapp2.1\Musaca.App.AssemblyInfo.cs

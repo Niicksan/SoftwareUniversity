@@ -41,3 +41,46 @@ C:\Users\Nik\Desktop\New folder(2)\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood
 C:\Users\Nik\Desktop\New folder(2)\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.csproj.CopyComplete
 C:\Users\Nik\Desktop\New folder(2)\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.dll
 C:\Users\Nik\Desktop\New folder(2)\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.pdb
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.deps.json
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.runtimeconfig.json
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.runtimeconfig.dev.json
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.dll
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.pdb
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.Views.dll
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Web.Views.pdb
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Data.dll
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Data.pdb
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.csprojAssemblyReference.cache
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.csproj.CoreCompileInputs.cache
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorAssemblyInfo.cache
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorAssemblyInfo.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.AssemblyInfoInputs.cache
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.AssemblyInfo.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.TagHelpers.input.cache
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.TagHelpers.output.cache
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorCoreGenerate.cache
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Categories\All.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Employees\All.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Register.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Items\All.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Items\Create.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Orders\All.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Positions\All.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Positions\Create.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorTargetAssemblyInfo.cache
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.RazorTargetAssemblyInfo.cs
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.Views.pdb
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.csproj.CopyComplete
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.dll
+E:\SoftwareUniversity\Professional Modules\C# DB Fundamentals\Databases Advanced - Entity Framework\Exercises\08. Auto Mapping Objects\FastFood.Web\obj\Debug\netcoreapp2.1\FastFood.Web.pdb

@@ -1,0 +1,8 @@
+C:\Users\Nik\Desktop\SoftUni-Information-Services\src\Apps\SkandauLyrics\SkandauLyrics.Data\bin\Debug\netstandard2.0\SkandauLyrics.Data.deps.json
+C:\Users\Nik\Desktop\SoftUni-Information-Services\src\Apps\SkandauLyrics\SkandauLyrics.Data\bin\Debug\netstandard2.0\SkandauLyrics.Data.dll
+C:\Users\Nik\Desktop\SoftUni-Information-Services\src\Apps\SkandauLyrics\SkandauLyrics.Data\obj\Debug\netstandard2.0\SkandauLyrics.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Desktop\SoftUni-Information-Services\src\Apps\SkandauLyrics\SkandauLyrics.Data\obj\Debug\netstandard2.0\SkandauLyrics.Data.AssemblyInfoInputs.cache
+C:\Users\Nik\Desktop\SoftUni-Information-Services\src\Apps\SkandauLyrics\SkandauLyrics.Data\obj\Debug\netstandard2.0\SkandauLyrics.Data.AssemblyInfo.cs
+C:\Users\Nik\Desktop\SoftUni-Information-Services\src\Apps\SkandauLyrics\SkandauLyrics.Data\bin\Debug\netstandard2.0\SkandauLyrics.Data.pdb
+C:\Users\Nik\Desktop\SoftUni-Information-Services\src\Apps\SkandauLyrics\SkandauLyrics.Data\obj\Debug\netstandard2.0\SkandauLyrics.Data.dll
+C:\Users\Nik\Desktop\SoftUni-Information-Services\src\Apps\SkandauLyrics\SkandauLyrics.Data\obj\Debug\netstandard2.0\SkandauLyrics.Data.pdb

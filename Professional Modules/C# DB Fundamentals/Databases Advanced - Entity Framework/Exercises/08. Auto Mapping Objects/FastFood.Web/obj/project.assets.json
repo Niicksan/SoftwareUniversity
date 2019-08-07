@@ -11896,11 +11896,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nik\\Desktop\\New folder(2)\\FastFood.Web\\FastFood.Web.csproj",
+      "projectUniqueName": "E:\\SoftwareUniversity\\Professional Modules\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\Exercises\\08. Auto Mapping Objects\\FastFood.Web\\FastFood.Web.csproj",
       "projectName": "FastFood.Web",
-      "projectPath": "C:\\Users\\Nik\\Desktop\\New folder(2)\\FastFood.Web\\FastFood.Web.csproj",
+      "projectPath": "E:\\SoftwareUniversity\\Professional Modules\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\Exercises\\08. Auto Mapping Objects\\FastFood.Web\\FastFood.Web.csproj",
       "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nik\\Desktop\\New folder(2)\\FastFood.Web\\obj\\",
+      "outputPath": "E:\\SoftwareUniversity\\Professional Modules\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\Exercises\\08. Auto Mapping Objects\\FastFood.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11919,8 +11919,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Nik\\Desktop\\New folder(2)\\FastFood.Data\\FastFood.Data.csproj": {
-              "projectPath": "C:\\Users\\Nik\\Desktop\\New folder(2)\\FastFood.Data\\FastFood.Data.csproj"
+            "E:\\SoftwareUniversity\\Professional Modules\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\Exercises\\08. Auto Mapping Objects\\FastFood.Data\\FastFood.Data.csproj": {
+              "projectPath": "E:\\SoftwareUniversity\\Professional Modules\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\Exercises\\08. Auto Mapping Objects\\FastFood.Data\\FastFood.Data.csproj"
             }
           }
         }

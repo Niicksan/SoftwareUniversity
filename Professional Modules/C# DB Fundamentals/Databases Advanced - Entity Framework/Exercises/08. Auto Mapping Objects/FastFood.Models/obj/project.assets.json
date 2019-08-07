@@ -1469,11 +1469,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nik\\Desktop\\New folder(2)\\FastFood.Models\\FastFood.Models.csproj",
+      "projectUniqueName": "E:\\SoftwareUniversity\\Professional Modules\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\Exercises\\08. Auto Mapping Objects\\FastFood.Models\\FastFood.Models.csproj",
       "projectName": "FastFood.Models",
-      "projectPath": "C:\\Users\\Nik\\Desktop\\New folder(2)\\FastFood.Models\\FastFood.Models.csproj",
+      "projectPath": "E:\\SoftwareUniversity\\Professional Modules\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\Exercises\\08. Auto Mapping Objects\\FastFood.Models\\FastFood.Models.csproj",
       "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nik\\Desktop\\New folder(2)\\FastFood.Models\\obj\\",
+      "outputPath": "E:\\SoftwareUniversity\\Professional Modules\\C# DB Fundamentals\\Databases Advanced - Entity Framework\\Exercises\\08. Auto Mapping Objects\\FastFood.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
