@@ -1,0 +1,79 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+html {
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.main {
+  margin: 0 auto;
+  width: 80%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, serif;
+  font-weight:  normal;
+}
+
+.first_hr {
+  height: 1px;
+}
+
+/*.first {
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  margin-top:  30px;
+  margin-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}*/
+
+.disc, .circle {
+  line-height: 1.8;
+  padding-left: 20px;
+}
+
+table {
+  margin-top: 3%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+table, td, th {
+  border: 1px solid rgb(221, 221, 221);
+  border-spacing: 0px;
+}
+
+table tr th {
+  background: rgb(221, 221, 221);
+  width: 33%;
+}
+
+tr:nth-child(odd) {
+  background: rgb(241, 241, 241);
+}
+
+.table tr:hover, tr:hover th {
+  background: rgb(0, 0, 0);
+  color: rgb(255, 255 ,255);
+  border-left: none;
+  border-right: none;
+}
+
+.table tr:hover td, tr:hover th{
+  border: 1px solid rgb(0, 0, 0);
+}
+
+blockquote {
+  font-style: italic;
+  border-left: 4px solid #DDDDDD;
+  padding-top: 15px;
+  padding-left: 30px;
+  padding-bottom: 65px;
+}
+
+span {
+  float: right;
+}

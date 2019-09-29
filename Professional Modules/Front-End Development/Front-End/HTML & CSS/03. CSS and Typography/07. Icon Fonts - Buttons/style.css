@@ -1,0 +1,21 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+a {
+  color: rgba(255, 255, 255);
+  border-radius: 5px;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+
+p {
+  margin-left: 5%;
+  margin-top: 3%;
+}
+
+.click_me {
+  background: green;
+}
+
+.email_me {
+  background: orange;
+}
