@@ -1,0 +1,49 @@
+html {
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.2;
+  width: 80%;
+  margin: 1em auto;
+}
+
+header {
+  border-bottom: 2px solid;
+  margin: 2em auto;
+  padding: 2em auto;
+}
+
+h2 {
+  font-family: Georgia, serif;
+  font-size: 2em;
+  font-weight: normal;
+  line-height: 1.2;
+}
+
+.logo {
+  display:inline-block;
+  font-size: 3em;
+  text-transform: uppercase;
+  margin-right: 3em;
+}
+
+nav {
+  display:inline-block;
+}
+
+nav ul {
+  display:inline-block;
+  text-align: center;
+  vertical-align: middle;
+  padding: 0px;
+  margin: 0px;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav li a {
+  color: RGB(3,154,5);
+  text-decoration: none;
+  margin: 0.8em;
+}

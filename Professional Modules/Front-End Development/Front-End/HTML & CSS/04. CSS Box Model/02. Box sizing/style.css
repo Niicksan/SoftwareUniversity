@@ -1,0 +1,18 @@
+html {
+  box-sizing:border-box;
+  margin: 0;
+  padding: 0;
+}
+section {
+  text-align: center;
+  width: 250px;
+  height: 250px;
+  border: 4px dotted RGB(35,202,133);
+  margin: 4em auto;
+}
+
+section p {
+  width: 80%;
+  border: 5px solid RGB(9,54,202);
+  padding: 20px;
+}
