@@ -1,0 +1,17 @@
+@media (max-width: 768px) {
+  .gallery > *{
+    width: 100%;
+  }
+
+  .spotlight > *{
+    width: 100%;
+  }
+
+  .spotlight inner {
+    padding: 1em;
+  }
+
+  .spotlight .inner h3 {
+    text-align: center;
+  }
+}
