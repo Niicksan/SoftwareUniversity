@@ -1,0 +1,30 @@
+@media screen and (max-width: 768px) {
+  footer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 1236px) {
+  .big_article {
+    width: 100%;
+    height: auto;
+  }
+
+  .row_articles {
+    flex: none;
+    display: block;
+    width: 100%;
+  }
+
+  main ul .article {
+    width: 100%;
+  }
+
+  main ul .article img {
+    width: 100%;
+    height: auto;
+  }
+}
